@@ -14,11 +14,10 @@
 
 
 					<ul class="menu">
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17"><a href="index.html">Inicio</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="corporate-2-about\index.html">Acerca de Nosotros</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="corporate-2-news\index.html">Productos</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="corporate-2-contact-us\index.html">Contactanos</a></li>
-
+						<li <?=($activepageresponsive=="index")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 menu-item-17"':'class ="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-6 menu-item-17"'?>><a href="index.php">Inicio</a></li>
+						<li <?=($activepageresponsive=="about")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95 current-menu-item"':'class ="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"'?>><a href="about.php">Acerca de Nosotros</a></li>
+						<li <?=($activepageresponsive=="products")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213 current-menu-item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"'?>><a href="products.php">Productos</a></li>
+						<li <?=($activepageresponsive=="contact-us")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current-menu-item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"'?>><a href="contact-us.php">Contactanos</a></li>
 					</ul>
 
 					<ul class="menu secondary-header-items">					</ul>

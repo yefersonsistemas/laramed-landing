@@ -107,6 +107,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 	</div><!--/search-->
 </div><!--/search-outer-->	
 	<?php
+	$activepage = "contact-us";
 require 'header.php';
 ?>
 			
@@ -217,6 +218,7 @@ require 'footer.php';
 ?>
 
 <?php
+$activepageresponsive = "contact-us";
 require 'header-responsive.php';
 ?>
 

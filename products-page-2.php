@@ -108,6 +108,7 @@ require 'script-header.php';
 					</div><!--/search-->
 				</div><!--/search-outer-->	
 				<?php
+				$activepage = "products";
 				require 'header.php';
 				?>
 
@@ -546,6 +547,7 @@ require 'script-header.php';
 		?>
 
 		<?php
+		$activepageresponsive = "products";
 		require 'header-responsive.php';
 		?>
 

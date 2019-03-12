@@ -46,9 +46,6 @@ html:not(.page-trans-loaded) { background-color: #ffffff; }
 html body[data-header-resize="1"] .container-wrap, html body[data-header-resize="0"] .container-wrap, body[data-header-format="left-header"][data-header-resize="0"] .container-wrap { padding-top: 0; }
 </style>
 <link rel='stylesheet' id='magnific-css' href='wp-content\themes\salient\css\magnific.css?ver=8.6.0' type='text/css' media='all'>
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='nectar-ie8-css'  href='http://themenectar.com/demo/salient-corporate-2/wp-content/themes/salient/css/ie8.css?ver=4.9.9' type='text/css' media='all' />
-<![endif]-->
 <link rel='stylesheet' id='responsive-css' href='wp-content\themes\salient\css\responsive.css?ver=8.6768' type='text/css' media='all'>
 <link rel='stylesheet' id='iconsmind-css' href='wp-content\themes\salient\css\iconsmind.css?ver=7.6' type='text/css' media='all'>
 <link rel='stylesheet' id='skin-material-css' href='wp-content\themes\salient\css\skin-material.css?ver=8.6768' type='text/css' media='all'>
@@ -104,6 +101,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 				</div><!--/search-->
 			</div><!--/search-outer-->	
 			<?php
+			$activepage = "index";
 			require 'header.php';
 			?>
 		</div><!--/header-outer-->
@@ -591,6 +589,7 @@ require 'footer.php';
 ?>
 
 <?php
+$activepageresponsive = "index";
 require 'header-responsive.php';
 ?>
 
