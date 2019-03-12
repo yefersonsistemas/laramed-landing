@@ -101,59 +101,10 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 					</div><!--/container-->
 				</div><!--/search-->
 			</div><!--/search-outer-->	
-			<header id="top">
-				<div class="container">
-					<div class="row">
-						<div class="col span_3">
-							<a id="logo" href="http://themenectar.com/demo/salient-corporate-2" data-supplied-ml="false">
-								<img class="stnd default-logo" alt="Salient Corporate Creative" src="wp-content\uploads\2017\09\laramed.png" srcset="wp-content\uploads\2017\09\laramed.png 1x, wp-content\uploads\2017\09\laramed.png 2x">
-								<img class="starting-logo default-logo" alt="Salient Corporate Creative" src="wp-content\uploads\2017\09\laramed.png" srcset="wp-content\uploads\2017\09\laramed.png 1x, wp-content\uploads\2017\09\laramed.png 2x">
-								<img class="starting-logo dark-version default-logo" alt="Salient Corporate Creative" src="wp-content\uploads\2017\09\laramed.png" srcset="wp-content\uploads\2017\09\laramed.png 1x, wp-content\uploads\2017\09\laramed.png 2x"> 
-							</a>
-
-						</div><!--/span_3-->
-
-						<div class="col span_9 col_last">
-							<div class="slide-out-widget-area-toggle mobile-icon slide-out-from-right" data-icon-animation="simple-transform">
-								<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div> 
-							</div>
-
-
-							<nav>
-
-								<ul class="sf-menu">	
-									<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17"><a href="index.html">Inicio</a></li>
-									<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="corporate-2-about\index.html">Acerca de Nosotros</a></li>
-									<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="corporate-2-news\index.html">Productos</a></li>
-									<li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="corporate-2-contact-us\index.html">Contactanos</a></li>
-								</ul>
-
-
-
-								<ul class="buttons" data-user-set-ocm="1">
-
-									<li class="slide-out-widget-area-toggle" data-icon-animation="simple-transform"><div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div></li>								
-								</ul>
-
-
-							</nav>
-
-
-							<div class="logo-spacing"><img class="hidden-logo" alt="Salient Corporate 2" src="wp-content\uploads\2017\09\logo-robot.png"></div>					
-						</div><!--/span_9-->
-
-
-					</div><!--/row-->
-				</div><!--/container-->
-			</header>
-
-
-			
+			<?php
+			require 'header.php';
+			?>
 		</div><!--/header-outer-->
-
-
-
-
 
 		<div id="ajax-content-wrap">
 
@@ -633,128 +584,13 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 </div><!--/container-->
 </div><!--/container-wrap-->
 
+<?php
+require 'footer.php';
+?>
 
-<div id="footer-outer" data-midnight="light" data-cols="5" data-custom-color="true" data-disable-copyright="true" data-matching-section-color="true" data-copyright-line="true" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true">
-	
-	
-
-	<div id="footer-widgets" data-cols="5">
-		
-		<div class="container">
-			
-
-			<div class="row">
-				
-
-				<div class="col span_3">
-					<!-- Footer widget area 1 -->
-					<div id="text-3" class="widget widget_text">			<div class="textwidget"><p>Copyright © 2017 Salient WordPress Theme.<br>
-						Built with love in New York<br>
-					All rights reserved.</p>
-				</div>
-			</div>				</div><!--/span_3-->
-
-
-			<div class="col span_3">
-				<!-- Footer widget area 2 -->
-				<div id="nav_menu-2" class="widget widget_nav_menu"><h4>Discover</h4><div class="menu-corporate-2-nav-container"><ul id="menu-corporate-2-nav-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17"><a href="index.html">Inicio</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="corporate-2-about\index.html">Acerca de Nosotros</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="corporate-2-about\index.html">Productos</a></li>
-					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="corporate-2-contact-us\index.html">Contactanos</a></li>
-				</ul></div></div>					     
-			</div><!--/span_3-->
-
-
-
-			<div class="col span_3">
-				<!-- Footer widget area 3 -->
-				<div id="categories-2" class="widget widget_categories"><h4>Categories</h4>		<ul>
-					<li class="cat-item cat-item-4"><a href="category\fashion\index.html">Fashion</a>
-					</li>
-					<li class="cat-item cat-item-14"><a href="category\food-for-thought\index.html">Food for thought</a>
-					</li>
-					<li class="cat-item cat-item-5"><a href="category\gaming\index.html">Gaming</a>
-					</li>
-					<li class="cat-item cat-item-3"><a href="category\music\index.html">Music</a>
-					</li>
-					<li class="cat-item cat-item-1"><a href="category\uncategorized\index.html">Uncategorized</a>
-					</li>
-				</ul>
-			</div>					     
-		</div><!--/span_3-->
-
-		<div class="col span_3">
-			<!-- Footer widget area 4 -->
-			<div id="recent-posts-2" class="widget widget_recent_entries">		<h4>Recent Posts</h4>		<ul>
-				<li>
-					<a href="doing-a-cross-country-road-trip\index.html">Doing a cross country road trip</a>
-				</li>
-				<li>
-					<a href="we-encountered-a-food-paradise\index.html">We encountered a food paradise</a>
-				</li>
-				<li>
-					<a href="deep-down-in-the-water\index.html">Deep down in the water</a>
-				</li>
-				<li>
-					<a href="10-tips-for-what-to-do-downtown\index.html">10 Tips for what to do downtown</a>
-				</li>
-			</ul>
-		</div>					     
-	</div><!--/span_3-->
-
-</div><!--/row-->
-
-
-</div><!--/container-->
-
-</div><!--/footer-widgets-->
-
-
-</div><!--/footer-outer-->
-
-
-<div id="slide-out-widget-area-bg" class="slide-out-from-right dark"></div>
-<div id="slide-out-widget-area" class="slide-out-from-right" data-dropdown-func="separate-dropdown-parent-link" data-back-txt="Back">
-
-	<div class="inner-wrap">
-		<div class="inner" data-prepend-menu-mobile="true">
-
-			<a class="slide_out_area_close" href="#">
-				<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span>		  </a>
-
-
-				<div class="off-canvas-menu-container mobile-only">
-
-
-					<ul class="menu">
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17"><a href="index.html">Inicio</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="corporate-2-about\index.html">Acerca de Nosotros</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="corporate-2-news\index.html">Productos</a></li>
-						<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="corporate-2-contact-us\index.html">Contactanos</a></li>
-
-					</ul>
-
-					<ul class="menu secondary-header-items">					</ul>
-				</div>
-				<div id="text-2" class="widget widget_text"><h4>Wow look at this!</h4>			<div class="textwidget"><p>This is an optional, highly<br>
-				customizable off canvas area.</p>
-			</div>
-		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>About Salient</h4>
-			<div class="textwidget">
-				<p>The Castle<br>
-					Unit 345<br>
-					2500 Castle Dr<br>
-				Manhattan, NY</p>
-				<p>T: <a href="..\salient-ascend\index.html#">+216 (0)40 3629 4753</a><br>
-					E: <a href="..\salient-ascend\index.html#">hello@themenectar.com</a></p>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="bottom-meta-wrap"><ul class="off-canvas-social-links"></ul></div><!--/bottom-meta-wrap--></div> <!--/inner-wrap-->
-</div>
-
+<?php
+require 'header-responsive.php';
+?>
 
 </div> <!--/ajax-content-wrap-->
 
