@@ -9,7 +9,7 @@
 
 	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
-	<title>Laramed - Home</title>
+	<title>Laramed - Acerca de Nosotros</title>
 	
 	<link rel='stylesheet' id='rgs-css' href='css\rgs.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='main-styles-css' href='css\style.css' type='text/css' media='all'>
