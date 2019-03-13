@@ -172,12 +172,6 @@ button::-moz-focus-inner {
   padding-right: 6px;
   width: 100%; }
 
-.mfp-image-holder .mfp-close:before, .mfp-iframe-holder .mfp-close:before {
-  content: "\e117";
-  font-size: 20px;
-  display: block;
-}
-
 .mfp-counter {
   position: absolute;
   top: 0;

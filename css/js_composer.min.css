@@ -46,16 +46,6 @@
   clear: both;
 }
 
-.vc-composer-icon,
-[class*=" vc_arrow-icon-"],
-[class^=vc_arrow-icon-] {
-    speak: none;
-    font-variant: normal;
-    text-transform: none;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale
-}
-
 .vc_row:after,
 .vc_row:before {
     content: " ";
@@ -1722,13 +1712,6 @@ body .vc_row-fluid.full-width-content .vc_col-xs-1\/5 {
 
 .vc_pixel_icon-video {
     background-image: url(../images/icons/video.png)
-}
-
-@font-face {
-    font-family: VC-Icons;
-    src: url(../fonts/vc_icons/fonts/VC-Icons.ttf) format('truetype'), url(../fonts/vc_icons/fonts/VC-Icons.woff) format('woff'), url(../fonts/vc_icons/fonts/VC-Icons.svg) format('svg');
-    font-weight: 400;
-    font-style: normal
 }
 
 .vc-composer-icon {
@@ -7720,22 +7703,6 @@ body .wpb_gallery_slides ul li {
 
 .vc-hoverbox-wrapper.vc-hoverbox-direction--reverse .vc-hoverbox:hover .vc-hoverbox-back {
     transform: rotateY(-180deg)
-}
-
-@font-face {
-    font-family: vc_grid_v1;
-    src: url(../fonts/vc_grid/vc_grid_v1.eot);
-    src: url(../fonts/vc_grid/vc_grid_v1-1.eot) format('embedded-opentype'), url(../fonts/vc_grid/vc_grid_v1.woff) format('woff'), url(../fonts/vc_grid/vc_grid_v1.ttf) format('truetype'), url(../fonts/vc_grid/vc_grid_v1.svg) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
-
-[class*=" vc_arrow-icon-"],
-[class^=vc_arrow-icon-] {
-    font-family: vc_grid_v1;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1
 }
 
 .vc_arrow-icon-minus:before {

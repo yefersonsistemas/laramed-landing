@@ -2196,17 +2196,6 @@ border-radius:0!important;
 padding: 0;
 }
 
- .material .comment-list .reply a:before {
-   content: "\f112";
-   display: inline-block;
-font: normal normal normal 14px/1 FontAwesome;
-font-size: inherit;
-text-rendering: auto;
--webkit-font-smoothing: antialiased;
-transform: rotate(180deg);
-padding-left: 6px;
- }
-
 .comment-list .comment-meta { font-size: 13px;}
 
 html .comment-list .reply a:hover {
@@ -2401,56 +2390,6 @@ right:30px
  a.pp_arrow_next:hover, a.pp_arrow_previous:hover, .mfp-arrow-right:hover, .mfp-arrow-left:hover,
 .woocommerce .pswp__button--arrow--right:hover, .woocommerce .pswp__button--arrow--left:hover {
 border:2px solid rgba(255,255,255,0)
-}
-
- a.pp_arrow_previous .icon-default-style {
-border-radius:0!important;
-width:20px!important;
-height:40px!important;
-line-height:39px!important;
-font-size:24px!important;
-font-family:FontAwesome!important;
-margin-top:0!important;
-left:-1px;
-transition:all .35s cubic-bezier(0.12,0.75,0.4,1);
--webkit-transition:all .35s cubic-bezier(0.12,0.75,0.4,1)
-}
-
- .mfp-arrow-left, .woocommerce .pswp__button--arrow--left {
-height:40px!important;
-line-height:40px!important;
-font-size:24px!important;
-font-family:FontAwesome!important;
-margin-top:0!important;
-opacity:1;
-left:40px;
-transition:all .35s cubic-bezier(0.12,0.75,0.4,1);
--webkit-transition:all .35s cubic-bezier(0.12,0.75,0.4,1)
-}
-
- a.pp_arrow_next .icon-default-style {
-border-radius:0!important;
-width:20px!important;
-line-height:39px!important;
-height:40px!important;
-font-size:24px!important;
-margin-top:0!important;
-font-family:FontAwesome!important;
-left:1px;
-transition:all .35s cubic-bezier(0.12,0.75,0.4,1);
--webkit-transition:all .35s cubic-bezier(0.12,0.75,0.4,1)
-}
-
- .mfp-arrow-right, .woocommerce .pswp__button--arrow--right {
-line-height:40px!important;
-height:40px!important;
-font-size:24px!important;
-margin-top:0!important;
-font-family:FontAwesome!important;
-opacity:1;
-right:40px;
-transition:all .35s cubic-bezier(0.12,0.75,0.4,1);
--webkit-transition:all .35s cubic-bezier(0.12,0.75,0.4,1)
 }
 
  a.pp_arrow_previous .icon-default-style:after, a.pp_arrow_next .icon-default-style:after, .mfp-arrow-left:after, .mfp-arrow-right:after,

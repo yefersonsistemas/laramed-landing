@@ -10,20 +10,20 @@
 	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
 	<title>Laramed - Home</title>
-
-	<link rel='stylesheet' id='font-awesome-css' href='css\font-awesome.min.css?ver=4.6.4' type='text/css' media='all'>
-	<link rel='stylesheet' id='rgs-css' href='css\rgs.css?ver=8.6768' type='text/css' media='all'>
-	<link rel='stylesheet' id='main-styles-css' href='css\style.css?ver=8.6768' type='text/css' media='all'>
-	<link rel='stylesheet' id='responsive-css' href='css\responsive.css?ver=8.6768' type='text/css' media='all'>
-	<link rel='stylesheet' id='iconsmind-css' href='css\iconsmind.css?ver=7.6' type='text/css' media='all'>
-	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css?ver=8.6768' type='text/css' media='all'>
-	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css?ver=5.5.2' type='text/css' media='all'>
-	<link rel='stylesheet' id='magnific-css' href='css\magnific.css?ver=8.6.0' type='text/css' media='all'>
+	
+	<link rel='stylesheet' id='rgs-css' href='css\rgs.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='main-styles-css' href='css\style.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='responsive-css' href='css\responsive.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='iconsmind-css' href='css\iconsmind.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='magnific-css' href='css\magnific.css' type='text/css' media='all'>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
 
-	<script type='text/javascript' src='js\jquery\jquery.js?ver=1.12.4'></script>
-	<script type='text/javascript' src='js\jquery\jquery-migrate.min.js?ver=1.4.1'></script>
+	<script type='text/javascript' src='js\jquery\jquery.js'></script>
+	<script type='text/javascript' src='js\jquery\jquery-migrate.min.js'></script>
 
 	<?php
 	require 'script-header.php';
@@ -167,9 +167,7 @@
 									<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
-											<div class="wpb_wrapper">
-
-											</div> 
+											<div class="wpb_wrapper"></div> 
 										</div>
 									</div> 
 
@@ -316,7 +314,7 @@
 												</div>
 												<a class="nectar-button large see-through-2  has-icon" style="margin-top: 15px; border-color: #ff1053; color: #ff1053;" href="#explainer" data-color-override="#ff1053" data-hover-color-override="#ff1053" data-hover-text-color-override="#ffffff">
 													<span>Learn More</span>
-													<i class="icon-button-arrow"></i>
+													<i class="fas fa-arrow-right"></i>
 												</a>
 											</div> 
 										</div>
@@ -487,7 +485,7 @@
 											</div>
 											<a class="nectar-button large see-through-2  has-icon" style="margin-top: 35px; border-color: #3452ff; color: #3452ff;" href="corporate-2-about\index.html" data-color-override="#3452ff" data-hover-color-override="false" data-hover-text-color-override="#ffffff">
 												<span>Learn More</span>
-												<i class="fa fa-arrow-right"></i>
+												<i class="fas fa-arrow-right"></i>
 											</a>
 										</div> 
 									</div>
@@ -800,7 +798,7 @@
 																			<a class="link_text" href="corporate-2-news\index.html">
 																				See more posts
 																				<span class="circle" style="background-color: #34a853;"></span>
-																				<span class="arrow"></span>
+																				<span class="arrow"><i class="fas fa-angle-right"></i></span>
 																			</a>
 																		</span>
 																	</h4>

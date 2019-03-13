@@ -914,25 +914,6 @@ body .portfolio-items[data-ps="8"] .col {
 	position: relative;
 }
 
-.portfolio-items[data-ps="8"] .col .arrow-circle:before {
-    font-family: 'Fontawesome'!important;
-    font-weight: normal;
-    font-style: normal;
-    text-decoration: inherit;
-    -webkit-font-smoothing: antialiased;
-    content: "\f105";
-    color: #fff;
-    line-height: 30px;
-    font-size: 22px;
-    position: absolute;
-    right: 0;
-    width: 41px;
-    text-align: center;
-    height: 30px;
-    top: 50%;
-    margin-top: -17px;
-}
-
 .portfolio-items[data-ps="8"] .col:hover .arrow-circle svg circle {
 	stroke-dashoffset: 336;
 	-ms-transition: all .43s cubic-bezier(.45,0.1,.07,1)!important;
