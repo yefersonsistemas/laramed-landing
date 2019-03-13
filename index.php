@@ -3,163 +3,341 @@
 <html lang="en-US" class="no-js">
 <head>
 
-	<!-- Meta Tags -->
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
-	
+	<title>Laramed - Home</title>
 
-	<!--Shortcut icon-->
+	<link rel='stylesheet' id='font-awesome-css' href='wp-content\themes\salient\css\font-awesome.min.css?ver=4.6.4' type='text/css' media='all'>
+	<link rel='stylesheet' id='rgs-css' href='wp-content\themes\salient\css\rgs.css?ver=8.6768' type='text/css' media='all'>
+	<link rel='stylesheet' id='main-styles-css' href='wp-content\themes\salient\style.css?ver=8.6768' type='text/css' media='all'>
+	<link rel='stylesheet' id='responsive-css' href='wp-content\themes\salient\css\responsive.css?ver=8.6768' type='text/css' media='all'>
+	<link rel='stylesheet' id='iconsmind-css' href='wp-content\themes\salient\css\iconsmind.css?ver=7.6' type='text/css' media='all'>
+	<link rel='stylesheet' id='skin-material-css' href='wp-content\themes\salient\css\skin-material.css?ver=8.6768' type='text/css' media='all'>
+	<link rel='stylesheet' id='js_composer_front-css' href='wp-content\plugins\js_composer_salient\assets\css\js_composer.min.css?ver=5.5.2' type='text/css' media='all'>
+	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
-	<title>Salient Corporate 2 &#8211; The Ultimate WordPress Theme</title>
-	<meta name='robots' content='noindex,follow'>
-	<link rel='dns-prefetch' href='//fonts.googleapis.com'>
-	<link rel='dns-prefetch' href='//s.w.org'>
-	<link rel="alternate" type="application/rss+xml" title="Salient Corporate 2 &raquo; Feed" href="feed\index.rss">
-	<link rel="alternate" type="application/rss+xml" title="Salient Corporate 2 &raquo; Comments Feed" href="comments\feed\index.rss">
-	<meta property='og:site_name' content='Salient Corporate 2'><meta property='og:url' content='http://themenectar.com/demo/salient-corporate-2/'><meta property='og:title' content='Corporate 2 Landing'><meta property='og:type' content='article'>		<script type="text/javascript">
-		window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
-		!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-	</script>
-	<style type="text/css">
-	img.wp-smiley,
-	img.emoji {
-		display: inline !important;
-		border: none !important;
-		box-shadow: none !important;
-		height: 1em !important;
-		width: 1em !important;
-		margin: 0 .07em !important;
-		vertical-align: -0.1em !important;
-		background: none !important;
-		padding: 0 !important;
+	<script type='text/javascript' src='wp-includes\js\jquery\jquery.js?ver=1.12.4'></script>
+	<script type='text/javascript' src='wp-includes\js\jquery\jquery-migrate.min.js?ver=1.4.1'></script>
+
+	<?php
+	require 'script-header.php';
+	?>
+
+	<style type="text/css" data-type="vc_shortcodes-custom-css">
+
+	.vc_custom_1504325323751{
+		margin-bottom: 15px !important;
+	}
+
+	.vc_custom_1504286255898{
+		padding-right: 10% !important;
+	}
+
+	.vc_custom_1504285427120{
+		margin-top: 50px !important;
+		margin-bottom: 2em !important;
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1504285795178{
+		margin-bottom: 50px !important;
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1504285430965{
+		margin-bottom: 2em !important;
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1504286112774{
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1504286068726{
+		margin-top: 50px !important;
+		margin-bottom: 2em !important;
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1504286089409{
+		padding-top: 15% !important;
+		padding-right: 15% !important;
+		padding-bottom: 15% !important;
+		padding-left: 15% !important;
+	}
+
+	.vc_custom_1503969123885{
+		margin-bottom: 40px !important;
 	}
 </style>
-<link rel='stylesheet' id='contact-form-7-css' href='wp-content\plugins\contact-form-7\includes\css\styles.css?ver=4.9' type='text/css' media='all'>
-<link rel='stylesheet' id='rgs-css' href='wp-content\themes\salient\css\rgs.css?ver=8.6768' type='text/css' media='all'>
-<link rel='stylesheet' id='font-awesome-css' href='wp-content\themes\salient\css\font-awesome.min.css?ver=4.6.4' type='text/css' media='all'>
-<link rel='stylesheet' id='main-styles-css' href='wp-content\themes\salient\style.css?ver=8.6768' type='text/css' media='all'>
-<style id='main-styles-inline-css' type='text/css'>
-html:not(.page-trans-loaded) { background-color: #ffffff; }
-html body[data-header-resize="1"] .container-wrap, html body[data-header-resize="0"] .container-wrap, body[data-header-format="left-header"][data-header-resize="0"] .container-wrap { padding-top: 0; }
-</style>
-<link rel='stylesheet' id='magnific-css' href='wp-content\themes\salient\css\magnific.css?ver=8.6.0' type='text/css' media='all'>
-<link rel='stylesheet' id='responsive-css' href='wp-content\themes\salient\css\responsive.css?ver=8.6768' type='text/css' media='all'>
-<link rel='stylesheet' id='iconsmind-css' href='wp-content\themes\salient\css\iconsmind.css?ver=7.6' type='text/css' media='all'>
-<link rel='stylesheet' id='skin-material-css' href='wp-content\themes\salient\css\skin-material.css?ver=8.6768' type='text/css' media='all'>
-<link rel='stylesheet' id='js_composer_front-css' href='wp-content\plugins\js_composer_salient\assets\css\js_composer.min.css?ver=5.5.2' type='text/css' media='all'>
-<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
-<script type='text/javascript' src='wp-includes\js\jquery\jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='wp-includes\js\jquery\jquery-migrate.min.js?ver=1.4.1'></script>
-<link rel='https://api.w.org/' href='wp-json\index.json'>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.xml?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes\wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.9">
-<link rel="canonialc" href="index.html">
-<link rel='shortlink' href='index.html'>
-<link rel="alternate" type="text/xml+oembed" href="wp-json\oembed\1.0\embed-1.json?url=http%3A%2F%2Fthemenectar.com%2Fdemo%2Fsalient-corporate-2%2F&#038;format=xml">
-<?php
-	require 'script-header.php';
-?>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1504325323751{margin-bottom: 15px !important;}.vc_custom_1504286255898{padding-right: 10% !important;}.vc_custom_1504285427120{margin-top: 50px !important;margin-bottom: 2em !important;padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1504285795178{margin-bottom: 50px !important;padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1504285430965{margin-bottom: 2em !important;padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1504286112774{padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1504286068726{margin-top: 50px !important;margin-bottom: 2em !important;padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1504286089409{padding-top: 15% !important;padding-right: 15% !important;padding-bottom: 15% !important;padding-left: 15% !important;}.vc_custom_1503969123885{margin-bottom: 40px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
-
 </head>
 <body class="home page-template-default page page-id-6 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="true" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
 
-	<script type="text/javascript"> if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) { document.body.className += " using-mobile-browser "; } </script><div class="ocm-effect-wrap"><div class="ocm-effect-wrap-inner"><div id="ajax-loading-screen" data-disable-mobile="1" data-disable-fade-on-click="0" data-effect="standard" data-method="standard"><div class="loading-icon none"><div class="material-icon">
-		<div class="spinner">
-			<div class="right-side"><div class="bar"></div></div>
-			<div class="left-side"><div class="bar"></div></div>
-		</div>
-		<div class="spinner color-2">
-			<div class="right-side"><div class="bar"></div></div>
-			<div class="left-side"><div class="bar"></div></div>
-		</div>
-	</div></div></div><div id="header-space" data-header-mobile-fixed='1'></div> 
+	<script type="text/javascript"> 
+		if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) { 
+			document.body.className += " using-mobile-browser "; 
+		} 
+	</script>
 
-	<div id="header-outer" data-has-menu="true" data-transparent-header="true" data-transparent-shadow-helper="false" data-remove-border="true" class="transparent" data-has-buttons="yes" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="centered-menu" data-permanent-transparent="false" data-megamenu-rt="1" data-remove-fixed="0" data-cart="false" data-transparency-option="1" data-box-shadow="none" data-shrink-num="6" data-full-width="false" data-condense="false" data-using-secondary="0" data-using-logo="1" data-logo-height="24" data-m-logo-height="24" data-padding="30" data-header-resize="1">
+	<div class="ocm-effect-wrap">
+		<div class="ocm-effect-wrap-inner">
+			<div id="ajax-loading-screen" data-disable-mobile="1" data-disable-fade-on-click="0" data-effect="standard" data-method="standard">
+				<div class="loading-icon none">
+					<div class="material-icon">
+						<div class="spinner">
+							<div class="right-side">
+								<div class="bar"></div>
+							</div>
+							<div class="left-side">
+								<div class="bar"></div>
+							</div>
+						</div>
+						<div class="spinner color-2">
+							<div class="right-side">
+								<div class="bar"></div>
+							</div>
+							<div class="left-side">
+								<div class="bar"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
+			<div id="header-space" data-header-mobile-fixed='1'></div> 
 
-		<div id="search-outer" class="nectar">
-			<div id="search">
-				<div class="container">
-					<div id="search-box">
-						<div class="inner-wrap">
-							<div class="col span_12">
-								<form action="http://themenectar.com/demo/salient-corporate-2/" method="GET">
-									<input type="text" name="s" value="" placeholder="Search">
-								</form>
-								<span>Hit enter to search or ESC to close</span>
-							</div><!--/span_12-->
-						</div><!--/inner-wrap-->
-					</div><!--/search-box-->
-					<div id="close"><a href="#">
-						<span class="close-wrap"> <span class="close-line close-line1"></span> <span class="close-line close-line2"></span> </span>		     	</a></div>
-					</div><!--/container-->
-				</div><!--/search-->
-			</div><!--/search-outer-->	
-			<?php
-			$activepage = "index";
-			require 'header.php';
-			?>
-		</div><!--/header-outer-->
+			<div id="header-outer" data-has-menu="true" data-transparent-header="true" data-transparent-shadow-helper="false" data-remove-border="true" class="transparent" data-has-buttons="yes" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="centered-menu" data-permanent-transparent="false" data-megamenu-rt="1" data-remove-fixed="0" data-cart="false" data-transparency-option="1" data-box-shadow="none" data-shrink-num="6" data-full-width="false" data-condense="false" data-using-secondary="0" data-using-logo="1" data-logo-height="24" data-m-logo-height="24" data-padding="30" data-header-resize="1">
 
-		<div id="ajax-content-wrap">
+				<?php
+				$activepage = "index";
+				require 'header.php';
+				?>
 
+			</div>
 
-			<div class="container-wrap">
-				<div class="container main-content">
-					<div class="row">
+			<div id="ajax-content-wrap">
+				<div class="container-wrap">
+					<div class="container main-content">
+						<div class="row">
+							<div id="fws_5c3e32c6e40b5" data-midnight="light" data-top-percent="12%" data-bottom-percent="7%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row top-level full-width-section standard_section" style="padding-top: calc(100vw * 0.12); padding-bottom: calc(100vw * 0.07); ">
+								<div class="row-bg-wrap">
+									<div class="inner-wrap">
+										<div class="row-bg" style=""></div>
+									</div>
+									<div class="row-bg-overlay" style="background: #006fab; background: linear-gradient(135deg, #006FAB 0%,#00D1A3 100%);  opacity: 0.8; "></div>
+								</div>
 
+								<div class="video-color-overlay" data-color=""></div>
 
-						<div id="fws_5c3e32c6e40b5" data-midnight="light" data-top-percent="12%" data-bottom-percent="7%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row top-level full-width-section standard_section   " style="padding-top: calc(100vw * 0.12); padding-bottom: calc(100vw * 0.07); "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay" style="background: #006fab; background: linear-gradient(135deg, #006FAB 0%,#00D1A3 100%);  opacity: 0.8; "></div></div><div class="video-color-overlay" data-color=""></div>
+								<div class="mobile-video-image" style="background-image: url(wp-content/uploads/2017/09/blurrypeople.jpeg)"></div>
 
-						<div class="mobile-video-image" style="background-image: url(wp-content/uploads/2017/09/blurrypeople.jpeg)"></div>
-						<div class="nectar-video-wrap" data-bg-alignment="">
-							<video class="nectar-video-bg" width="1800" height="700" preload="auto" loop="" autoplay="" muted="" playsinline=""><source src="wp-content\uploads\2017\09\videos\laramed.mp4" type="video/webm"><source src="wp-content\uploads\2017\09\615170811.mp4" type="video/mp4"></video></div><div class="nectar-shape-divider-wrap " style=" height:250px;" data-front="" data-style="curve" data-position="bottom"><svg class="nectar-shape-divider" fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1000 100" preserveaspectratio="none"> <path d="M 0 0 c 0 0 200 50 500 50 s 500 -50 500 -50 v 101 h -1000 v -100 z"></path> </svg></div><div class="col span_12 light left">
-								<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+								<div class="nectar-video-wrap" data-bg-alignment="">
+									<video class="nectar-video-bg" width="1800" height="700" preload="auto" loop="" autoplay="" muted="" playsinline=""><source src="videos\producción-laramed.mp4" type="video/mp4"><source src="videos\producción-laramed.mp4" type="video/mp4">
+									</video>
+								</div>
+
+								<div class="nectar-shape-divider-wrap " style=" height:250px;" data-front="" data-style="curve" data-position="bottom">
+									<svg class="nectar-shape-divider" fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1000 100" preserveaspectratio="none">
+										<path d="M 0 0 c 0 0 200 50 500 50 s 500 -50 500 -50 v 101 h -1000 v -100 z"></path>
+									</svg>
+								</div>
+								
+								<div class="col span_12 light left">
+									<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+									<div class="vc_column-inner">
+										<div class="wpb_wrapper">
+
+										</div> 
+									</div>
+								</div> 
+
+								<div class="vc_col-sm-8 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 								<div class="vc_column-inner">
 									<div class="wpb_wrapper">
-
-									</div> 
-								</div>
-							</div> 
-
-							<div class="vc_col-sm-8 wpb_column column_container vc_column_container col centered-text padding-1-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-							<div class="vc_column-inner">
-								<div class="wpb_wrapper">
-
-									<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
-										<div class="wpb_wrapper">
-											<h5>Have you noticed</h5>
-
-										</div>
-									</div>
-									<div class="nectar-split-heading"><div class="heading-line"> <div><h1>Small details create</h1> </div> </div><div class="heading-line"> <div><h1>the big picture</h1> </div> </div></div><a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp" style="margin-top: 25px; margin-bottom: 85px; border-color: #ffffff; color: #ffffff;" href="#creative-services" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000"><span>Learn More</span></a>
-									<div id="fws_5c3e32c6e7871" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
-										<div style="margin-bottom: -26%!important; " class="vc_col-sm-12 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-										<div class="vc_column-inner">
+										<div class="nectar-split-heading"><div class="heading-line"> <div><h1 style="font-family: monospace;">LARAMED</h1> </div> </div></div>
+										<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 											<div class="wpb_wrapper">
-												<div class="nectar-video-box" data-color="default-accent-color" data-play-button-size="larger" data-border-radius="10px" data-hover="defaut" data-shadow="x_large_depth"><div class="inner-wrap"><a href="wp-content\uploads\2017\09\Laramed_ producción.mp4" class="full-link pp"></a><img width="1000" height="667" src="wp-content\uploads\2017\09\fabrica.jpeg" class="attachment-full size-full" alt="" srcset="wp-content\uploads\2017\09\fabrica.jpeg 1000w, wp-content\uploads\2017\09\fabrica.jpeg 300w, wp-content\uploads\2017\09\fabrica.jpeg 768w, wp-content\uploads\2017\09\fabrica.jpeg 900w" sizes="(max-width: 1000px) 100vw, 1000px"><a href="wp-content\uploads\2017\09\Laramed_ producción.mp4" data-color="default" class="play_button_2 large nectar_video_lightbox pp"><span class="play"><span class="inner-wrap"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path> </svg></span></span></a></div></div>
-											</div> 
+												<h5>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h5>
+
+											</div>
 										</div>
-									</div> 
-								</div></div>
+										<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp" style="margin-top: 25px; margin-bottom: 85px; border-color: #ffffff; color: #ffffff;" href="#creative-services" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000"><span>Acerca de Nosotros</span></a>
+										<div id="fws_5c3e32c6e7871" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+											<div style="margin-bottom: -26%!important; " class="vc_col-sm-12 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="left-right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+											<div class="vc_column-inner">
+												<div class="wpb_wrapper">
+													<div class="nectar-video-box" data-color="default-accent-color" data-play-button-size="larger" data-border-radius="10px" data-hover="defaut" data-shadow="x_large_depth"><div class="inner-wrap"><a href="videos/laramed-producción.mp4" class="full-link pp"></a><img width="1000" height="667" src="wp-content\uploads\2017\09\fabrica.jpeg" class="attachment-full size-full" alt="" srcset="wp-content\uploads\2017\09\fabrica.jpeg 1000w, wp-content\uploads\2017\09\fabrica.jpeg 300w, wp-content\uploads\2017\09\fabrica.jpeg 768w, wp-content\uploads\2017\09\fabrica.jpeg 900w" sizes="(max-width: 1000px) 100vw, 1000px"><a href="videos/laramed-producción.mp4" data-color="default" class="play_button_2 large nectar_video_lightbox pp"><span class="play"><span class="inner-wrap"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve"><path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path> </svg></span></span></a></div></div>
+												</div> 
+											</div>
+										</div> 
+									</div></div>
+								</div> 
+							</div>
+						</div> 
+
+						<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+						<div class="vc_column-inner">
+							<div class="wpb_wrapper">
+
 							</div> 
 						</div>
 					</div> 
-
-					<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+				</div></div>
+				<div id="fws_5c3e32c6ea2d0" data-midnight="dark" data-top-percent="13%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: calc(100vw * 0.13); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+					<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 					<div class="vc_column-inner">
 						<div class="wpb_wrapper">
 
 						</div> 
 					</div>
 				</div> 
+
+				<div class="vc_col-sm-10 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+				<div class="vc_column-inner">
+					<div class="wpb_wrapper">
+						<div class="clients no-carousel four-cols " data-he="greyscale_to_color" data-additional_padding="4"><div><img src="wp-content\uploads\2017\09\4.png" width="274" height="68" alt="client"></div><div><img src="wp-content\uploads\2017\09\1.png" width="313" height="80" alt="client"></div><div><img src="wp-content\uploads\2017\09\7.png" width="315" height="74" alt="client"></div><div><img src="wp-content\uploads\2017\09\5.png" width="210" height="141" alt="client"></div><div><img src="wp-content\uploads\2017\09\8-2.png" width="253" height="143" alt="client"></div><div><img src="wp-content\uploads\2017\09\9.png" width="292" height="82" alt="client"></div><div><img src="wp-content\uploads\2017\09\10.png" width="284" height="51" alt="client"></div><div><img src="wp-content\uploads\2017\09\3-1.png" width="275" height="93" alt="client"></div></div>
+					</div> 
+				</div>
+			</div> 
+
+			<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+			<div class="vc_column-inner">
+				<div class="wpb_wrapper">
+
+				</div> 
+			</div>
+		</div> 
+	</div></div>
+	<div id="creative-services" data-midnight="dark" data-top-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+		<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+		<div class="vc_column-inner">
+			<div class="wpb_wrapper">
+
+				<div class="wpb_text_column wpb_content_element ">
+					<div class="wpb_wrapper">
+						<h3>Striving to make the web a more beautiful place every single day</h3>
+
+					</div>
+				</div>
+
+				<div class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
+					<div class="wpb_wrapper">
+						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+
+					</div>
+				</div>
+				<a class="nectar-button large see-through-2  has-icon" style="margin-top: 15px; border-color: #ff1053; color: #ff1053;" href="#explainer" data-color-override="#ff1053" data-hover-color-override="#ff1053" data-hover-text-color-override="#ffffff"><span>Learn More</span><i class="icon-button-arrow"></i></a>
+			</div> 
+		</div>
+	</div> 
+
+	<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+	<div class="vc_column-inner">
+		<div class="wpb_wrapper">
+
+			<div id="fws_5c3e32c6f392d" data-midnight="" data-column-margin="none" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+				<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+				<div class="vc_column-inner">
+					<div class="wpb_wrapper">
+						<div class="nectar-fancy-box   vc_custom_1504285427120 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="0.6" data-delay="0" data-alignment="left" data-color="#2ac4ea" style="color: #ffffff;"><div class="box-bg" style=" background-color: #2ac4ea;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Environmental-3" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+							<h4>Natural Flow</h4>
+							<p>Sed cursus turpis vitae tortor donec eaque ipsa quaeab illo.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504285795178 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="0" data-alignment="left" data-color="accent-color" style="color: #ffffff;"><div class="box-bg" style=""></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Sun" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+								<h4>Hot Looks</h4>
+								<p>Nemo enim ipsam volup tatem quia vol uptas sit sunt in.</div>  <a href="#http://google.com" class="box-link"></a> </div>
+								</div> 
+							</div>
+						</div> 
+
+						<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+						<div class="vc_column-inner">
+							<div class="wpb_wrapper">
+								<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff;"><div class="box-bg" style=" background-color: #ff1053;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Rock-andRoll" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+									<h4>Awesome Design</h4>
+									<p>Nam libero tempore, cum soluta nobis placeat facere.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504286112774 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#fbbc05" style="color: #ffffff;"><div class="box-bg" style=" background-color: #fbbc05;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Atom" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+										<h4>Unrivaled Quality</h4>
+										<p>At vero eos et lorem accusamus et iusto ullam corporis.</div>  <a href="#http://google.com" class="box-link"></a> </div>
+										</div> 
+									</div>
+								</div> 
+
+								<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="nectar-fancy-box   vc_custom_1504286068726 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#2f88d6" style="color: #ffffff;"><div class="box-bg" style=" background-color: #2f88d6;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Motorcycle" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+											<h4>Visual Builder</h4>
+											<p>Ipsum totam rem aperiam, eaque ipsa quae ab illo.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff;"><div class="box-bg" style=" background-color: #34a853;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Folder-Organizing" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
+												<h4>Ton of Features</h4>
+												<p>Incidunt ut labore et dolore magnam ali quam quaerat.</div>  <a href="#http://google.com" class="box-link"></a> </div>
+												</div> 
+											</div>
+										</div> 
+									</div></div>
+								</div> 
+							</div>
+						</div> 
+					</div></div>
+					<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+						<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+						<div class="vc_column-inner">
+							<div class="wpb_wrapper">
+
+								<div class="wpb_text_column wpb_content_element ">
+									<div class="wpb_wrapper">
+										<h3>Salient Studio changes the WordPress game forever.</h3>
+
+									</div>
+								</div>
+								<div class="toggles accordion" data-style="minimal_small"><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>Over 200 Section Templates</a></h3><div>
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
+
+										</div>
+									</div>
+								</div></div><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>Available Directly in Page Builder</a></h3><div>
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											<p>Malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi.</p>
+
+										</div>
+									</div>
+								</div></div><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>One Click Template Insert</a></h3><div>
+									<div class="wpb_text_column wpb_content_element ">
+										<div class="wpb_wrapper">
+											<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.</p>
+
+										</div>
+									</div>
+								</div></div></div><a class="nectar-button large see-through-2  has-icon" style="margin-top: 35px; border-color: #3452ff; color: #3452ff;" href="corporate-2-about\index.html" data-color-override="#3452ff" data-hover-color-override="false" data-hover-text-color-override="#ffffff"><span>Learn More</span><i class="icon-button-arrow"></i></a>
+							</div> 
+						</div>
+					</div> 
+
+					<div class="vc_col-sm-8 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+					<div class="vc_column-inner">
+						<div class="wpb_wrapper">
+							<div class="img-with-aniamtion-wrap " data-max-width="150%" data-border-radius="10px"><div class="inner"><img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="wp-content\uploads\2017\09\studio2.jpeg" srcset="wp-content\uploads\2017\09\studio2.jpeg 1511w, wp-content\uploads\2017\09\studio2-300x191.jpeg 300w, wp-content\uploads\2017\09\studio2-768x488.jpeg 768w, wp-content\uploads\2017\09\studio2-1024x651.jpeg 1024w" sizes="100vw" alt=""></div></div>
+						</div> 
+					</div>
+				</div> 
 			</div></div>
-			<div id="fws_5c3e32c6ea2d0" data-midnight="dark" data-top-percent="13%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: calc(100vw * 0.13); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
+			<div id="fws_5c3e32c7062f2" data-midnight="dark" data-top-percent="10%" data-bottom-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: calc(100vw * 0.05); "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
 				<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 				<div class="vc_column-inner">
 					<div class="wpb_wrapper">
@@ -168,160 +346,30 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 				</div>
 			</div> 
 
-			<div class="vc_col-sm-10 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+			<div class="vc_col-sm-10 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 			<div class="vc_column-inner">
 				<div class="wpb_wrapper">
-					<div class="clients no-carousel four-cols " data-he="greyscale_to_color" data-additional_padding="4"><div><img src="wp-content\uploads\2017\09\4.png" width="274" height="68" alt="client"></div><div><img src="wp-content\uploads\2017\09\1.png" width="313" height="80" alt="client"></div><div><img src="wp-content\uploads\2017\09\7.png" width="315" height="74" alt="client"></div><div><img src="wp-content\uploads\2017\09\5.png" width="210" height="141" alt="client"></div><div><img src="wp-content\uploads\2017\09\8-2.png" width="253" height="143" alt="client"></div><div><img src="wp-content\uploads\2017\09\9.png" width="292" height="82" alt="client"></div><div><img src="wp-content\uploads\2017\09\10.png" width="284" height="51" alt="client"></div><div><img src="wp-content\uploads\2017\09\3-1.png" width="275" height="93" alt="client"></div></div>
-				</div> 
-			</div>
-		</div> 
 
-		<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-		<div class="vc_column-inner">
-			<div class="wpb_wrapper">
-				
-			</div> 
-		</div>
-	</div> 
-</div></div>
-<div id="creative-services" data-midnight="dark" data-top-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
-	<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-	<div class="vc_column-inner">
-		<div class="wpb_wrapper">
+					<div class="wpb_text_column wpb_content_element " style=" max-width: 500px; display: inline-block;">
+						<div class="wpb_wrapper">
+							<h3>Helping people reclaim their time</h3>
 
-			<div class="wpb_text_column wpb_content_element ">
-				<div class="wpb_wrapper">
-					<h3>Striving to make the web a more beautiful place every single day</h3>
+						</div>
+					</div>
 
-				</div>
-			</div>
-
-			<div class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
-				<div class="wpb_wrapper">
-					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
-
-				</div>
-			</div>
-			<a class="nectar-button large see-through-2  has-icon" style="margin-top: 15px; border-color: #ff1053; color: #ff1053;" href="#explainer" data-color-override="#ff1053" data-hover-color-override="#ff1053" data-hover-text-color-override="#ffffff"><span>Learn More</span><i class="icon-button-arrow"></i></a>
-		</div> 
-	</div>
-</div> 
-
-<div class="vc_col-sm-8 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-<div class="vc_column-inner">
-	<div class="wpb_wrapper">
-
-		<div id="fws_5c3e32c6f392d" data-midnight="" data-column-margin="none" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
-			<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-			<div class="vc_column-inner">
-				<div class="wpb_wrapper">
-					<div class="nectar-fancy-box   vc_custom_1504285427120 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="0.6" data-delay="0" data-alignment="left" data-color="#2ac4ea" style="color: #ffffff;"><div class="box-bg" style=" background-color: #2ac4ea;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Environmental-3" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-						<h4>Natural Flow</h4>
-						<p>Sed cursus turpis vitae tortor donec eaque ipsa quaeab illo.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504285795178 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="0" data-alignment="left" data-color="accent-color" style="color: #ffffff;"><div class="box-bg" style=""></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Sun" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-							<h4>Hot Looks</h4>
-							<p>Nemo enim ipsam volup tatem quia vol uptas sit sunt in.</div>  <a href="#http://google.com" class="box-link"></a> </div>
+					<div id="fws_5c3e32c70767c" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
+						<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
+						<div class="vc_column-inner">
+							<div class="wpb_wrapper">
+								<div class="nectar-milestone " data-symbol="%" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>97</span></h2></div> <div class="subject" style="padding: 2%;">Percent of users recommend us to friends and family</div> </div>
 							</div> 
 						</div>
 					</div> 
 
-					<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-					<div class="vc_column-inner">
-						<div class="wpb_wrapper">
-							<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff;"><div class="box-bg" style=" background-color: #ff1053;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Rock-andRoll" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-								<h4>Awesome Design</h4>
-								<p>Nam libero tempore, cum soluta nobis placeat facere.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504286112774 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#fbbc05" style="color: #ffffff;"><div class="box-bg" style=" background-color: #fbbc05;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Atom" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-									<h4>Unrivaled Quality</h4>
-									<p>At vero eos et lorem accusamus et iusto ullam corporis.</div>  <a href="#http://google.com" class="box-link"></a> </div>
-									</div> 
-								</div>
-							</div> 
-
-							<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-							<div class="vc_column-inner">
-								<div class="wpb_wrapper">
-									<div class="nectar-fancy-box   vc_custom_1504286068726 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#2f88d6" style="color: #ffffff;"><div class="box-bg" style=" background-color: #2f88d6;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Motorcycle" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-										<h4>Visual Builder</h4>
-										<p>Ipsum totam rem aperiam, eaque ipsa quae ab illo.</div>  <a href="#http://google.com" class="box-link"></a> </div><div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff;"><div class="box-bg" style=" background-color: #34a853;"></div> <div class="inner" style="min-height: 0px"><i class="icon-default-style iconsmind-Folder-Organizing" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-											<h4>Ton of Features</h4>
-											<p>Incidunt ut labore et dolore magnam ali quam quaerat.</div>  <a href="#http://google.com" class="box-link"></a> </div>
-											</div> 
-										</div>
-									</div> 
-								</div></div>
-							</div> 
-						</div>
-					</div> 
-				</div></div>
-				<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: 0px; "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
-					<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="right" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-					<div class="vc_column-inner">
-						<div class="wpb_wrapper">
-
-							<div class="wpb_text_column wpb_content_element ">
-								<div class="wpb_wrapper">
-									<h3>Salient Studio changes the WordPress game forever.</h3>
-
-								</div>
-							</div>
-							<div class="toggles accordion" data-style="minimal_small"><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>Over 200 Section Templates</a></h3><div>
-								<div class="wpb_text_column wpb_content_element ">
-									<div class="wpb_wrapper">
-										<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</p>
-
-									</div>
-								</div>
-							</div></div><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>Available Directly in Page Builder</a></h3><div>
-								<div class="wpb_text_column wpb_content_element ">
-									<div class="wpb_wrapper">
-										<p>Malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi.</p>
-
-									</div>
-								</div>
-							</div></div><div class="toggle default"><h3><a href="#"><i class="icon-plus-sign"></i>One Click Template Insert</a></h3><div>
-								<div class="wpb_text_column wpb_content_element ">
-									<div class="wpb_wrapper">
-										<p>Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.</p>
-
-									</div>
-								</div>
-							</div></div></div><a class="nectar-button large see-through-2  has-icon" style="margin-top: 35px; border-color: #3452ff; color: #3452ff;" href="corporate-2-about\index.html" data-color-override="#3452ff" data-hover-color-override="false" data-hover-text-color-override="#ffffff"><span>Learn More</span><i class="icon-button-arrow"></i></a>
-						</div> 
-					</div>
-				</div> 
-
-				<div class="vc_col-sm-8 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-				<div class="vc_column-inner">
-					<div class="wpb_wrapper">
-						<div class="img-with-aniamtion-wrap " data-max-width="150%" data-border-radius="10px"><div class="inner"><img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="wp-content\uploads\2017\09\studio2.jpeg" srcset="wp-content\uploads\2017\09\studio2.jpeg 1511w, wp-content\uploads\2017\09\studio2-300x191.jpeg 300w, wp-content\uploads\2017\09\studio2-768x488.jpeg 768w, wp-content\uploads\2017\09\studio2-1024x651.jpeg 1024w" sizes="100vw" alt=""></div></div>
-					</div> 
-				</div>
-			</div> 
-		</div></div>
-		<div id="fws_5c3e32c7062f2" data-midnight="dark" data-top-percent="10%" data-bottom-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: calc(100vw * 0.05); "><div class="row-bg-wrap"><div class="inner-wrap"><div class="row-bg    " style=""></div></div><div class="row-bg-overlay"></div></div><div class="col span_12 dark left">
-			<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-			<div class="vc_column-inner">
-				<div class="wpb_wrapper">
-
-				</div> 
-			</div>
-		</div> 
-
-		<div class="vc_col-sm-10 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-		<div class="vc_column-inner">
-			<div class="wpb_wrapper">
-				
-				<div class="wpb_text_column wpb_content_element " style=" max-width: 500px; display: inline-block;">
-					<div class="wpb_wrapper">
-						<h3>Helping people reclaim their time</h3>
-
-					</div>
-				</div>
-
-				<div id="fws_5c3e32c70767c" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg   " style=""></div> </div><div class="col span_12  left">
 					<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 					<div class="vc_column-inner">
 						<div class="wpb_wrapper">
-							<div class="nectar-milestone " data-symbol="%" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>97</span></h2></div> <div class="subject" style="padding: 2%;">Percent of users recommend us to friends and family</div> </div>
+							<div class="nectar-milestone " data-symbol="+" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="42" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>350</span></h2></div> <div class="subject" style="padding: 2%;">Companies have shifted to using us recently</div> </div>
 						</div> 
 					</div>
 				</div> 
@@ -329,20 +377,12 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 				<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
 				<div class="vc_column-inner">
 					<div class="wpb_wrapper">
-						<div class="nectar-milestone " data-symbol="+" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="42" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>350</span></h2></div> <div class="subject" style="padding: 2%;">Companies have shifted to using us recently</div> </div>
+						<div class="nectar-milestone " data-symbol="x" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>16</span></h2></div> <div class="subject" style="padding: 2%;">We deliver so much more than the competition </div> </div>
 					</div> 
 				</div>
 			</div> 
-
-			<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-4-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-			<div class="vc_column-inner">
-				<div class="wpb_wrapper">
-					<div class="nectar-milestone " data-symbol="x" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default"> <div class="number default" data-number-size="92"><h2><span>16</span></h2></div> <div class="subject" style="padding: 2%;">We deliver so much more than the competition </div> </div>
-				</div> 
-			</div>
-		</div> 
-	</div></div>
-</div> 
+		</div></div>
+	</div> 
 </div>
 </div> 
 
@@ -378,14 +418,14 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 		<div class="row">
 
 			<div class="post-area col  span_12 col_last masonry auto_meta_overlaid_spaced  " data-ams="16px"> <div class="posts-container" data-load-animation="none">				
-				
+
 				<article id="post-220" class="regular masonry-blog-item post-220 post type-post status-publish format-standard has-post-thumbnail category-fashion category-uncategorized tag-awesome tag-classic tag-funny tag-gaming-tips tag-music tag-photography">
 
 					<div class="inner-wrap animated">
 
 						<div class="post-content">
 
-							
+
 
 
 
@@ -415,7 +455,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 										<span class="meta-comment-count">| <a href="doing-a-cross-country-road-trip\index.html#respond">
 										No Comments</a>
 									</span>
-									
+
 								</div><!--/post-header-->
 
 							</div><!--article-content-wrap-->
@@ -426,7 +466,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 
 						</div><!--/content-inner-->
 
-						
+
 					</div><!--/post-content-->
 
 				</div><!--/inner-wrap-->
@@ -443,7 +483,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 
 
 
-						
+
 
 
 
@@ -452,13 +492,13 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 							<a href="we-encountered-a-food-paradise\index.html"></a><span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);"></span>					
 
 
-							
+
 
 							<div class="article-content-wrap">
 
 								<span class="meta-category"><a class="music" href="category\music\index.html">Music</a><a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a></span>											
 								<div class="post-header">
-									
+
 									<h3 class="title">
 
 										<a href="we-encountered-a-food-paradise\index.html">											We encountered a food paradise										 </a> 
@@ -511,7 +551,7 @@ html body[data-header-resize="1"] .container-wrap, html body[data-header-resize=
 							<span class="meta-category"><a class="food-for-thought" href="category\food-for-thought\index.html">Food for thought</a><a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a></span>								
 
 							<div class="post-header">
-								
+
 								<h3 class="title">
 
 									<a href="deep-down-in-the-water\index.html">										Deep down in the water									 </a> 
