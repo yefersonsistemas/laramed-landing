@@ -18,7 +18,9 @@
 	<link rel='stylesheet' id='iconsmind-css' href='css\iconsmind.css?ver=7.6' type='text/css' media='all'>
 	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css?ver=8.6768' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css?ver=5.5.2' type='text/css' media='all'>
+	<link rel='stylesheet' id='magnific-css' href='css\magnific.css?ver=8.6.0' type='text/css' media='all'>
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
+
 
 	<script type='text/javascript' src='js\jquery\jquery.js?ver=1.12.4'></script>
 	<script type='text/javascript' src='js\jquery\jquery-migrate.min.js?ver=1.4.1'></script>
@@ -29,66 +31,66 @@
 
 	<style type="text/css" data-type="vc_shortcodes-custom-css">
 
-	.vc_custom_1504325323751{
-		margin-bottom: 15px !important;
-	}
+		.vc_custom_1504325323751{
+			margin-bottom: 15px !important;
+		}
 
-	.vc_custom_1504286255898{
-		padding-right: 10% !important;
-	}
+		.vc_custom_1504286255898{
+			padding-right: 10% !important;
+		}
 
-	.vc_custom_1504285427120{
-		margin-top: 50px !important;
-		margin-bottom: 2em !important;
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504285427120{
+			margin-top: 50px !important;
+			margin-bottom: 2em !important;
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1504285795178{
-		margin-bottom: 50px !important;
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504285795178{
+			margin-bottom: 50px !important;
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1504285430965{
-		margin-bottom: 2em !important;
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504285430965{
+			margin-bottom: 2em !important;
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1504286112774{
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504286112774{
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1504286068726{
-		margin-top: 50px !important;
-		margin-bottom: 2em !important;
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504286068726{
+			margin-top: 50px !important;
+			margin-bottom: 2em !important;
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1504286089409{
-		padding-top: 15% !important;
-		padding-right: 15% !important;
-		padding-bottom: 15% !important;
-		padding-left: 15% !important;
-	}
+		.vc_custom_1504286089409{
+			padding-top: 15% !important;
+			padding-right: 15% !important;
+			padding-bottom: 15% !important;
+			padding-left: 15% !important;
+		}
 
-	.vc_custom_1503969123885{
-		margin-bottom: 40px !important;
-	}
-</style>
+		.vc_custom_1503969123885{
+			margin-bottom: 40px !important;
+		}
+	</style>
 </head>
 <body class="home page-template-default page page-id-6 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="true" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
 
@@ -485,7 +487,7 @@
 											</div>
 											<a class="nectar-button large see-through-2  has-icon" style="margin-top: 35px; border-color: #3452ff; color: #3452ff;" href="corporate-2-about\index.html" data-color-override="#3452ff" data-hover-color-override="false" data-hover-text-color-override="#ffffff">
 												<span>Learn More</span>
-												<i class="icon-button-arrow"></i>
+												<i class="fa fa-arrow-right"></i>
 											</a>
 										</div> 
 									</div>
