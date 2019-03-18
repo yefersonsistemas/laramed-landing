@@ -254,9 +254,7 @@
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
-												<div id="map_5c3e363140225" style="height: 650px;" class="nectar-google-map" data-infowindow-start-open="" data-dark-color-scheme="" data-marker-style="nectar" data-nectar-marker-color="accent-color" data-ultra-flat="1" data-greyscale="1" data-extra-color="" data-enable-animation="false" data-enable-zoom="1" data-zoom-level="14" data-center-lat="39.955" data-center-lng="-75.171" data-marker-img=""></div>
-												<div class="map_5c3e363140225 map-marker-list">
-													<div class="map-marker" data-marker-image-width="50" data-marker-image-height="50" data-lat="39.949" data-lng="-75.171" data-mapinfo="Our Location "></div>
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13213.528315649766!2d-69.28892519667346!3d10.065824150932674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e875d876f5a7eff%3A0x16905fc2ea406888!2sLaramed+C.A!5e0!3m2!1ses!2sve!4v1552940239473" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
 												</div>
 											</div> 
 										</div>
