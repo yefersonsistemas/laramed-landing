@@ -903,7 +903,7 @@ $.magnificPopup = {
 
 		overflowY: 'auto',
 
-		closeMarkup: '<button title="%title%" type="button" class="mfp-close" ><i class="fas fa-times" style="font-size:20px;"></i></button>',
+		closeMarkup: '<button title="%title%" type="button" class="mfp-close" style="right: 5px">✗</button>',
 
 		tClose: 'Close (Esc)',
 
