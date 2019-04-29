@@ -89,6 +89,13 @@
 		.vc_custom_1503969123885{
 			margin-bottom: 40px !important;
 		}
+		
+		@media (min-width: 1001px){
+			.img-rep{
+				margin-top: 95px;
+			}
+		}
+
 	</style>
 </head>
 <body class="page-template-default page page-id-209 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
@@ -152,7 +159,7 @@
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
 												<div id="rps_5c3e363f245c1" class="nectar-recent-posts-single_featured parallax_section" data-padding="8%" data-bg-overlay="solid_color" data-height="600" data-animate-in-effect="zoom-out"> 
-													<div class="nectar-recent-post-slide no-bg-img post-ref-0">
+													<div class="nectar-recent-post-slide no-bg-img post-ref-0 img-rep">
 														<div class="row-bg using-image" data-parallax-speed="fast">
 															<div class="nectar-recent-post-bg" style="  background-image: url(wp-content/uploads/2013/04/brooke-lark-186926.jpeg);">
 															</div>
@@ -181,7 +188,7 @@
 																</div>          
 																<a class="nectar-button large regular accent-color regular-button has-icon" href="we-encountered-a-food-paradise\index.html" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff">
 																	<span>Read More</span>
-																	<i class="icon-button-arrow"></i>
+																	<i class="fas fa-arrow-right"></i>
 																</a>
 															</div>
 														</div>
@@ -498,11 +505,15 @@
 														</article>
 
 													</div>
-
+													<style>
+														#pagination span, #pagination a{
+															font-family: Roboto!important;
+														}
+													</style>
 													<div id="pagination" data-is-text="All items loaded">
 														<span aria-current='page' class='page-numbers current'>1</span>
 														<a class='page-numbers' href='products-page-2.php'>2</a>
-														<a class="next page-numbers" href="page\2\index.html">Next &raquo;</a>
+														<a class="next page-numbers" href="products-page-2.php">Next &raquo;</a>
 													</div>		
 												</div>
 
