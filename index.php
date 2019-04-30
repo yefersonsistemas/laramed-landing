@@ -152,7 +152,7 @@
 								<div class="mobile-video-image" style="background-image: url(wp-content/uploads/2017/09/blurrypeople.jpeg)"></div>
 
 								<div class="nectar-video-wrap" data-bg-alignment="">
-									<video class="nectar-video-bg" width="1800" height="700" preload="auto" loop="" autoplay="" muted="" playsinline=""><source src="videos\producción-laramed.mp4" type="video/mp4"><source src="videos\producción-laramed.mp4" type="video/mp4">
+									<video class="nectar-video-bg" width="1800" height="700" preload="auto" loop="" autoplay="true" muted="" playsinline=""><source src="videos\producción-laramed.mp4" type="video/mp4"><source src="videos\producción-laramed.mp4" type="video/mp4">
 									</video>
 								</div>
 
