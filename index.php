@@ -479,7 +479,12 @@
 										<div class="wpb_wrapper">
 											<div class="img-with-aniamtion-wrap " data-max-width="150%" data-border-radius="10px">
 												<div class="inner">
-													<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="wp-content\uploads\2017\09\studio2.jpeg" srcset="wp-content\uploads\2017\09\studio2.jpeg 1511w, wp-content\uploads\2017\09\studio2-300x191.jpeg 300w, wp-content\uploads\2017\09\studio2-768x488.jpeg 768w, wp-content\uploads\2017\09\studio2-1024x651.jpeg 1024w" sizes="100vw" alt="">
+													<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="imagen.png" sizes="100vw" alt="" style="transform: translate(61px, 0px);
+    margin: 0;
+    height: 500px;
+    width: 65%;
+    object-fit: contain;
+">
 												</div>
 											</div>
 										</div> 
