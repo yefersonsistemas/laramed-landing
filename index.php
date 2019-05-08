@@ -18,7 +18,7 @@
 	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='magnific-css' href='css\magnific.css' type='text/css' media='all'>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 	
 	<script type='text/javascript' src='js\jquery\jquery.js'></script>
@@ -177,17 +177,17 @@
 												<div class="nectar-split-heading">
 													<div class="heading-line">
 														<div>
-															<h1 style="font-family: monospace;">LARAMED</h1>
+															<h1 style="font-family: monospace;"><img src="img/logos/Logo_Laramed_Blanco.png" alt="" style="width: 50%;"></h1>
 														</div>
 													</div>
 												</div>
 												<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 													<div class="wpb_wrapper">
-														<h5>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h5>
+														<h4>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h4>
 													</div>
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp" style="margin-top: 25px; margin-bottom: 85px; border-color: #ffffff; color: #ffffff;" href="#creative-services" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
-													<span>Acerca de Nosotros</span>
+													<span>NUESTROS PRODUCTOS</span>
 												</a>
 												<div id="fws_5c3e32c6e7871" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section" style="padding-top: 0px; padding-bottom: 0px; ">
 													<div class="row-bg-wrap">
@@ -237,42 +237,34 @@
 									</div>
 									<div class="row-bg-overlay"></div>
 								</div>
-								<div class="col span_12 dark left">
+								<div class="col span_12 dark left" style="text-align: center;">
+									<span style="font-size: 2em;">NUESTRA RED COMERCIAL</span> 
 									<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
-											<div class="wpb_wrapper"></div> 
+											<div class="wpb_wrapper"></div>
 										</div>
 									</div> 
 
-									<div class="vc_col-sm-10 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+									<div class=" wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
 												<div class="clients no-carousel four-cols " data-he="greyscale_to_color" data-additional_padding="4">
 													<div>
-														<img src="wp-content\uploads\2017\09\4.png" width="274" height="68" alt="client">
+														<img src="img/logos/Logo_Grupo_Linarez-01.png" width="274" height="68" alt="client">
 													</div>
 													<div>
-														<img src="wp-content\uploads\2017\09\1.png" width="313" height="80" alt="client">
+														<img src="img/logos/Logo_Orquideas.png" width="313" height="80" alt="client">
 													</div>
 													<div>
-														<img src="wp-content\uploads\2017\09\7.png" width="315" height="74" alt="client">
+														<img src="img/logos/Logo_Equipromedic.png" width="315" height="74" alt="client">
 													</div>
 													<div>
-														<img src="wp-content\uploads\2017\09\5.png" width="210" height="141" alt="client">
+														<img src="img/logos/Logo_SinusandFace_Clinic.png" width="210" height="141" alt="client">
 													</div>
 													<div>
-														<img src="wp-content\uploads\2017\09\8-2.png" width="253" height="143" alt="client">
-													</div>
-													<div>
-														<img src="wp-content\uploads\2017\09\9.png" width="292" height="82" alt="client">
-													</div>
-													<div>
-														<img src="wp-content\uploads\2017\09\10.png" width="284" height="51" alt="client">
-													</div>
-													<div>
-														<img src="wp-content\uploads\2017\09\3-1.png" width="275" height="93" alt="client">
+														<img src="img/logos/Logo_SinusandFace_Clinic.png" width="253" height="143" alt="client">
 													</div>
 												</div>
 											</div> 
@@ -303,18 +295,18 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>Striving to make the web a more beautiful place every single day</h3>
+														<h3>NUESTROS VALORES EMPRESARIALES NOS DEFINEN</h3>
 													</div>
 												</div>
 												<div class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
 													<div class="wpb_wrapper">
-														<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes.</p>
+														<p style="text-align: justify;">Con más de 9 años de trayectoria, es un referente
+															a nivel nacional de innovación y cambio
+															constante, buscando la excelencia en nuestros
+															productos y servicios.
+														</p>
 													</div>
 												</div>
-												<a class="nectar-button large see-through-2  has-icon" style="margin-top: 15px; border-color: #ff1053; color: #ff1053;" href="#explainer" data-color-override="#ff1053" data-hover-color-override="#ff1053" data-hover-text-color-override="#ffffff">
-													<span>Learn More</span>
-													<i class="fas fa-arrow-right"></i>
-												</a>
 											</div> 
 										</div>
 									</div> 
@@ -335,9 +327,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504285427120 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="0.6" data-delay="0" data-alignment="left" data-color="#2ac4ea" style="color: #ffffff;">
 																		<div class="box-bg" style=" background-color: #2ac4ea;"></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Environmental-3" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;">
-																			</i>
-																			<h4>Natural Flow</h4>
+																			<i class="fas fa-users-cog fa-3x"></i>
+																			<h4>TRABAJO EN EQUIPO</h4>
 																			<p>Sed cursus turpis vitae tortor donec eaque ipsa quaeab illo.</p>
 																		</div>
 																		<a href="#http://google.com" class="box-link"></a>
@@ -345,9 +336,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504285795178 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="0" data-alignment="left" data-color="accent-color" style="color: #ffffff;">
 																		<div class="box-bg" style=""></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Sun" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;">
-																			</i>
-																			<h4>Hot Looks</h4>
+																			<i class="fas fa-people-carry fa-3x"></i>
+																			<h4>COMPROMISO</h4>
 																			<p>Nemo enim ipsam volup tatem quia vol uptas sit sunt in.</p>
 																		</div>
 																		<a href="#http://google.com" class="box-link"></a>
@@ -363,9 +353,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff;">
 																		<div class="box-bg" style=" background-color: #ff1053;"></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Rock-andRoll" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;">
-																			</i>
-																			<h4>Awesome Design</h4>
+																			<i class="fas fa-praying-hands fa-3x"></i>
+																			<h4>RESPONSABILIDAD</h4>
 																			<p>Nam libero tempore, cum soluta nobis placeat facere.</p>
 																		</div>  
 																		<a href="#http://google.com" class="box-link"></a>
@@ -373,9 +362,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504286112774 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#fbbc05" style="color: #ffffff;">
 																		<div class="box-bg" style=" background-color: #fbbc05;"></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Atom" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;">
-																			</i>
-																			<h4>Unrivaled Quality</h4>
+																			<i class="fas fa-user-shield fa-3x"></i>
+																			<h4>GARANTÍA</h4>
 																			<p>At vero eos et lorem accusamus et iusto ullam corporis.</p>
 																		</div>  
 																		<a href="#http://google.com" class="box-link"></a>
@@ -391,9 +379,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504286068726 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#2f88d6" style="color: #ffffff;">
 																		<div class="box-bg" style=" background-color: #2f88d6;"></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Motorcycle" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;">
-																			</i>
-																			<h4>Visual Builder</h4>
+																			<i class="fas fa-check-double fa-3x"></i>
+																			<h4>CALIDAD</h4>
 																			<p>Ipsum totam rem aperiam, eaque ipsa quae ab illo.</p>
 																		</div>
 																		<a href="#http://google.com" class="box-link"></a>
@@ -401,8 +388,8 @@
 																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff;">
 																		<div class="box-bg" style=" background-color: #34a853;"></div>
 																		<div class="inner" style="min-height: 0px">
-																			<i class="icon-default-style iconsmind-Folder-Organizing" data-color="accent-color" style="font-size: 40px!important; line-height: 40px!important;"></i>
-																			<h4>Ton of Features</h4>
+																			<i class="fas fa-shipping-fast fa-3x"></i>
+																			<h4>EFICACIA</h4>
 																			<p>Incidunt ut labore et dolore magnam ali quam quaerat.</p>
 																		</div> 
 																		<a href="#http://google.com" class="box-link"></a>
@@ -482,10 +469,6 @@
 													</div>
 												</div>
 											</div>
-											<a class="nectar-button large see-through-2  has-icon" style="margin-top: 35px; border-color: #3452ff; color: #3452ff;" href="corporate-2-about\index.html" data-color-override="#3452ff" data-hover-color-override="false" data-hover-text-color-override="#ffffff">
-												<span>Learn More</span>
-												<i class="fas fa-arrow-right"></i>
-											</a>
 										</div> 
 									</div>
 								</div> 
@@ -541,11 +524,11 @@
 																<div class="nectar-milestone " data-symbol="%" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																	<div class="number default" data-number-size="92">
 																		<h2>
-																			<span>97</span>
+																			<span>44</span>
 																		</h2>
 																	</div>
 																	<div class="subject" style="padding: 2%;">
-																		Percent of users recommend us to friends and family
+																		TERRITORIO NACIONAL ABARCADO
 																	</div>
 																</div>
 															</div> 
@@ -577,11 +560,11 @@
 																<div class="nectar-milestone " data-symbol="x" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																	<div class="number default" data-number-size="92">
 																		<h2>
-																			<span>16</span>
+																			<span>7</span>
 																		</h2>
 																	</div>
 																	<div class="subject" style="padding: 2%;">
-																		We deliver so much more than the competition
+																		CLIENTES SATISFECHOS
 																	</div> 
 																</div>
 															</div> 
@@ -625,7 +608,7 @@
 															<div class="wpb_wrapper">
 																<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885" style=" max-width: 500px; display: inline-block;">
 																	<div class="wpb_wrapper">
-																		<h3>Our Recent Writings</h3>
+																		<h2>NUESTROS PRODUCTOS</h2>
 																	</div>
 																</div>
 															</div> 
@@ -633,6 +616,154 @@
 													</div> 
 												</div>
 											</div>	
+
+											<div class="row" style="padding-bottom: 0; margin-bottom: 0;">
+												<div class="post-area col  span_12 col_last masonry auto_meta_overlaid_spaced  " data-ams="16px">
+													<div class="posts-container" data-load-animation="none">				
+														<article id="post-220" class="regular masonry-blog-item post-220 post type-post status-publish format-standard has-post-thumbnail category-fashion category-uncategorized tag-awesome tag-classic tag-funny tag-gaming-tips tag-music tag-photography">
+															<div class="inner-wrap animated">
+																<div class="post-content">
+																	<div class="content-inner">
+
+																		<a href="doing-a-cross-country-road-trip\index.html"></a>
+																		<span class="post-featured-img" style="background-image: url(img/another/9-años-de-laramed.jpg);">
+																		</span>	
+
+																		<div class="article-content-wrap">
+
+																			<span class="meta-category">
+																				<a class="fashion" href="category\fashion\index.html">Fashion</a>
+																				<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
+																			</span>	
+
+																			<div class="post-header">
+
+																				<h3 class="title">
+																					<a href="doing-a-cross-country-road-trip\index.html">				Doing a cross country road trip										 </a> 
+																				</h3>
+
+																				<span class="meta-author">
+																					<span>By</span>
+																					<a href="author\biznizzm4ns9\index.html" title="Posts by Phil Martinez" rel="author">Phil Martinez</a>
+																				</span> 
+
+																				<span class="meta-category">| 
+																					<a href="category\fashion\index.html">Fashion</a>, 
+																					<a href="category\uncategorized\index.html">Uncategorized</a>
+																				</span> 
+
+																				<span class="meta-comment-count">| 
+																					<a href="doing-a-cross-country-road-trip\index.html#respond">
+																					No Comments</a>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</article>
+
+
+														<article id="post-219" class="regular masonry-blog-item post-219 post type-post status-publish format-standard has-post-thumbnail category-music category-uncategorized">
+															<div class="inner-wrap animated">
+																<div class="post-content">
+																	<div class="content-inner">
+
+																		<a href="we-encountered-a-food-paradise\index.html"></a>
+																		<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
+																		</span>					
+
+																		<div class="article-content-wrap">
+
+																			<span class="meta-category">
+																				<a class="music" href="category\music\index.html">Music</a>
+																				<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
+																			</span>		
+
+																			<div class="post-header">
+
+																				<h3 class="title">
+																					<a href="we-encountered-a-food-paradise\index.html">				We encountered a food paradise										 </a> 
+																				</h3>
+
+																				<span class="meta-author">
+																					<span>By</span> 
+																					<a href="author\biznizzm4ns9\index.html" title="Posts by Phil Martinez" rel="author">Phil Martinez</a>
+																				</span>
+																				<span class="meta-category">| 
+																					<a href="category\music\index.html">Music</a>, 
+																					<a href="category\uncategorized\index.html">Uncategorized</a>
+																				</span> 
+
+																				<span class="meta-comment-count">| 
+																					<a href="we-encountered-a-food-paradise\index.html#respond">
+																					No Comments</a>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</article>
+
+
+														<article id="post-222" class="regular masonry-blog-item video post-222 post type-post status-publish format-video has-post-thumbnail category-food-for-thought category-uncategorized tag-art tag-awesome tag-cars tag-classic tag-epic tag-funny tag-gaming-tips tag-music tag-photography tag-standard tag-videos post_format-post-format-video">
+															<div class="inner-wrap animated">
+																<div class="post-content">
+																	<div class="content-inner">
+
+																		<span class="play">
+																			<span class="inner-wrap">
+																				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve">
+																					<path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path>
+																				</svg>
+																			</span>
+																		</span>
+
+																		<a href="deep-down-in-the-water\index.html">
+																		</a>
+																		<span class="post-featured-img" style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
+																		</span>		        
+
+																		<div class="article-content-wrap">
+
+																			<span class="meta-category">
+																				<a class="food-for-thought" href="category\food-for-thought\index.html">Food for thought</a>
+																				<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
+																			</span>								
+
+																			<div class="post-header">
+
+																				<h3 class="title">
+																					<a href="deep-down-in-the-water\index.html">						Deep down in the water	 
+																					</a> 
+																				</h3>
+
+																				<span class="meta-author">
+																					<span>By</span> 
+																					<a href="author\biznizzm4ns9\index.html" title="Posts by Phil Martinez" rel="author">Phil Martinez</a>
+																				</span>
+
+																				<span class="meta-category">| 
+																					<a href="category\food-for-thought\index.html">Food for thought</a>, 
+																					<a href="category\uncategorized\index.html">Uncategorized</a>
+																				</span>
+
+																				<span class="meta-comment-count">| 
+																					<a href="deep-down-in-the-water\index.html#respond">
+																					No Comments</a>
+																				</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</article>
+													</div>
+												</div>
+											</div>
+
+											
 
 											<div class="row">
 												<div class="post-area col  span_12 col_last masonry auto_meta_overlaid_spaced  " data-ams="16px">
@@ -643,7 +774,7 @@
 																	<div class="content-inner">
 
 																		<a href="doing-a-cross-country-road-trip\index.html"></a>
-																		<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/katie-moum-258412-1.jpeg);">
+																		<span class="post-featured-img" style="background-image: url(img/another/9-años-de-laramed.jpg);">
 																		</span>	
 
 																		<div class="article-content-wrap">
@@ -781,6 +912,7 @@
 											</div>
 
 
+
 											<div id="fws_5c3e32c716779" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
 												<div class="row-bg-wrap">
 													<div class="row-bg   " style=""></div>
@@ -834,16 +966,16 @@
 												<div class="row-bg-wrap"> <div class="row-bg   " style=""></div>
 											</div>
 											<div class="col span_12  left">
-												<div style=" color: #ffffff;margin-top: 15px; " class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text has-animation padding-5-percent" data-cfc="true" data-using-bg="true" data-t-w-inherits="default" data-shadow="x_large_depth" data-border-radius="20px" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ff1053" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="flip-in-vertical" data-delay="0">
-													<div class="column-bg-overlay" style="opacity: 1; background-color: #ff1053;"></div>
+												<div style=" color: #ffffff;margin-top: 15px; " class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text has-animation padding-5-percent" data-cfc="true" data-using-bg="true" data-t-w-inherits="default" data-shadow="x_large_depth" data-border-radius="20px" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="flip-in-vertical" data-delay="0">
+													<div class="column-bg-overlay" style="opacity: 1; background: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);"></div>
 													<div class="vc_column-inner">
 														<div class="wpb_wrapper">
 															<div class="divider-wrap" data-alignment="default"><div style="height: 15px;" class="divider"></div>
 														</div>
-														<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">Build your dream website today.
+														<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
 														</h3>
 														<a class="nectar-button large see-through-2 " style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;" target="_blank" href="https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
-															<span>Purchase Salient</span>
+															<span style="text-transform: none;">Genera tu prefactura</span>
 														</a>
 														<div class="divider-wrap" data-alignment="default">
 															<div style="height: 15px;" class="divider"></div>

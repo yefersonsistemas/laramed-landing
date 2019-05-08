@@ -9444,8 +9444,7 @@ body .blog-recent[data-style*="classic_enhanced_alt"] .inner-wrap:not(.has-post-
 
 /***************** Icons ******************/
 i[class*="fa-"], span[class*="fa-"] { 
-  display:inline-block;  
-  font-size:16px;  
+  display:inline-block; 
   width:32px;  
   height:32px;  
   line-height:32px;  
