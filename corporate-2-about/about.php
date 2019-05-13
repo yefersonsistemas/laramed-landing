@@ -506,7 +506,7 @@ All rights reserved.</p>
 
 					<ul class="menu secondary-header-items">					</ul>
 				</div>
-			<div id="text-2" class="widget widget_text"><h4>Wow look at this!</h4>			<div class="textwidget"><p>This is an optional, highly<br>
+			<div id="text-2" class="widget widget_text"><h4>Wow look at me!</h4>			<div class="textwidget"><p>This is an optional, highly<br>
 customizable off canvas area.</p>
 </div>
 		</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>About Salient</h4>

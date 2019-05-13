@@ -636,7 +636,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>Valor, calidad y buen servicio</h3>
+														<h3>VALOR, CALIDAD Y BUEN SERVICIO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -649,7 +649,7 @@
 														<div>
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
-																	<p>
+																	<p style="text-align:justify">
 																		Somos la mejor alternativa para la oferta de
 																		insumos médicos descartables, tenemos una
 																		relación con el cliente cercana y resolutiva,

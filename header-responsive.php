@@ -31,21 +31,21 @@
 			</div>
 
 			<div id="text-2" class="widget widget_text">
-				<h4>Wow look at this!</h4>
+				<h4>¿Alguna inquietud?</h4>
 				<div class="textwidget">
-					<p>This is an optional, highly<br>
-					customizable off canvas area.</p>
+					<p>Visítanos</p>
 				</div>
 			</div>
 
-			<div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>About Salient</h4>
+			<div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>UBICANOS</h4>
 				<div class="textwidget">
-					<p>The Castle<br>
-						Unit 345<br>
-						2500 Castle Dr<br>
-					Manhattan, NY</p>
-					<p>T: <a href="..\salient-ascend\index.html#">+216 (0)40 3629 4753</a><br>
-						E: <a href="..\salient-ascend\index.html#">hello@themenectar.com</a></p>
+					<p>Urb. El Parque<br>
+						Edif. El Impulso<br>
+						Piso 3 - Ofic. 3<br>
+					Barquisimeto, Venezuela</p>
+					<p>Telf: <a href="tel:+582518140393">0251 - 8140393 </a><br>
+						Correo: <a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a><br>
+						<a href="mailto:gte.comprayventas@laramed.net">gte.comprayventas@laramed.net</a></p>
 					</div>
 				</div>
 			</div>
