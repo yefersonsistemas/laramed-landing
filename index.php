@@ -357,24 +357,24 @@
 											<div class="wpb_wrapper">
 												<div class="clients no-carousel four-cols " data-he="greyscale_to_color"
 													data-additional_padding="4">
-													<div>
+													<div style="width:26%">
 														<img src="img/logos/Logo_Grupo_Linarez-01.png" width="274"
 															height="68" alt="client">
 													</div>
-													<div>
+													<div style="width:26%">
 														<img src="img/logos/Logo_Orquideas.png" width="313" height="80"
 															alt="client">
 													</div>
-													<div>
+													<div style="width:26%">
 														<img src="img/logos/Logo_Equipromedic.png" width="315"
 															height="74" alt="client">
 													</div>
-													<div>
+													<div style="width:26%">
 														<img src="img/logos/Logo_SinusandFace_Clinic.png" width="210"
 															height="141" alt="client">
 													</div>
-													<div>
-														<img src="img/logos/Logo_SinusandFace_Clinic.png" width="253"
+													<div style="width:26%">
+														<img src="img/logos/Logo_SinusandFace_Academy.png" width="253"
 															height="143" alt="client">
 													</div>
 												</div>
