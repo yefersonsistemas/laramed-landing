@@ -237,7 +237,7 @@
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp"
 													style="margin-top: 25px; margin-bottom: 85px; border-color: #ffffff; color: #ffffff;"
-													href="products.php" data-color-override="#ffffff"
+													href="#productos" data-color-override="#ffffff"
 													data-hover-color-override="#ffffff"
 													data-hover-text-color-override="#000000">
 													<span>NUESTROS PRODUCTOS</span>
@@ -921,7 +921,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885"
 																		style=" max-width: 500px; display: inline-block;">
-																		<div class="wpb_wrapper">
+																		<div class="wpb_wrapper" id="productos">
 																			<h2>NUESTROS PRODUCTOS</h2>
 																		</div>
 																	</div>
