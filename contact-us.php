@@ -89,6 +89,21 @@
 		.vc_custom_1503969123885{
 			margin-bottom: 40px !important;
 		}
+
+
+		#label-upload-rif{
+			cursor: pointer;
+			background: #f6f6f6;
+			border-bottom: 2px solid #e0e0e0;
+			padding: 5px;
+			display: block;
+			margin-bottom: 15px;
+			transition: border-bottom 0.2s ease;
+		}
+		#label-upload-rif:hover{
+			border-bottom:2px solid #006fab;
+		}
+		
 	</style>
 </head>
 <body class="page-template-default page page-id-214 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="true" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
@@ -225,10 +240,11 @@
 																				<div class="col span_12">
 																					<label for="your-name">Cédula / Rif</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="file" id="upload-rif" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
-																						<label for="upload-rif">subir</label>
+																						<input type="file" id="upload-rif" name="your-name" value="" size="40" hidden class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<label for="upload-rif" id="label-upload-rif">Click para subir Cedula o RIF</label>
 																					</span>
 																				</div>
+																			
 																				<div class="col span_12">
 																					<label for="your-email">Producto - marca - cantidad Bulto</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
@@ -334,6 +350,17 @@
 
 			<script type='text/javascript'>
 				var nectarLove = {"ajaxurl":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-admin\/admin-ajax.php","postID":"6","rooturl":"http:\/\/themenectar.com\/demo\/salient-corporate-2","pluginPages":[],"disqusComments":"false","loveNonce":"04203c32a6","mapApiKey":""};
+			</script>
+
+			<script>
+			var inputFile = document.getElementById('upload-rif');
+			var labelInputFile = document.getElementById('label-upload-rif');
+			
+
+			inputFile.addEventListener('change',function(e){ 
+				var fileName = e.currentTarget.files[0].name;
+				labelInputFile.textContent = fileName;
+			})
 			</script>
 
 			<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
