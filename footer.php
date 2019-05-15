@@ -5,9 +5,9 @@
 				<div class="col span_3">
 					<div id="text-3" class="widget widget_text">
 						<div class="textwidget">
-							<p>Copyright © 2017 Salient WordPress Theme.<br>
-								Built with love in New York<br>
-							All rights reserved.</p>
+							<p>Copyright © 2019 Laramed C.A.<br>
+								Diseñado por Jak Soluciones<br>
+							Todos los derechos reservados.</p>
 						</div>
 					</div>				
 				</div>
