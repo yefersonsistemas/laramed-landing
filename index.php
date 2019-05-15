@@ -331,7 +331,7 @@
 									<div class="row-bg-overlay"></div>
 								</div>
 								<div class="col span_12 dark left" style="text-align: center;">
-									<span style="font-size: 2em;">NUESTRA RED COMERCIAL</span>
+									<span style="font-size: 2em;">NUESTROS ALIADOS COMERCIALES</span>
 									<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding"
 										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
 										data-border-animation="" data-border-animation-delay="" data-border-width="none"
@@ -756,7 +756,7 @@
 												<div class="wpb_text_column wpb_content_element "
 													style=" max-width: 500px; display: inline-block;">
 													<div class="wpb_wrapper">
-														<h3>Helping people reclaim their time</h3>
+														<h3>Metas Alcanzadas</h3>
 													</div>
 												</div>
 
@@ -787,7 +787,7 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>44</span>
+																				<span>89</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
@@ -817,11 +817,11 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>350</span>
+																				<span>20</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
-																			Companies have shifted to using us recently
+																			Variedad de Productos
 																		</div>
 																	</div>
 																</div>
@@ -840,7 +840,7 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<div class="nectar-milestone " data-symbol="x"
+																	<div class="nectar-milestone " data-symbol=""
 																		data-symbol-alignment="superscript"
 																		data-symbol-pos="after" data-symbol-size="40"
 																		data-ms-align="default">
@@ -881,7 +881,7 @@
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
 								data-bottom-percent="18%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
-								style="padding-top: calc(100vw * 0.05); padding-bottom: calc(100vw * 0.18); ">
+								style="padding-top: calc(100vw * 0.05); padding-bottom: 150px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
 										<div class="row-bg    " style=""></div>
@@ -1352,25 +1352,6 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<div class="nectar-cta " data-style="material"
-																		data-alignment="center"
-																		data-text-color="custom">
-																		<h4>
-																			<span class="text">Like what you see?
-																			</span>
-																			<span class="link_wrap"
-																				style="color: #34a853;">
-																				<a class="link_text"
-																					href="corporate-2-news\index.html">
-																					See more posts
-																					<span class="circle"
-																						style="background-color: #34a853;"></span>
-																					<span class="arrow"><i
-																							class="fas fa-angle-right"></i></span>
-																				</a>
-																			</span>
-																		</h4>
-																	</div>
 																</div>
 															</div>
 														</div>
