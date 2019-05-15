@@ -787,7 +787,7 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>89</span>
+																				<span>100</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
@@ -847,11 +847,11 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>7</span>
+																				<span>3800</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
-																			CLIENTES SATISFECHOS
+																			CLIENTES FIDELIZADOS
 																		</div>
 																	</div>
 																</div>

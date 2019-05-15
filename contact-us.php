@@ -144,7 +144,7 @@
 									<div class="inner-wrap">
 										<div class="row-bg using-image   " style="background-image: url(); background-position: center center; background-repeat: no-repeat; "></div>
 									</div>
-									<div class="row-bg-overlay" style="background: rgba(52,82,255,0.93); background: linear-gradient(135deg,rgba(52,82,255,0.93) 0%,rgba(255,16,83,0.92) 100%);  opacity: 0.95; "></div>
+									<div class="row-bg-overlay" style="background:linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);"></div>
 								</div>
 								<div class="col span_12 dark left">
 									<div class="vc_col-sm-2 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
@@ -169,8 +169,8 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
-																			<h5>Available booking space</h5>
-																			<h2>Have a project in mind?</h2>
+																			<h5>Hola,</h5>
+																			<h2>Contactanos</h2>
 
 																		</div>
 																	</div>
@@ -201,25 +201,71 @@
 																			</div>
 																			<div class="row">
 																				<div class="col span_6">
-																					<label for="your-name">Name</label><br>
+																					<label for="your-name">Nombre y Apellido / Razón Social</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
 																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																				<div class="col span_6">
-																					<label for="your-email">Email</label><br>
+																					<label for="your-email">Correo Electronico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
 																						<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
+																			<div class="row">
+																				<div class="col">
+																					<label for="your-name">Dirección Fiscal</label><br>
+																					<span class="wpcf7-form-control-wrap your-name">
+																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																			</div>
+																			<div class="row">
+																				<div class="col span_12">
+																					<label for="your-name">Cédula / Rif</label><br>
+																					<span class="wpcf7-form-control-wrap your-name">
+																						<input type="file" id="upload-rif" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<label for="upload-rif">subir</label>
+																					</span>
+																				</div>
+																				<div class="col span_12">
+																					<label for="your-email">Producto - marca - cantidad Bulto</label><br>
+																					<span class="wpcf7-form-control-wrap your-email">
+																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																			</div>
+																			<div class="row">
+																				<p>Referencia</p>
+																				<div class="col span_6">
+																					<label for="your-name">Nombre y apellido</label><br>
+																					<span class="wpcf7-form-control-wrap your-name">
+																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																				<div class="col span_6">
+																					<label for="your-email">Cédula</label><br>
+																					<span class="wpcf7-form-control-wrap your-email">
+																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																			</div>
+																			<div class="row">
+																				<div class="col span_12">
+																					<label for="your-email">Cédula</label><br>
+																					<span class="wpcf7-form-control-wrap your-email">
+																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																			</div>
 																			<p>
-																				<label for="your-message">Message</label><br>
+																				<!-- <label for="your-message">Message</label><br>
 																				<span class="wpcf7-form-control-wrap your-message">
 																					<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false">
 																					</textarea>
-																				</span><br>
-																				<input type="submit" value="Send Message" class="wpcf7-form-control wpcf7-submit">
+																				</span><br> -->
+																				<input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit">
 																			</p>
 																			<div class="wpcf7-response-output wpcf7-display-none"></div>
 																		</form>

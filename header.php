@@ -31,7 +31,7 @@
 							<a href="about.php">Acerca de Nosotros</a>
 						</li>
 						<li id="menu-item-213" <?=($activepage=="products")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213 current_page_item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"'?>>
-							<a href="products.php">Productos</a>
+							<a href="index.php#productos">Productos</a>
 						</li>
 						<li id="menu-item-216" <?=($activepage=="contact-us")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current_page_item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"'?>>
 							<a href="contact-us.php">Contactanos</a>
