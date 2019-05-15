@@ -28,7 +28,7 @@
 							<a href="index.php">Inicio</a>
 						</li>
 						<li id="menu-item-95"  <?=($activepage=="about")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95 current_page_item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"'?>>
-							<a href="about.php">Acerca de Nosotros</a>
+							<a href="">Acerca de Nosotros</a>
 						</li>
 						<li id="menu-item-213" <?=($activepage=="products")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213 current_page_item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"'?>>
 							<a href="index.php#productos">Productos</a>

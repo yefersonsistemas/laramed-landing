@@ -18,16 +18,16 @@
 						<div class="menu-corporate-2-nav-container">
 							<ul id="menu-corporate-2-nav-1" class="menu">
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17">
-									<a href="index.html">Inicio</a>
+									<a href="">Inicio</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
-									<a href="corporate-2-about\index.html">Acerca de Nosotros</a>
+									<a href="">Acerca de Nosotros</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
-									<a href="corporate-2-about\index.html">Productos</a>
+									<a href="">Productos</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216">
-									<a href="corporate-2-contact-us\index.html">Contactanos</a>
+									<a href="">Contactanos</a>
 								</li>
 							</ul>
 						</div>
@@ -39,19 +39,19 @@
 						<h4>Categories</h4>
 						<ul>
 							<li class="cat-item cat-item-4">
-								<a href="category\fashion\index.html">Fashion</a>
+								<a href="">Fashion</a>
 							</li>
 							<li class="cat-item cat-item-14">
-								<a href="category\food-for-thought\index.html">Food for thought</a>
+								<a href="">Food for thought</a>
 							</li>
 							<li class="cat-item cat-item-5">
-								<a href="category\gaming\index.html">Gaming</a>
+								<a href="">Gaming</a>
 							</li>
 							<li class="cat-item cat-item-3">
-								<a href="category\music\index.html">Music</a>
+								<a href="">Music</a>
 							</li>
 							<li class="cat-item cat-item-1">
-								<a href="category\uncategorized\index.html">Uncategorized</a>
+								<a href="">Uncategorized</a>
 							</li>
 						</ul>
 					</div>					     
@@ -62,16 +62,16 @@
 						<h4>Recent Posts</h4>		
 						<ul>
 							<li>
-								<a href="doing-a-cross-country-road-trip\index.html">Doing a cross country road trip</a>
+								<a href="">Doing a cross country road trip</a>
 							</li>
 							<li>
-								<a href="we-encountered-a-food-paradise\index.html">We encountered a food paradise</a>
+								<a href="">We encountered a food paradise</a>
 							</li>
 							<li>
-								<a href="deep-down-in-the-water\index.html">Deep down in the water</a>
+								<a href="">Deep down in the water</a>
 							</li>
 							<li>
-								<a href="10-tips-for-what-to-do-downtown\index.html">10 Tips for what to do downtown</a>
+								<a href="">10 Tips for what to do downtown</a>
 							</li>
 						</ul>
 					</div>					     

@@ -942,7 +942,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="doing-a-cross-country-road-trip\index.html"></a>
+																				href=""></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
 																			</span>
@@ -951,23 +951,23 @@
 
 																				<span class="meta-category">
 																					<a class="fashion"
-																						href="category\fashion\index.html">Fashion</a>
+																						href="">Fashion</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="doing-a-cross-country-road-trip\index.html">
+																							href="">
 																							Doing a cross country road
 																							trip </a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
@@ -975,14 +975,14 @@
 
 																					<span class="meta-category">|
 																						<a
-																							href="category\fashion\index.html">Fashion</a>,
+																							href="">Fashion</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="doing-a-cross-country-road-trip\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
@@ -1000,7 +1000,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="we-encountered-a-food-paradise\index.html"></a>
+																				href=""></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
 																			</span>
@@ -1009,37 +1009,37 @@
 
 																				<span class="meta-category">
 																					<a class="music"
-																						href="category\music\index.html">Music</a>
+																						href="">Music</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="we-encountered-a-food-paradise\index.html">
+																							href="">
 																							We encountered a food
 																							paradise </a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
 																					</span>
 																					<span class="meta-category">|
 																						<a
-																							href="category\music\index.html">Music</a>,
+																							href="">Music</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="we-encountered-a-food-paradise\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
@@ -1073,7 +1073,7 @@
 																				</span>
 																			</span>
 
-																			<a href="deep-down-in-the-water\index.html">
+																			<a href="">
 																			</a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
@@ -1083,24 +1083,24 @@
 
 																				<span class="meta-category">
 																					<a class="food-for-thought"
-																						href="category\food-for-thought\index.html">Food
+																						href="">Food
 																						for thought</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="deep-down-in-the-water\index.html">
+																							href="">
 																							Deep down in the water
 																						</a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
@@ -1108,15 +1108,15 @@
 
 																					<span class="meta-category">|
 																						<a
-																							href="category\food-for-thought\index.html">Food
+																							href="">Food
 																							for thought</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="deep-down-in-the-water\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
@@ -1142,7 +1142,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="doing-a-cross-country-road-trip\index.html"></a>
+																				href=""></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
 																			</span>
@@ -1151,23 +1151,23 @@
 
 																				<span class="meta-category">
 																					<a class="fashion"
-																						href="category\fashion\index.html">Fashion</a>
+																						href="">Fashion</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="doing-a-cross-country-road-trip\index.html">
+																							href="">
 																							Doing a cross country road
 																							trip </a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
@@ -1175,14 +1175,14 @@
 
 																					<span class="meta-category">|
 																						<a
-																							href="category\fashion\index.html">Fashion</a>,
+																							href="">Fashion</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="doing-a-cross-country-road-trip\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
@@ -1200,7 +1200,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="we-encountered-a-food-paradise\index.html"></a>
+																				href=""></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
 																			</span>
@@ -1209,37 +1209,37 @@
 
 																				<span class="meta-category">
 																					<a class="music"
-																						href="category\music\index.html">Music</a>
+																						href="">Music</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="we-encountered-a-food-paradise\index.html">
+																							href="">
 																							We encountered a food
 																							paradise </a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
 																					</span>
 																					<span class="meta-category">|
 																						<a
-																							href="category\music\index.html">Music</a>,
+																							href="">Music</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="we-encountered-a-food-paradise\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
@@ -1273,7 +1273,7 @@
 																				</span>
 																			</span>
 
-																			<a href="deep-down-in-the-water\index.html">
+																			<a href="">
 																			</a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
@@ -1283,24 +1283,24 @@
 
 																				<span class="meta-category">
 																					<a class="food-for-thought"
-																						href="category\food-for-thought\index.html">Food
+																						href="">Food
 																						for thought</a>
 																					<a class="uncategorized"
-																						href="category\uncategorized\index.html">Uncategorized</a>
+																						href="">Uncategorized</a>
 																				</span>
 
 																				<div class="post-header">
 
 																					<h3 class="title">
 																						<a
-																							href="deep-down-in-the-water\index.html">
+																							href="">
 																							Deep down in the water
 																						</a>
 																					</h3>
 
 																					<span class="meta-author">
 																						<span>By</span>
-																						<a href="author\biznizzm4ns9\index.html"
+																						<a href=""
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
@@ -1308,15 +1308,15 @@
 
 																					<span class="meta-category">|
 																						<a
-																							href="category\food-for-thought\index.html">Food
+																							href="">Food
 																							for thought</a>,
 																						<a
-																							href="category\uncategorized\index.html">Uncategorized</a>
+																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
 																						<a
-																							href="deep-down-in-the-water\index.html#respond">
+																							href="">
 																							No Comments</a>
 																					</span>
 																				</div>
