@@ -1426,7 +1426,7 @@
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
 																		target="_blank"
-																		href="https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266"
+																		href="contact-us.php"
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
