@@ -613,9 +613,6 @@
 									</div>
 								</div>
 							</div>
-							<div class="banner-container">
-								banner
-							</div>
 
 							<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   "
@@ -824,7 +821,7 @@
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
-																			Variedad de Productos
+																			VARIEDAD DE PRODUCTOS
 																		</div>
 																	</div>
 																</div>
@@ -880,7 +877,9 @@
 									</div>
 								</div>
 							</div>
-
+							<div class="banner-container">
+								<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
+							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
 								data-bottom-percent="18%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
@@ -925,7 +924,7 @@
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885"
 																		style=" max-width: 500px; display: inline-block;">
 																		<div class="wpb_wrapper" id="productos">
-																			<h2>NUESTROS PRODUCTOS</h2>
+																			<h2>PRODUCTOS DESTACADOS</h2>
 																		</div>
 																	</div>
 																</div>
