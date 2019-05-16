@@ -1494,11 +1494,11 @@
 															</div>
 														</div>
 													</div>
-													<div class="col span_12" style="margin-top: 130px; border-radius: 5px;">
+												</div>
+													<div class="col span_12" style="margin-bottom: 30px; border-radius: 5px;">
 														<div id="instafeed">
 														</div>
-													</div>
-												</div>
+													</div> 
 											</div>
 										</div>
 									</div>
