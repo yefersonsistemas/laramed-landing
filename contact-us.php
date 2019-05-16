@@ -91,19 +91,64 @@
 		}
 
 
+		:root{
+			--border-color: #e0e0e0;
+			--border-color-hover: #006fab;
+		}
+
 		#label-upload-rif{
 			cursor: pointer;
 			background: #f6f6f6;
-			border-bottom: 2px solid #e0e0e0;
+			border-bottom: 2px solid var(--border-color);
 			padding: 5px;
 			display: block;
 			margin-bottom: 15px;
 			transition: border-bottom 0.2s ease;
 		}
 		#label-upload-rif:hover{
-			border-bottom:2px solid #006fab;
+			border-bottom:2px solid var(--border-color-hover);
 		}
 		
+		#products-select{
+
+			height: 50px;
+			border-bottom: 2px solid var(--border-color)!important;
+			background: #f6f6f6;
+			cursor: pointer;
+			font-family: Roboto;
+			font-weight: 700;
+			color: black;
+			transition: border-bottom 0.2s ease;
+		}
+
+		#products-select option{
+			background: #f6f6f6;
+		}
+
+		#products-select:hover{
+			border-bottom:2px solid var(--border-color-hover)!important;
+		}
+
+		#cantidad-producto,#tlf-ref{
+			width: 100%;
+			background: #f6f6f6;
+			-webkit-appearance: none;
+			border: unset;
+			height: 50px;
+			padding: 10px;
+			border-bottom: 2px solid var(--border-color);
+			transition: border-bottom .2s ease;
+		}
+ 
+		#cantidad-producto:focus,
+		#tlf-ref:focus{
+			border-bottom: 2px solid var(--border-color-hover);
+		}
+
+		#tlf-ref::-webkit-outer-spin-button, #tlf-ref::-webkit-inner-spin-button{
+			-webkit-appearance: none;
+			margin: 0;
+		}
 	</style>
 </head>
 <body class="page-template-default page page-id-214 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="true" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
@@ -218,60 +263,68 @@
 																				<div class="col span_6">
 																					<label for="your-name">Nombre y Apellido / Razón Social</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="your-name" id="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																				<div class="col span_6">
 																					<label for="your-email">Correo Electronico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="email" name="your-email" id="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col">
-																					<label for="your-name">Dirección Fiscal</label><br>
+																					<label for="your-direction">Dirección Fiscal</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="your-direction" id="your-direction" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col span_12">
-																					<label for="your-name">Cédula / Rif</label><br>
+																					<label for="label-upload-rif">Cédula / Rif</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
 																						<input type="file" id="upload-rif" name="your-name" value="" size="40" hidden class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																						<label for="upload-rif" id="label-upload-rif">Click para subir Cedula o RIF</label>
 																					</span>
 																				</div>
-																			
-																				<div class="col span_12">
-																					<label for="your-email">Producto - marca - cantidad Bulto</label><br>
+																				<div class="col span_6 mt-4">
+																				<label for="products-select">Producto</label><br>
+																					<select name="productos" id="products-select">
+																							<option value="producto">Producto</option>
+																							<option value="producto">Producto</option>
+																							<option value="producto">Producto</option>
+																							<option value="producto">Producto</option>
+																					</select>
+																				</div>
+																				<div class="col span_6">
+																					<label for="cantidad-producto">Cantidad</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input id="cantidad-producto" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<p>Referencia</p>
 																				<div class="col span_6">
-																					<label for="your-name">Nombre y apellido</label><br>
+																					<label for="name-ref">Nombre y apellido</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="name-ref" id="name-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																				<div class="col span_6">
-																					<label for="your-email">Cédula</label><br>
+																					<label for="identification-ref">Cédula</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="text" name="identification-ref" id="identification-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col span_12">
-																					<label for="your-email">Cédula</label><br>
+																					<label for="tlf-ref">Telefono</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="text" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="number" id="tlf-ref" name="tlf-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
@@ -353,14 +406,37 @@
 			</script>
 
 			<script>
-			var inputFile = document.getElementById('upload-rif');
-			var labelInputFile = document.getElementById('label-upload-rif');
-			
 
-			inputFile.addEventListener('change',function(e){ 
-				var fileName = e.currentTarget.files[0].name;
-				labelInputFile.textContent = fileName;
-			})
+			document.addEventListener('DOMContentLoaded', function() {
+
+				/* script para personalizar el input file */
+				var inputFile = document.getElementById('upload-rif');
+				var labelInputFile = document.getElementById('label-upload-rif');
+				
+
+				inputFile.addEventListener('change',function(e){ 
+					var fileName = e.currentTarget.files[0].name;
+					labelInputFile.textContent = fileName;
+				});
+
+				/* fin script para personalizar el input file */
+
+				/* script para hacer que el input number actue de numero telefonico */
+
+				var inputNumberTlfRef  = document.getElementById('tlf-ref');
+
+				inputNumberTlfRef.addEventListener('wheel',function(e){
+					
+						e.preventDefault();
+				});
+
+				inputNumberTlfRef.addEventListener('keydown',function(e) {
+					if ( e.which == 38 || e.which == 40 )
+					e.preventDefault();
+				});  
+				/* fin script para hacer que el input number actue de numero telefonico */
+			}
+
 			</script>
 
 			<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
