@@ -985,8 +985,7 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885"
-																		style=" max-width: 500px; display: inline-block;">
+																	<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885">
 																		<div class="wpb_wrapper" id="productos">
 																			<h2>PRODUCTOS DESTACADOS</h2>
 																		</div>
@@ -1511,9 +1510,23 @@
 													</div>
 												</div>
 													<div class="col span_12 instafeed-container" style="margin-bottom: 30px; border-radius: 5px;">
+														<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885">
+															<div class="wpb_wrapper" style="text-align:center;">
+																<h2>¡SIGUENOS EN NUESTRAS REDES!</h2>
+															</div>														</div>
+														<div>
+															<div>
+																<a href="https://www.instagram.com/laramed_ca/">
+																	<img alt="Instagram logo" src="PEQUEÑO.png" />
+																</a>
+																<a href="https://www.instagram.com/laramed_ca/">
+																	<h3>@Laramed_ca</h3>
+																</a>
+															</div>
+														</div>
 														<div id="instafeed">
 														</div>
-													</div> 
+													</div>
 											</div>
 										</div>
 									</div>
