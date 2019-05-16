@@ -613,6 +613,9 @@
 									</div>
 								</div>
 							</div>
+							<div class="banner-container">
+								banner
+							</div>
 
 							<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   "
@@ -707,11 +710,11 @@
 															height="960" width="1511"
 															data-animation="fade-in-from-right" src="imagen.png"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
-    margin: 0;
-    height: auto;
-    width: 100%;
-    object-fit: contain;
-">
+															margin: 0;
+															height: auto;
+															width: 100%;
+															object-fit: contain;
+														">
 													</div>
 												</div>
 											</div>
@@ -1331,6 +1334,9 @@
 
 
 
+												<div class="banner-container">
+													<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
+												</div>
 												<div id="fws_5c3e32c716779" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
 													class="wpb_row vc_row-fluid vc_row standard_section    "
@@ -1362,6 +1368,7 @@
 									</div>
 								</div>
 							</div>
+
 
 							<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
