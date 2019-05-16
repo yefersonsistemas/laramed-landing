@@ -275,7 +275,7 @@
 													href="#productos" data-color-override="#ffffff"
 													data-hover-color-override="#ffffff"
 													data-hover-text-color-override="#000000">
-													<span>NUESTROS PRODUCTOS</span>
+													<span>PRODUCTOS DESTACADOS</span>
 												</a>
 												<div id="fws_5c3e32c6e7871" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
@@ -648,6 +648,9 @@
 									</div>
 								</div>
 							</div>
+							<div class="banner-container">
+								banner
+							</div>
 
 							<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   "
@@ -742,11 +745,11 @@
 															height="960" width="1511"
 															data-animation="fade-in-from-right" src="imagen.png"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
-    margin: 0;
-    height: auto;
-    width: 100%;
-    object-fit: contain;
-">
+															margin: 0;
+															height: auto;
+															width: 100%;
+															object-fit: contain;
+														">
 													</div>
 												</div>
 											</div>
@@ -791,7 +794,7 @@
 												<div class="wpb_text_column wpb_content_element "
 													style=" max-width: 500px; display: inline-block;">
 													<div class="wpb_wrapper">
-														<h3>Metas Alcanzadas</h3>
+														<h3>METAS ALCANZADAS</h3>
 													</div>
 												</div>
 
@@ -1366,6 +1369,9 @@
 
 
 
+												<div class="banner-container">
+													<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
+												</div>
 												<div id="fws_5c3e32c716779" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
 													class="wpb_row vc_row-fluid vc_row standard_section    "
@@ -1397,6 +1403,7 @@
 									</div>
 								</div>
 							</div>
+
 
 							<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
@@ -1461,7 +1468,7 @@
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
 																		target="_blank"
-																		href="contact-us.php"
+																		href="prefactura.php"
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
