@@ -945,7 +945,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href=""></a>
+																				href="we-encountered-a-food-paradise/index.html"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
 																			</span>
@@ -1003,7 +1003,7 @@
 																		<div class="content-inner">
 
 																			<a
-																				href=""></a>
+																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
 																			</span>
@@ -1076,7 +1076,7 @@
 																				</span>
 																			</span>
 
-																			<a href="">
+																			<a href="deep-down-in-the-water/index.html">
 																			</a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
@@ -1143,9 +1143,8 @@
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="content-inner">
-
 																			<a
-																				href=""></a>
+																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
 																			</span>
@@ -1276,7 +1275,7 @@
 																				</span>
 																			</span>
 
-																			<a href="">
+																			<a href="deep-down-in-the-water/index.html">
 																			</a>
 																			<span class="post-featured-img"
 																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
@@ -1333,7 +1332,20 @@
 												</div>
 
 
+											<style>
+												.banner-container{
+													max-height:380px!important;
+												}
 
+												.banner-container img{
+													width: 100%!important;
+													height: 100%!important;
+													object-fit: cover;
+													max-height: 380px!important;
+													max-width: 100%!important;
+													border-radius: 5px;
+												}
+											</style>
 												<div class="banner-container">
 													<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
 												</div>
