@@ -127,6 +127,35 @@
 		.vc_custom_1503969123885 {
 			margin-bottom: 40px !important;
 		}
+
+		:root{
+			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
+		}
+		.banner-container{
+			max-height:380px!important;
+		}
+
+		.banner-container img{
+			width: 100%!important;
+			height: 100%!important;
+			object-fit: cover;
+			max-height: 380px!important;
+			max-width: 100%!important;
+			border-radius: 5px;
+		}
+
+		.instafeed-container #instafeed{
+			display:flex;
+			justify-content:space-between;
+		}
+
+		.instafeed-container #instafeed a{
+			width: 24%;
+		}
+
+		.instafeed-container #instafeed a img{
+			border-radius:5px;
+		}
 	</style>
 </head>
 
@@ -1366,20 +1395,6 @@
 												</div>
 
 
-											<style>
-												.banner-container{
-													max-height:380px!important;
-												}
-
-												.banner-container img{
-													width: 100%!important;
-													height: 100%!important;
-													object-fit: cover;
-													max-height: 380px!important;
-													max-width: 100%!important;
-													border-radius: 5px;
-												}
-											</style>
 												<div class="banner-container">
 													<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
 												</div>
@@ -1495,7 +1510,7 @@
 														</div>
 													</div>
 												</div>
-													<div class="col span_12" style="margin-bottom: 30px; border-radius: 5px;">
+													<div class="col span_12 instafeed-container" style="margin-bottom: 30px; border-radius: 5px;">
 														<div id="instafeed">
 														</div>
 													</div> 
