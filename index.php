@@ -3,6 +3,41 @@
 <html lang="en-US" class="no-js">
 
 <head>
+	<style>
+
+		html,
+		body {
+		margin: 0;
+		padding: 10px;
+		background: gainsboro;
+		}
+
+		#instafeed {
+		max-width: 1080px;
+		width: 100%;
+		margin: auto;
+		display: flex;
+		flex-wrap: wrap;
+		}
+		#instafeed a {
+		display: flex;
+		align-items: center;
+		position: relative;
+		width: 50%;
+		background: white;
+		}
+		@media only screen and (min-width: 580px) {
+		#instafeed a {
+			width: 25%;
+		}
+		}
+		#instafeed a img {
+		display: block;
+		width: 100%;
+		}
+
+
+	</style>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -1459,6 +1494,10 @@
 															</div>
 														</div>
 													</div>
+													<div class="col span_12" style="margin-top: 130px; border-radius: 5px;">
+														<div id="instafeed">
+														</div>
+													</div>
 												</div>
 											</div>
 										</div>
@@ -1466,6 +1505,9 @@
 								</div>
 							</div>
 						</div>
+
+
+
 					</div>
 				</div>
 
@@ -1525,6 +1567,21 @@
 			<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
 			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
 			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
+			<script type='text/javascript' src="https://matthewelsom.com/assets/js/libs/instafeed.min.js"></script>
+			<script>
+				var userFeed = new Instafeed({
+					get: 'user',
+					userId: '174598075',
+					clientId: 'b2cdc09a10a1492da03815a9d4d41b12',
+					accessToken: '174598075.b2cdc09.d45af103188947b4b52398954f8a9ab9',
+					resolution: 'standard_resolution',
+					template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
+					sortBy: 'most-recent',
+					limit: 4,
+					links: false
+					});
+					userFeed.run();
+			</script>
 
 		</div>
 	</div>
