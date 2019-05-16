@@ -240,7 +240,7 @@
 													href="#productos" data-color-override="#ffffff"
 													data-hover-color-override="#ffffff"
 													data-hover-text-color-override="#000000">
-													<span>NUESTROS PRODUCTOS</span>
+													<span>PRODUCTOS DESTACADOS</span>
 												</a>
 												<div id="fws_5c3e32c6e7871" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
@@ -759,7 +759,7 @@
 												<div class="wpb_text_column wpb_content_element "
 													style=" max-width: 500px; display: inline-block;">
 													<div class="wpb_wrapper">
-														<h3>Metas Alcanzadas</h3>
+														<h3>METAS ALCANZADAS</h3>
 													</div>
 												</div>
 
