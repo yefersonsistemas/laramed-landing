@@ -12,6 +12,10 @@
 		background: gainsboro;
 		}
 
+		:root{
+			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
+		}
+
 		#instafeed {
 			max-width: 1080px;
 			display: flex;
@@ -24,9 +28,7 @@
 		
 
 
-		:root{
-			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
-		}
+		
 		.banner-container{
 			max-height:380px!important;
 		}
@@ -76,11 +78,26 @@
 		.instafeed-container #instafeed > div > div{
 			/* width: 100%!important; */
 			margin-right: 15px;
+			position:relative;
 		}
 
-		.instafeed-container #instafeed a{
-			/* width: 24%; */
+		.instafeed-container #instafeed > div > div:hover  .overlay-insta{
+			opacity: 1;
 		}
+
+		.instafeed-container #instafeed .overlay-insta{
+			position:absolute;
+			background: linear-gradient(135deg, rgba(38, 163, 255, 0.85), rgba(83, 201, 179, 0.85));
+			height: 100%;
+			width: 100%;
+			border-radius: 5px;
+			opacity:0;
+			transition: opacity 0.2s ease;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
 
 		.instafeed-container #instafeed a img{
 			border-radius:5px;
@@ -1618,7 +1635,15 @@
 					clientId: 'b2cdc09a10a1492da03815a9d4d41b12',
 					accessToken: '174598075.b2cdc09.d45af103188947b4b52398954f8a9ab9',
 					resolution: 'standard_resolution',
-					template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
+					template: `<a href="{{link}}" target="_blank" id="{{id}}">
+									<span class="overlay-insta">
+										<span class="metrics">
+											<i class="fa fa-heart"></i>{{likes}}
+											<i class="fa fa-comment fa-flip-horizontal"></i>{{comments}}
+										</span>
+									</span>
+								<img src="{{image}}" />
+								</a>`,
 					sortBy: 'most-recent',
 					// limit: 5,
 					links: false,
