@@ -322,17 +322,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image">
-																			<img src="img/iconos/STAFF_LARAMED-01.png" alt="" width="500" height="500">
+																		<div class="team-member-image" style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">
+																			<img src="img/iconos/STAFF_LARAMED-03.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Claire Kozlov</h3>
+																			<h3>Directiva</h3>
 																			<p>Graphic Designer</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2014/07/ariel-lustre-232891.jpg"></div>    <div class="nectar_team_bio">
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>    <div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
@@ -356,17 +358,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\5-500x400.jpeg" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">>
+																			<img src="img/iconos/STAFF_LARAMED-01.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Mark Jones</h3>
+																			<h3>Administracion</h3>
 																			<p>Back-end Developer</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/anton-darius-sollers-280400.jpg">
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg">
 																		</div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
@@ -391,17 +395,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\3-500x400.jpeg" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">>
+																			<img src="img/iconos/STAFF_LARAMED-02.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Andrea Smith</h3>
+																			<h3>Venta</h3>
 																			<p>Fine Artist</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/yoann-boyer-276971-1.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
@@ -433,17 +439,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\1-500x400.jpeg" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">>
+																			<img src="img/iconos/STAFF_LARAMED-04.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Ethan Young</h3>
+																			<h3>Logistica</h3>
 																			<p>Team Leader</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2014/07/priscilla-du-preez-341138-1.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
@@ -468,17 +476,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen"> 
-																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\4-500x400.jpeg" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">>
+																			<img src="img/iconos/STAFF_LARAMED-05.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Ava Morgan</h3>
+																			<h3>Marketing Merchadising</h3>
 																			<p>The SEO Expert</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>    	
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/pete-bellis-224507.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
@@ -500,17 +510,19 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\2-500x400.jpeg" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
+																												background-size: cover;
+																												background-position: center;">>
+																			<img src="img/iconos/STAFF_LARAMED-06.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>James Anderson</h3>
+																			<h3>Protocolo</h3>
 																			<p>Front-end Developer</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="http://themenectar.com/demo/salient-corporate-2/wp-content/uploads/2017/09/brooke-cagle-224815.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
@@ -553,7 +565,7 @@
 														<div class="row-bg   " style=""></div>
 													</div>
 													<div class="col span_12  left">
-														<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+														<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
@@ -570,7 +582,7 @@
 															</div>
 														</div> 
 
-														<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+														<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
@@ -588,18 +600,14 @@
 														</div> 
 
 														<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-														<div class="vc_column-inner">
-															<div class="wpb_wrapper">
-																<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504288841908">New Accounts</h5><div class="nectar-milestone " data-ms-align="default"> <div class="number default" data-number-size="92"><h5><span>247</span></h5></div> <div class="subject" style="padding: 2%;"></div> </div>
-															</div> 
-														</div>
+													
 													</div> 
 
-													<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+													<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 														<div class="column-bg-overlay"></div>
 														<div class="vc_column-inner">
 															<div class="wpb_wrapper">
-																<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504290761477">Subscribers</h5>
+																<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504290761477">Productos Vendidos</h5>
 																<div class="nectar-milestone " data-symbol="k" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																	<div class="number default" data-number-size="92">
 																		<h5><span>13</span></h5>
