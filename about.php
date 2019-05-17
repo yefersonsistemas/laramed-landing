@@ -89,6 +89,18 @@
 		.vc_custom_1503969123885{
 			margin-bottom: 40px !important;
 		}
+
+		.team-member-image{
+			height:300px;
+			background-position:center;
+			background-size:cover;
+		}
+
+		.icono-img{
+			height:100%!important;
+			object-fit:contain;
+			padding:75px!important;
+		}
 	</style>
 </head>
 <body class="page-template-default page page-id-92 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
@@ -297,7 +309,7 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h3 style="text-align: center" class="vc_custom_heading">Say hello to your team</h3>
+																	<h3 style="text-align: center" class="vc_custom_heading">Nuestro Staff</h3>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="margin-top: 20px; width: 40px; height: 2px; margin-bottom: 20px;" data-width="40" data-animate="yes" data-animation-delay="" data-color="accent-color" class="divider-small-border"></div>
 																	</div>
@@ -322,10 +334,8 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">
-																			<img src="img/iconos/STAFF_LARAMED-03.png" alt="" width="500" height="500">
+																		<div class="team-member-image" style="background-image: url(img/laramed/20190405_152811.jpg);">
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-01.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -358,10 +368,8 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">>
-																			<img src="img/iconos/STAFF_LARAMED-01.png" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-02.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -395,10 +403,8 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">>
-																			<img src="img/iconos/STAFF_LARAMED-02.png" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-03.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -439,10 +445,8 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">>
-																			<img src="img/iconos/STAFF_LARAMED-04.png" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-04.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -476,14 +480,12 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen"> 
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">>
-																			<img src="img/iconos/STAFF_LARAMED-05.png" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-05.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Marketing Merchadising</h3>
+																			<h3>Marketing y Merchadising</h3>
 																			<p>The SEO Expert</p>
 																			<div class="arrow-end fa fa-angle-right"></div>
 																			<div class="arrow-line"></div>
@@ -510,10 +512,8 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);
-																												background-size: cover;
-																												background-position: center;">>
-																			<img src="img/iconos/STAFF_LARAMED-06.png" alt="" width="500" height="500">
+																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-06.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -608,9 +608,9 @@
 														<div class="vc_column-inner">
 															<div class="wpb_wrapper">
 																<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504290761477">Productos Vendidos</h5>
-																<div class="nectar-milestone " data-symbol="k" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
+																<div class="nectar-milestone " data-symbol="M" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																	<div class="number default" data-number-size="92">
-																		<h5><span>13</span></h5>
+																		<h5><span>140</span></h5>
 																	</div>
 																	<div class="subject" style="padding: 2%;"></div>
 																</div>

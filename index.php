@@ -916,7 +916,7 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>20</span>
+																				<span>420</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
@@ -1648,7 +1648,7 @@
 					links: false,
 					after: function () {
 
-					var carousel_instagram = new Siema({
+					var carouselInstagram = new Siema({
 						selector: '.instafeed',
 						perPage: 4,
 						onInit: function () {
@@ -1687,7 +1687,7 @@
 			</script>
 
 			<script>
-			var carousel_instagram = new Siema({
+			var carouselBanner = new Siema({
 				selector: '.siema-banner',
 				perPage:1,
 				loop: true
