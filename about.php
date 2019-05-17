@@ -323,7 +323,7 @@
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
 																		<div class="team-member-image">
-																			<img src="wp-content\uploads\2017\09\6-500x400.jpeg" alt="" width="500" height="500">
+																			<img src="img/iconos/STAFF_LARAMED-01.png" alt="" width="500" height="500">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -557,11 +557,11 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504326242419">Percent Increase</h5>
+																	<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504326242419">Años en el mercado</h5>
 																	<div class="nectar-milestone " data-ms-align="default">
 																		<div class="number default" data-number-size="92">
 																			<h5>
-																				<span>87</span>
+																				<span>9</span>
 																			</h5>
 																		</div> 
 																		<div class="subject" style="padding: 2%;"></div> 
@@ -574,11 +574,11 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504290730551">Referrals </h5>
+																	<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504290730551">Eventos asistidos </h5>
 																	<div class="nectar-milestone " data-symbol="+" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																		<div class="number default" data-number-size="92">
 																			<h5>
-																				<span>479</span>
+																				<span>287</span>
 																			</h5>
 																		</div>
 																		<div class="subject" style="padding: 2%;"></div>
@@ -630,14 +630,8 @@
 									<div class="wpb_wrapper">
 										<div class="nectar-carousel-flickity-fixed-content">
 											<div class="nectar-carousel-fixed-content">
-												<h4>What they've said about us</h4>
-												<p>lorem ipsum dolor set amet et it lorem ipsum dolor set amet et itz</p>
-												<div>
-													<a class="nectar-button large regular accent-color regular-button has-icon" href="corporate-2-contact-us\index.html" data-color-override="false" data-hover-color-override="false" data-hover-text-color-override="#fff">
-														<span>Contact Us</span>
-														<i class="fas fa-arrow-right"></i>
-													</a>
-												</div>
+												<h4>ELLOS SON QUIENES RESPALDAN NUESTRA TRAYECTORIA</h4>
+												<p>Confían en nosotros como su proveedor número uno</p>
 											</div>
 
 											<div class="nectar-flickity not-initialized nectar-carousel" data-pagination-alignment="default" data-border-radius="10px" data-column-border="true" data-column-padding="50px" data-format="fixed_text_content_fullwidth" data-autoplay="true" data-autoplay-dur="7000" data-controls="material_pagination" data-desktop-columns="3" data-small-desktop-columns="2" data-tablet-columns="1">

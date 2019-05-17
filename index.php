@@ -1627,13 +1627,14 @@
 			<script type='text/javascript' src="js/siema.min.js"></script>
 			
 			<script>
+				var imgInstaFeed = '';
 				var userFeed = new Instafeed({
 					get: 'user',
 					userId: '174598075',
 					clientId: 'b2cdc09a10a1492da03815a9d4d41b12',
 					accessToken: '174598075.b2cdc09.d45af103188947b4b52398954f8a9ab9',
 					resolution: 'standard_resolution',
-					template: `<a href="{{link}}" target="_blank" id="{{id}}">
+					template: `<a class="img-insta" href="{{link}}" target="_blank" id="{{id}}">
 									<span class="overlay-insta">
 										<span class="metrics">
 											<i class="fa fa-heart"></i>{{likes}}
@@ -1645,23 +1646,44 @@
 					sortBy: 'most-recent',
 					// limit: 5,
 					links: false,
-					after: function(){
+					after: function () {
 
-						var carousel_instagram = new Siema({
-								selector: '.instafeed',
-								perPage:4,
-								onChange: function(){
-									console.log(this);
-									// this.addEventListener('mousedown',function(e){
-									// 	e.preventDefault();
-									// })
-								}
+					var carousel_instagram = new Siema({
+						selector: '.instafeed',
+						perPage: 4,
+						onInit: function () {
+							imgInstaFeed = this.innerElements;
+
+							imgInstaFeed.forEach(function (img) {
+
+								var wasDraggin = false;
+								img.addEventListener('mousedown', function (e) {
+									wasDraggin = false;
+									// console.log(this);
+									this.addEventListener('mousemove', function (e) {
+										wasDraggin = true;
+
+										this.addEventListener('click', function (e) {
+											aux = wasDraggin;
+											wasDraggin = false;
+											if (aux) {
+												e.preventDefault();
+											}
+										});
+									})
+
+
+								});
+
+
 							});
-
-									
+						},
+					});
 					}
 					});
 					userFeed.run();
+
+					
 			</script>
 
 			<script>
