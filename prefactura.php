@@ -307,7 +307,7 @@
 																			<div class="row">
 																				<p>Referencia</p>
 																				<div class="col span_6">
-																					<label for="name-ref">Nombre y apellido</label><br>
+																					<label for="name-ref">Nombre y Apellido / Razón Social</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
 																						<input type="text" name="name-ref" id="name-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
@@ -320,10 +320,16 @@
 																				</div>
 																			</div>
 																			<div class="row">
-																				<div class="col span_12">
+																				<div class="col span_6">
 																					<label for="tlf-ref">Telefono</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
 																						<input type="number" id="tlf-ref" name="tlf-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																					</span>
+																				</div>
+																				<div class="col span_6">
+																					<label for="email-ref">Correo Electronico</label><br>
+																					<span class="wpcf7-form-control-wrap your-email">
+																						<input type="email" id="email-ref" name="email-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
 																				</div>
 																			</div>
