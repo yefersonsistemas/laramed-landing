@@ -978,7 +978,8 @@
 									</div>
 								</div>
 							</div>
-							<div class="banner-container">
+							<div class="banner-container siema-banner">
+								<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
 								<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
 							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
@@ -1628,7 +1629,6 @@
 			<script type='text/javascript' src="js/siema.min.js"></script>
 			
 			<script>
-				var runSiema = false;
 				var userFeed = new Instafeed({
 					get: 'user',
 					userId: '174598075',
@@ -1642,7 +1642,7 @@
 											<i class="fa fa-comment fa-flip-horizontal"></i>{{comments}}
 										</span>
 									</span>
-								<img src="{{image}}" />
+									<img src="{{image}}"/>
 								</a>`,
 					sortBy: 'most-recent',
 					// limit: 5,
@@ -1651,13 +1651,28 @@
 
 						var carousel_instagram = new Siema({
 								selector: '.instafeed',
-								perPage:4
+								perPage:4,
+								onChange: function(){
+									console.log(this);
+									// this.addEventListener('mousedown',function(e){
+									// 	e.preventDefault();
+									// })
+								}
 							});
 
 									
 					}
 					});
 					userFeed.run();
+			</script>
+
+			<script>
+			var carousel_instagram = new Siema({
+				selector: '.siema-banner',
+				perPage:1,
+				loop: true
+			});
+				
 			</script>
 
 		</div>
