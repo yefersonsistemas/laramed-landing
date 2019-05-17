@@ -13,29 +13,78 @@
 		}
 
 		#instafeed {
-		max-width: 1080px;
-		width: 100%;
-		margin: auto;
-		display: flex;
-		flex-wrap: wrap;
+			max-width: 1080px;
+			display: flex;
+			flex-direction:column;
+			margin:auto;
 		}
 		#instafeed a {
-		display: flex;
-		align-items: center;
-		position: relative;
-		width: 50%;
 		background: white;
 		}
-		@media only screen and (min-width: 580px) {
-		#instafeed a {
-			width: 25%;
+		
+
+
+		:root{
+			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
 		}
-		}
-		#instafeed a img {
-		display: block;
-		width: 100%;
+		.banner-container{
+			max-height:380px!important;
 		}
 
+		.banner-container img{
+			width: 100%!important;
+			height: 100%!important;
+			object-fit: cover;
+			max-height: 380px!important;
+			max-width: 100%!important;
+			border-radius: 5px;
+		}
+
+		.instafeed-container span{
+			text-align:center;
+		}
+
+		.instafeed-container span a{
+			width: 165px;
+			display: block;
+			margin: auto;
+			text-align: center;
+
+		}
+
+		.instafeed-container span a i{
+			margin: auto;
+			margin-bottom: 15px;
+		}
+
+		.instafeed-container span a:hover{
+			color: gray;
+		}
+
+		.instafeed-container span h2{
+			margin-bottom: 40px;
+		}
+
+		.instafeed-container span h3{
+			display: inline-block;
+		}
+
+		.instafeed-container #instafeed > div{
+			display:flex;
+			
+		}
+		.instafeed-container #instafeed > div > div{
+			/* width: 100%!important; */
+			margin-right: 15px;
+		}
+
+		.instafeed-container #instafeed a{
+			/* width: 24%; */
+		}
+
+		.instafeed-container #instafeed a img{
+			border-radius:5px;
+		}
 
 	</style>
 
@@ -126,35 +175,6 @@
 
 		.vc_custom_1503969123885 {
 			margin-bottom: 40px !important;
-		}
-
-		:root{
-			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
-		}
-		.banner-container{
-			max-height:380px!important;
-		}
-
-		.banner-container img{
-			width: 100%!important;
-			height: 100%!important;
-			object-fit: cover;
-			max-height: 380px!important;
-			max-width: 100%!important;
-			border-radius: 5px;
-		}
-
-		.instafeed-container #instafeed{
-			display:flex;
-			justify-content:space-between;
-		}
-
-		.instafeed-container #instafeed a{
-			width: 24%;
-		}
-
-		.instafeed-container #instafeed a img{
-			border-radius:5px;
 		}
 	</style>
 </head>
@@ -1509,24 +1529,16 @@
 														</div>
 													</div>
 												</div>
-													<div class="col span_12 instafeed-container" style="margin-bottom: 30px; border-radius: 5px;">
-														<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885">
-															<div class="wpb_wrapper" style="text-align:center;">
-																<h2>¡SIGUENOS EN NUESTRAS REDES!</h2>
-															</div>														</div>
-														<div>
-															<div>
-																<a href="https://www.instagram.com/laramed_ca/">
-																	<img alt="Instagram logo" src="PEQUEÑO.png" />
-																</a>
-																<a href="https://www.instagram.com/laramed_ca/">
-																	<h3>@Laramed_ca</h3>
-																</a>
-															</div>
-														</div>
-														<div id="instafeed">
-														</div>
-													</div>
+												<div class="col span_12 instafeed-container" style="margin-bottom: 30px; border-radius: 5px;">
+													<span>
+														<h2>¡SIGUENOS EN NUESTRAS REDES!</h2>
+														<a href="https://www.instagram.com/laramed_ca/">
+															<i class="fab fa-instagram fa-4x"></i>
+															<h3>@Laramed_ca</h3>
+														</a>
+													</span>
+													<div id="instafeed" class="instafeed"></div>
+												</div>
 											</div>
 										</div>
 									</div>
@@ -1596,7 +1608,10 @@
 			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
 			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
 			<script type='text/javascript' src="https://matthewelsom.com/assets/js/libs/instafeed.min.js"></script>
+			<script type='text/javascript' src="js/siema.min.js"></script>
+			
 			<script>
+				var runSiema = false;
 				var userFeed = new Instafeed({
 					get: 'user',
 					userId: '174598075',
@@ -1605,8 +1620,17 @@
 					resolution: 'standard_resolution',
 					template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
 					sortBy: 'most-recent',
-					limit: 4,
-					links: false
+					// limit: 5,
+					links: false,
+					after: function(){
+
+						var carousel_instagram = new Siema({
+								selector: '.instafeed',
+								perPage:4
+							});
+
+									
+					}
 					});
 					userFeed.run();
 			</script>
