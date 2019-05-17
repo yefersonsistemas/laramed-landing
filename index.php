@@ -12,9 +12,7 @@
 		background: gainsboro;
 		}
 
-		:root{
-			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
-		}
+		
 
 		#instafeed {
 			max-width: 1080px;

@@ -226,7 +226,7 @@
 													</div>
 													<div class="col span_12  left">
 														<div style="" class="vc_col-sm-12 wpb_column column_container vc_column_container col padding-17-percent" data-using-bg="true" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ff3366" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-															<div class="column-bg-overlay" style="opacity: 1; background-color: #ff3366;"></div>
+															<div class="column-bg-overlay" style="opacity: 1; background: var(--degradado)"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<blockquote class="nectar_single_testimonial" data-color="default" data-style="small_modern">
@@ -540,7 +540,7 @@
 										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(); background-position: center top; background-repeat: no-repeat; ">
 										</div>
 									</div>
-									<div class="row-bg-overlay" style="background: #3452ff; background: linear-gradient(135deg,#3452ff 0%,#ff1053 100%);  opacity: 0.8; ">
+									<div class="row-bg-overlay" style="background: var(--degradado2);  opacity: 0.8; ">
 									</div>
 								</div>
 								<div class="col span_12 light left">
@@ -740,7 +740,7 @@
 											</div>
 											<div class="col span_12  left">
 												<div style=" color: #ffffff;" class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text has-animation padding-5-percent" data-cfc="true" data-using-bg="true" data-t-w-inherits="default" data-shadow="x_large_depth" data-border-radius="20px" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="true" data-bg-color="#ff1053" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="flip-in-vertical" data-delay="0">
-													<div class="column-bg-overlay" style="opacity: 1; background-color: #ff1053;"></div>
+													<div class="column-bg-overlay" style="opacity: 1; background: var(--degradado);"></div>
 													<div class="vc_column-inner">
 														<div class="wpb_wrapper">
 															<div class="divider-wrap" data-alignment="default">
@@ -808,3 +808,4 @@
 </div>
 </body>
 </html>
+

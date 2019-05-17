@@ -1,3 +1,9 @@
+<style>
+:root{
+			--degradado: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);
+			--degradado2: linear-gradient(to right, rgba(73,155,234,1) 0%, rgba(69,137,233,1) 12%, rgba(45,32,227,1) 82%, rgba(36,23,212,1) 100%);
+		}
+</style>
 <div id="footer-outer" data-midnight="light" data-cols="5" data-custom-color="true" data-disable-copyright="true" data-matching-section-color="true" data-copyright-line="true" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true">
 	<div id="footer-widgets" data-cols="5">
 		<div class="container">
