@@ -291,10 +291,10 @@
 																				<div class="col span_6 mt-4">
 																				<label for="products-select">Producto</label><br>
 																					<select name="productos" id="products-select">
-																							<option value="producto">Producto</option>
-																							<option value="producto">Producto</option>
-																							<option value="producto">Producto</option>
-																							<option value="producto">Producto</option>
+																							<option value="producto">Producto 1</option>
+																							<option value="producto">Producto 2</option>
+																							<option value="producto">Producto 3</option>
+																							<option value="producto">Producto 4</option>
 																					</select>
 																				</div>
 																				<div class="col span_6">
