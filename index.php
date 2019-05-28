@@ -756,7 +756,6 @@
 																		asesoramiento y soluciones personalizadas a los
 																		precios más competitivos del mercado. ¿Qué
 																		necesitas?.</p>
-
 																</div>
 															</div>
 														</div>
@@ -835,7 +834,7 @@
 														<img data-shadow="x_large_depth" data-shadow-direction="middle"
 															class="img-with-animation skip-lazy " data-delay="0"
 															height="960" width="1511"
-															data-animation="fade-in-from-right" src="imagen.png"
+															data-animation="fade-in-from-right" src="img/another/Imagen_Logistica_770x720.jpg"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
@@ -1074,8 +1073,8 @@
 								</div>
 							</div>
 							<div class="banner-container siema-banner">
-								<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
-								<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_3.jpg" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_2.jpg" alt="" class="banner-img">
 							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
 								data-bottom-percent="18%" data-bg-mobile-hidden=""
@@ -1142,7 +1141,7 @@
 																			<a
 																				href="we-encountered-a-food-paradise/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
+																				style="background-image: url(img/another/Imagen_605X378_Jeringas.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1341,7 +1340,7 @@
 																			<a
 																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/9-años-de-laramed.jpg);">
+																				style="background-image: url(img/another/Imagen_605X378_Macrogoteros.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1528,7 +1527,7 @@
 
 
 												<div class="banner-container">
-													<img src="img/another/9-años-de-laramed.jpg" alt="" class="banner-img">
+													<img src="img/banners/banner_laramed_1243x380_1.jpg" alt="" class="banner-img">
 												</div>
 												<div id="fws_5c3e32c716779" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
