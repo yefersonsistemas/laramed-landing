@@ -96,10 +96,16 @@
 			background-size:cover;
 		}
 
+		.team-member-overlay{
+			opacity: 0.45!important;
+		}
+
 		.icono-img{
 			height:100%!important;
 			object-fit:contain;
 			padding:75px!important;
+			z-index: 5;
+			position:relative;
 		}
 	</style>
 </head>
