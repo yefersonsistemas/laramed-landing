@@ -97,7 +97,7 @@
 		}
 
 		.team-member-overlay{
-			opacity: 0.45!important;
+			opacity: 0.6!important;
 		}
 
 		.icono-img{
