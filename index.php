@@ -1686,7 +1686,7 @@
 					get: 'user',
 					userId: '174598075',
 					clientId: 'b2cdc09a10a1492da03815a9d4d41b12',
-					accessToken: '174598075.b2cdc09.d45af103188947b4b52398954f8a9ab9',
+					accessToken: '174598075.1677ed0.535e4fdc7299495eb96eba306e1dc345',
 					resolution: 'standard_resolution',
 					template: `<a class="img-insta" href="{{link}}" target="_blank" id="{{id}}">
 									<span class="overlay-insta">
