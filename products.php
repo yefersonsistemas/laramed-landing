@@ -221,7 +221,7 @@
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
 																				<a href="doing-a-cross-country-road-trip\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/katie-moum-258412-1-733x600.jpeg);"></span>
+																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-5cc.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
@@ -252,71 +252,27 @@
 																</div>
 															</article>
 
-															<article id="post-219" class="regular post-219 post type-post status-publish format-standard has-post-thumbnail category-music category-uncategorized">
+															<article id="post-220" class="regular post-220 post type-post status-publish format-standard has-post-thumbnail category-fashion category-uncategorized tag-awesome tag-classic tag-funny tag-gaming-tips tag-music tag-photography">
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="we-encountered-a-food-paradise\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926-467x600.jpeg);"></span>
+																				<a href="doing-a-cross-country-road-trip\index.html">
+																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-10cc.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="we-encountered-a-food-paradise\index.html"></a>
+																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
 																				<span class="meta-category">
-																					<a class="music" href="category\music\index.html">Music</a>
+																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
 																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
 																				</span>						
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="we-encountered-a-food-paradise\index.html">		
-																							We encountered a food paradise
+																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
 																						</a> 
 																					</h3>
-																				</div>
-																				<div class="excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae dui et nunc ornare vulputate non fringilla massa.</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>April 21, 2013</span>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</article>
-
-
-															<article id="post-222" class="regular video post-222 post type-post status-publish format-video has-post-thumbnail category-food-for-thought category-uncategorized tag-art tag-awesome tag-cars tag-classic tag-epic tag-funny tag-gaming-tips tag-music tag-photography tag-standard tag-videos post_format-post-format-video">
-																<div class="inner-wrap animated">
-																	<div class="post-content">
-																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
-																				<span class="video-play-button">
-																					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600px" height="800px" x="0px" y="0px" viewbox="0 0 600 800" enable-background="new 0 0 600 800" xml:space="preserve">
-																						<path fill="none" d="M0-1.79v800L600,395L0-1.79z"></path>
-																					</svg>
-																				</span>
-																				<a href="deep-down-in-the-water\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2013/03/jelly-900x600.jpeg);"></span>
-																				</a>							
-																			</div>
-
-																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="deep-down-in-the-water\index.html"></a>
-																				<span class="meta-category">
-																					<a class="food-for-thought" href="category\food-for-thought\index.html">Food for thought</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
-																				<div class="post-header">
-																					<h3 class="title">
-																						<a href="deep-down-in-the-water\index.html">						Deep down in the water										 </a> 
-																					</h3>
-																				</div>
+																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
 																				<div class="grav-wrap">
 																					<a href="author\biznizzm4ns9\index.html">
@@ -324,81 +280,7 @@
 																					</a>
 																					<div class="text">
 																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>March 23, 2013</span>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</article>
-
-
-															<article id="post-2328" class="large_featured post-2328 post type-post status-publish format-standard has-post-thumbnail category-gaming category-uncategorized tag-art tag-cars tag-funny tag-gaming-tips tag-standard tag-videos">
-																<div class="inner-wrap animated">
-																	<div class="post-content">
-																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
-																				<a href="10-tips-for-what-to-do-downtown\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2017/09/scott-walsh-315682-900x600.jpeg);"></span>
-																				</a>							
-																			</div>
-																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="10-tips-for-what-to-do-downtown\index.html"></a>
-																				<span class="meta-category">
-																					<a class="gaming" href="category\gaming\index.html">Gaming</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
-																				<div class="post-header">
-																					<h3 class="title">
-																						<a href="10-tips-for-what-to-do-downtown\index.html">			10 Tips for what to do downtown									 </a> 
-																					</h3>
-																				</div>
-																				<div class="excerpt">Mauris vel tortor accumsan, faucibus orci non, varius turpis. Aenean ac eros libero. Quisque quis sapien in ante scelerisque volutpat. Cras et libero iaculis, consequat&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>March 21, 2013</span>
-																					</div>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</article>
-
-
-															<article id="post-5618" class="wide_tall post-5618 post type-post status-publish format-standard has-post-thumbnail category-food-for-thought tag-awesome tag-epic tag-music tag-photography">
-																<div class="inner-wrap animated">
-																	<div class="post-content">
-																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
-																				<a href="we-hired-a-new-employee\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2017/09/yoann-boyer-276971-900x600.jpeg);"></span>
-																				</a>						
-																			</div>
-
-																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="we-hired-a-new-employee\index.html"></a>
-																				<span class="meta-category">
-																					<a class="food-for-thought" href="category\food-for-thought\index.html">Food for thought</a>
-																				</span>						
-																				<div class="post-header">
-																					<h3 class="title">
-																						<a href="we-hired-a-new-employee\index.html">						We hired a new employee										 </a> 
-																					</h3>
-																				</div>
-																				<div class="excerpt">Nullam ornare, sem in malesuada sagittis, quam sapien ornare massa, id pulvinar quam augue vel orci. Praesent leo orci, cursus ac malesuada et, sollicitudin eu&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>February 22, 2013</span>
+																						<span>July 15, 2014</span>
 																					</div>
 																				</div>
 																			</div>
@@ -409,112 +291,88 @@
 
 															<article id="post-2327" class="regular quote post-2327 post type-post status-publish format-quote has-post-thumbnail category-food-for-thought tag-art tag-awesome tag-gaming-tips post_format-post-format-quote">
 																<div class="inner-wrap animated">
+																	<div class="post-content"style="height:335px;">
+																				<div class="n-post-bg" >
+																				<img src="img/another/banner_products_laramed.png" alt="" style="">
+																				</div> 
+																	</div>
+																</div>
+															</article>
+
+															<article id="post-220" class="regular post-220 post type-post status-publish format-standard has-post-thumbnail category-fashion category-uncategorized tag-awesome tag-classic tag-funny tag-gaming-tips tag-music tag-photography">
+																<div class="inner-wrap animated">
 																	<div class="post-content">
-																		<div class="content-inner">
-																			<a href="ambrose-redmoon\index.html">
-																				<div class="n-post-bg" style=" background-image: url(wp-content/uploads/2014/07/priscilla-du-preez-341138-1.jpeg); "></div> 
-																				<div class="quote-inner">
-																					<span class="quote-wrap">
-																						<h3 class="title">
-																							Courage is not the absence of fear, but rather the judgment that something else is more important than fear						
-																						</h3>
-																						<span class="author"> 
-																						Ambrose Redmoon</span> 
-																					</span>
-																					<span title="Quote" class="icon"></span>
+																		<div class="article-content-wrap">
+																			<div class="post-featured-img-wrap"> 
+																				<a href="doing-a-cross-country-road-trip\index.html">
+																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-20cc.jpg);"></span>
+																				</a>							
+																			</div>
+																			<div class="post-content-wrap"> 
+																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
+																				<span class="meta-category">
+																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
+																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
+																				</span>						
+																				<div class="post-header">
+																					<h3 class="title">
+																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						</a> 
+																					</h3>
+																				</div><!--/post-header-->
+																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
+																				<div class="grav-wrap">
+																					<a href="author\biznizzm4ns9\index.html">
+																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
+																					</a>
+																					<div class="text">
+																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
+																						<span>July 15, 2014</span>
+																					</div>
 																				</div>
-																			</a> 
+																			</div>
 																		</div>
 																	</div>
 																</div>
 															</article>
 
-
-															<article id="post-2677" class="regular post-2677 post type-post status-publish format-standard has-post-thumbnail category-music tag-art tag-classic tag-epic tag-gaming-tips tag-videos">
+															<article id="post-220" class="regular post-220 post type-post status-publish format-standard has-post-thumbnail category-fashion category-uncategorized tag-awesome tag-classic tag-funny tag-gaming-tips tag-music tag-photography">
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="be-my-guest-concert\index.html">
-																					<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/austin-neill-247047-1-900x600.jpeg);">
-																					</span>
+																				<a href="doing-a-cross-country-road-trip\index.html">
+																					<span class="post-featured-img" style="background-image: url(img/products/Macrogotero.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="be-my-guest-concert\index.html"></a>
+																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
 																				<span class="meta-category">
-																					<a class="music" href="category\music\index.html">Music</a>
+																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
+																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
 																				</span>						
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="be-my-guest-concert\index.html">						Be My Guest Concert										 </a> 
+																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						</a> 
 																					</h3>
-																				</div>
-
+																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
-																				<div class="grav-wrap"><a href="author\biznizzm4ns9\index.html">
-																					<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																				</a>
-																				<div class="text">
-																					<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																					<span>February 14, 2013</span>
+																				<div class="grav-wrap">
+																					<a href="author\biznizzm4ns9\index.html">
+																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
+																					</a>
+																					<div class="text">
+																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
+																						<span>July 15, 2014</span>
+																					</div>
 																				</div>
 																			</div>
 																		</div>
 																	</div>
 																</div>
-															</div>
-														</article>
-
-
-														<article id="post-2329" class="wide_tall post-2329 post type-post status-publish format-gallery has-post-thumbnail category-music category-uncategorized tag-epic tag-music tag-standard post_format-post-format-gallery">
-															<div class="inner-wrap animated">
-																<div class="post-content">
-																	<div class="article-content-wrap">
-																		<div class="post-featured-img-wrap"> 
-																			<a href="every-day-you-learn-something-new\index.html">
-																				<span class="post-featured-img" style="background-image: url(wp-content/uploads/2014/07/sam-burriss-254311-467x600.jpeg);"></span>
-																			</a>							
-																		</div>
-																		<div class="post-content-wrap"> 
-																			<a class="entire-meta-link" href="every-day-you-learn-something-new\index.html"></a>
-																			<span class="meta-category">
-																				<a class="music" href="category\music\index.html">Music</a>
-																				<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																			</span>						
-																			<div class="post-header">
-																				<h3 class="title">
-																					<a href="every-day-you-learn-something-new\index.html">					Every day you learn something new								
-																					</a> 
-																				</h3>
-																			</div>
-																			<div class="excerpt">Cras et libero iaculis, consequat nisi nec, tristi que metus. Praesent eu odio in velit maximus accumsan</div>
-																			<div class="grav-wrap">
-																				<a href="author\biznizzm4ns9\index.html">
-																					<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																				</a>
-																				<div class="text">
-																					<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																					<span>January 23, 2013</span>
-																				</div>
-																			</div>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</article>
-
-													</div>
-													<style>
-														#pagination span, #pagination a{
-															font-family: Roboto!important;
-														}
-													</style>
-													<div id="pagination" data-is-text="All items loaded">
-														<span aria-current='page' class='page-numbers current'>1</span>
-														<a class='page-numbers' href='products-page-2.php'>2</a>
-														<a class="next page-numbers" href="products-page-2.php">Next &raquo;</a>
-													</div>		
+															</article>
+													</div>	
 												</div>
 
 

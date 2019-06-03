@@ -803,7 +803,7 @@
 														<img data-shadow="x_large_depth" data-shadow-direction="middle"
 															class="img-with-animation skip-lazy " data-delay="0"
 															height="960" width="1511"
-															data-animation="fade-in-from-right" src="imagen.png"
+															data-animation="fade-in-from-right" src="img/another/Logistica_770x720.jpg"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
@@ -1073,8 +1073,9 @@
 								</div>
 							</div>
 							<div class="banner-container siema-banner">
-								<img src="img/banners/banner_laramed_1243x380_3.jpg" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_4.png" alt="" class="banner-img">
 								<img src="img/banners/banner_laramed_1243x380_2.jpg" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_3.jpg" alt="" class="banner-img">
 							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
 								data-bottom-percent="18%" data-bg-mobile-hidden=""
@@ -1141,7 +1142,7 @@
 																			<a
 																				href="we-encountered-a-food-paradise/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Imagen_605X378_Jeringas.jpg);">
+																				style="background-image: url(img/another/Imagen_605X378_Guantes.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1199,7 +1200,7 @@
 																			<a
 																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
+																				style="background-image: url(img/products/Jeringas-de-5cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1246,42 +1247,23 @@
 																</div>
 															</article>
 
-
-															<article id="post-222"
-																class="regular masonry-blog-item video post-222 post type-post status-publish format-video has-post-thumbnail category-food-for-thought category-uncategorized tag-art tag-awesome tag-cars tag-classic tag-epic tag-funny tag-gaming-tips tag-music tag-photography tag-standard tag-videos post_format-post-format-video">
+															<article id="post-219"
+																class="regular masonry-blog-item post-219 post type-post status-publish format-standard has-post-thumbnail category-music category-uncategorized">
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="content-inner">
 
-																			<span class="play">
-																				<span class="inner-wrap">
-																					<svg version="1.1"
-																						xmlns="http://www.w3.org/2000/svg"
-																						xmlns:xlink="http://www.w3.org/1999/xlink"
-																						width="600px" height="800px"
-																						x="0px" y="0px"
-																						viewbox="0 0 600 800"
-																						enable-background="new 0 0 600 800"
-																						xml:space="preserve">
-																						<path fill="none"
-																							d="M0-1.79v800L600,395L0-1.79z">
-																						</path>
-																					</svg>
-																				</span>
-																			</span>
-
-																			<a href="deep-down-in-the-water/index.html">
-																			</a>
+																			<a
+																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
+																				style="background-image: url(img/products/Jeringas-de-20cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
 
 																				<span class="meta-category">
-																					<a class="food-for-thought"
-																						href="">Food
-																						for thought</a>
+																					<a class="music"
+																						href="">Music</a>
 																					<a class="uncategorized"
 																						href="">Uncategorized</a>
 																				</span>
@@ -1291,8 +1273,8 @@
 																					<h3 class="title">
 																						<a
 																							href="">
-																							Deep down in the water
-																						</a>
+																							We encountered a food
+																							paradise </a>
 																					</h3>
 
 																					<span class="meta-author">
@@ -1302,11 +1284,9 @@
 																							rel="author">Phil
 																							Martinez</a>
 																					</span>
-
 																					<span class="meta-category">|
 																						<a
-																							href="">Food
-																							for thought</a>,
+																							href="">Music</a>,
 																						<a
 																							href="">Uncategorized</a>
 																					</span>
@@ -1326,8 +1306,6 @@
 													</div>
 												</div>
 
-
-
 												<div class="row">
 													<div class="post-area col  span_12 col_last masonry auto_meta_overlaid_spaced  "
 														data-ams="16px">
@@ -1340,7 +1318,7 @@
 																			<a
 																				href="doing-a-cross-country-road-trip/index.html"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Imagen_605X378_Macrogoteros.jpg);">
+																				style="background-image: url(img/another/Imagen_605X378_Solucion.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1398,7 +1376,7 @@
 																			<a
 																				href=""></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(wp-content/uploads/2014/07/brooke-lark-186926.jpeg);">
+																				style="background-image: url(img/products/Macrogotero.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1446,41 +1424,23 @@
 															</article>
 
 
-															<article id="post-222"
-																class="regular masonry-blog-item video post-222 post type-post status-publish format-video has-post-thumbnail category-food-for-thought category-uncategorized tag-art tag-awesome tag-cars tag-classic tag-epic tag-funny tag-gaming-tips tag-music tag-photography tag-standard tag-videos post_format-post-format-video">
+															<article id="post-219"
+																class="regular masonry-blog-item post-219 post type-post status-publish format-standard has-post-thumbnail category-music category-uncategorized">
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="content-inner">
 
-																			<span class="play">
-																				<span class="inner-wrap">
-																					<svg version="1.1"
-																						xmlns="http://www.w3.org/2000/svg"
-																						xmlns:xlink="http://www.w3.org/1999/xlink"
-																						width="600px" height="800px"
-																						x="0px" y="0px"
-																						viewbox="0 0 600 800"
-																						enable-background="new 0 0 600 800"
-																						xml:space="preserve">
-																						<path fill="none"
-																							d="M0-1.79v800L600,395L0-1.79z">
-																						</path>
-																					</svg>
-																				</span>
-																			</span>
-
-																			<a href="deep-down-in-the-water/index.html">
-																			</a>
+																			<a
+																				href=""></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(wp-content/uploads/2013/03/jelly.jpeg);">
+																				style="background-image: url(img/products/Jeringas-de-10cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
 
 																				<span class="meta-category">
-																					<a class="food-for-thought"
-																						href="">Food
-																						for thought</a>
+																					<a class="music"
+																						href="">Music</a>
 																					<a class="uncategorized"
 																						href="">Uncategorized</a>
 																				</span>
@@ -1490,8 +1450,8 @@
 																					<h3 class="title">
 																						<a
 																							href="">
-																							Deep down in the water
-																						</a>
+																							We encountered a food
+																							paradise </a>
 																					</h3>
 
 																					<span class="meta-author">
@@ -1501,11 +1461,9 @@
 																							rel="author">Phil
 																							Martinez</a>
 																					</span>
-
 																					<span class="meta-category">|
 																						<a
-																							href="">Food
-																							for thought</a>,
+																							href="">Music</a>,
 																						<a
 																							href="">Uncategorized</a>
 																					</span>
