@@ -347,20 +347,19 @@
 																		<div class="team-meta">
 																			<h3>Directiva</h3>
 																			<p>Graphic Designer</p>
-																			<div class="arrow-end fa fa-angle-right"></div>
-																			<div class="arrow-line"></div>
+																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749.jpg"></div>    <div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-facebook"></i>
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-twitter"></i>
+																					<i class="fab fa-twitter"></i>
 																				</a>
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-instagram"></i>
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>
@@ -381,21 +380,21 @@
 																		<div class="team-meta">
 																			<h3>Administracion</h3>
 																			<p>Back-end Developer</p>
-																			<div class="arrow-end fa fa-angle-right"></div>
-																			<div class="arrow-line"></div>
+																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg">
 																		</div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
-																				<a href="" target="_blank">
-																					<i class="icon-default-style fa fa-github-alt"></i>
+																				<a href="# " target="_blank">
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
-																				<a href="" target="_blank">
-																					<i class="icon-default-style fa fa-instagram"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-twitter"></i>
 																				</a>
-																				<a href="" target="_blank"><i class="icon-default-style fa fa-facebook"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>
@@ -416,21 +415,20 @@
 																		<div class="team-meta">
 																			<h3>Venta</h3>
 																			<p>Fine Artist</p>
-																			<div class="arrow-end fa fa-angle-right"></div>
-																			<div class="arrow-line"></div>
+																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-dribbble"></i>
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-deviantart"></i>
+																					<i class="fab fa-twitter"></i>
 																				</a>
 																				<a href="# " target="_blank">
-																					<i class="icon-default-style fa fa-instagram"></i>
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>
@@ -458,21 +456,20 @@
 																		<div class="team-meta">
 																			<h3>Logistica</h3>
 																			<p>Team Leader</p>
-																			<div class="arrow-end fa fa-angle-right"></div>
-																			<div class="arrow-line"></div>
+																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-facebook"></i>
+																				<a href="# " target="_blank">
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-instagram"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-twitter"></i>
 																				</a>
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-linkedin"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>
@@ -493,18 +490,20 @@
 																		<div class="team-meta">
 																			<h3>Marketing y Merchadising</h3>
 																			<p>The SEO Expert</p>
-																			<div class="arrow-end fa fa-angle-right"></div>
-																			<div class="arrow-line"></div>
+																			
 																		</div>    	
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749.jpg"></div>
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-instagram"></i>
+																				<a href="# " target="_blank">
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-twitter"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-twitter"></i>
+																				</a>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>
@@ -532,11 +531,14 @@
 																		<div class="nectar_team_bio">
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-twitter"></i>
+																				<a href="# " target="_blank">
+																				<i class="fab fa-facebook-f"></i>
 																				</a>
-																				<a href="#" target="_blank">
-																					<i class="icon-default-style fa fa-youtube-play"></i>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-twitter"></i>
+																				</a>
+																				<a href="# " target="_blank">
+																					<i class="fab fa-instagram"></i>
 																				</a>
 																			</div>
 																		</div>

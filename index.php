@@ -1140,19 +1140,12 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="we-encountered-a-food-paradise/index.html"></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/Imagen_605X378_Guantes.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
-
-																				<span class="meta-category">
-																					<a class="fashion"
-																						href="">Fashion</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
 
 																				<div class="post-header">
 
@@ -1171,13 +1164,6 @@
 																							Martinez</a>
 																					</span>
 
-																					<span class="meta-category">|
-																						<a
-																							href="">Fashion</a>,
-																						<a
-																							href="">Uncategorized</a>
-																					</span>
-
 																					<span class="meta-comment-count">|
 																						<a
 																							href="">
@@ -1198,20 +1184,13 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="doing-a-cross-country-road-trip/index.html"></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/products/Jeringas-de-5cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
 
-																				<span class="meta-category">
-																					<a class="music"
-																						href="">Music</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
-
 																				<div class="post-header">
 
 																					<h3 class="title">
@@ -1227,12 +1206,6 @@
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
-																					</span>
-																					<span class="meta-category">|
-																						<a
-																							href="">Music</a>,
-																						<a
-																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
@@ -1254,19 +1227,12 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="doing-a-cross-country-road-trip/index.html"></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/products/Jeringas-de-20cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
-
-																				<span class="meta-category">
-																					<a class="music"
-																						href="">Music</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
 
 																				<div class="post-header">
 
@@ -1283,12 +1249,6 @@
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
-																					</span>
-																					<span class="meta-category">|
-																						<a
-																							href="">Music</a>,
-																						<a
-																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
@@ -1316,19 +1276,12 @@
 																	<div class="post-content">
 																		<div class="content-inner">
 																			<a
-																				href="doing-a-cross-country-road-trip/index.html"></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/another/Imagen_605X378_Solucion.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
-
-																				<span class="meta-category">
-																					<a class="fashion"
-																						href="">Fashion</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
 
 																				<div class="post-header">
 
@@ -1347,13 +1300,6 @@
 																							Martinez</a>
 																					</span>
 
-																					<span class="meta-category">|
-																						<a
-																							href="">Fashion</a>,
-																						<a
-																							href="">Uncategorized</a>
-																					</span>
-
 																					<span class="meta-comment-count">|
 																						<a
 																							href="">
@@ -1374,20 +1320,13 @@
 																		<div class="content-inner">
 
 																			<a
-																				href=""></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/products/Macrogotero.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
 
-																				<span class="meta-category">
-																					<a class="music"
-																						href="">Music</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
-
 																				<div class="post-header">
 
 																					<h3 class="title">
@@ -1403,12 +1342,6 @@
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
-																					</span>
-																					<span class="meta-category">|
-																						<a
-																							href="">Music</a>,
-																						<a
-																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|
@@ -1431,19 +1364,12 @@
 																		<div class="content-inner">
 
 																			<a
-																				href=""></a>
+																				href="products.php"></a>
 																			<span class="post-featured-img"
 																				style="background-image: url(img/products/Jeringas-de-10cc.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
-
-																				<span class="meta-category">
-																					<a class="music"
-																						href="">Music</a>
-																					<a class="uncategorized"
-																						href="">Uncategorized</a>
-																				</span>
 
 																				<div class="post-header">
 
@@ -1460,12 +1386,6 @@
 																							title="Posts by Phil Martinez"
 																							rel="author">Phil
 																							Martinez</a>
-																					</span>
-																					<span class="meta-category">|
-																						<a
-																							href="">Music</a>,
-																						<a
-																							href="">Uncategorized</a>
 																					</span>
 
 																					<span class="meta-comment-count">|

@@ -331,8 +331,6 @@
 			<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
 			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
 			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
-			<script type='text/javascript' src='..\wp-content\themes\salient\js\map.js?ver=8.5.4'></script>
-
 		</div>
 	</div>
 </body>

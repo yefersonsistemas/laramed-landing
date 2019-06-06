@@ -7420,8 +7420,6 @@ body.nectar-no-scrolling .nectar_team_member_overlay .team_member_details .bio-i
 
 .nectar_team_member_close.visible, .nectar_team_member_close .inner.visible{opacity:1}
 
-.nectar_team_member_close .inner:before{font-family:'icomoon'!important;  speak:none;  font-style:normal;  font-weight:normal;  font-variant:normal;  text-transform:none;  content:"\e117";  color:#fff;  font-size:24px;  display:block}
-
 /***************** Fancy Box ******************/
 .nectar-fancy-box{overflow:hidden; position:relative; padding:13%}
 
@@ -9441,20 +9439,6 @@ body .blog-recent[data-style*="classic_enhanced_alt"] .inner-wrap:not(.has-post-
 /*-------------------------------------------------------------------------*/
 /*6.Nectar Shortcode Styles
 /*-------------------------------------------------------------------------*/
-
-/***************** Icons ******************/
-i[class*="fa-"], span[class*="fa-"] { 
-  display:inline-block; 
-  width:32px;  
-  height:32px;  
-  line-height:32px;  
-  top:-2px;  
-  word-spacing:1px;  
-  position:relative;  
-  text-align:center;  
-  vertical-align:middle;  
-  max-width:100%
-}
 
 .woocommerce li[class*="fa-"].product { height: auto; }
 

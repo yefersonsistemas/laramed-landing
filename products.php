@@ -220,19 +220,16 @@
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="doing-a-cross-country-road-trip\index.html">
+																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-5cc.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
-																				<span class="meta-category">
-																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
+																				
+																									
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						<a >											Doing a cross country road trip
 																						</a> 
 																					</h3>
 																				</div><!--/post-header-->
@@ -257,19 +254,16 @@
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="doing-a-cross-country-road-trip\index.html">
+																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-10cc.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
-																				<span class="meta-category">
-																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
+																				
+																									
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						<a >											Doing a cross country road trip
 																						</a> 
 																					</h3>
 																				</div><!--/post-header-->
@@ -304,19 +298,16 @@
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="doing-a-cross-country-road-trip\index.html">
+																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-20cc.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
-																				<span class="meta-category">
-																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
+																				
+																									
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						<a >											Doing a cross country road trip
 																						</a> 
 																					</h3>
 																				</div><!--/post-header-->
@@ -341,19 +332,16 @@
 																	<div class="post-content">
 																		<div class="article-content-wrap">
 																			<div class="post-featured-img-wrap"> 
-																				<a href="doing-a-cross-country-road-trip\index.html">
+																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Macrogotero.jpg);"></span>
 																				</a>							
 																			</div>
 																			<div class="post-content-wrap"> 
-																				<a class="entire-meta-link" href="doing-a-cross-country-road-trip\index.html"></a>
-																				<span class="meta-category">
-																					<a class="fashion" href="category\fashion\index.html">Fashion</a>
-																					<a class="uncategorized" href="category\uncategorized\index.html">Uncategorized</a>
-																				</span>						
+																				
+																									
 																				<div class="post-header">
 																					<h3 class="title">
-																						<a href="doing-a-cross-country-road-trip\index.html">											Doing a cross country road trip
+																						<a >											Doing a cross country road trip
 																						</a> 
 																					</h3>
 																				</div><!--/post-header-->
@@ -381,7 +369,7 @@
 														<h4>What&#8217;s Trending</h4>
 														<ul class="nectar_blog_posts_popular nectar_widget" data-style="hover-featured-image">
 															<li class="has-img">
-																<a href="doing-a-cross-country-road-trip\index.html">
+																<a >
 																	<div class="popular-featured-img" style="background-image: url(wp-content/uploads/2014/07/katie-moum-258412-1.jpeg);"></div>
 																	<span class="meta-wrap">
 																		<span class="post-title">Doing a cross country road trip</span>
@@ -414,7 +402,7 @@
 														<h4>Recently Written</h4>
 														<ul class="nectar_blog_posts_recent_extra nectar_widget" data-style="featured-image-left">
 															<li class="has-img">
-																<a href="doing-a-cross-country-road-trip\index.html">
+																<a >
 																	<span class="popular-featured-img">
 																		<img width="100" height="100" src="wp-content\uploads\2014\07\katie-moum-258412-1-100x100.jpeg" class="attachment-portfolio-widget size-portfolio-widget wp-post-image" alt="" title="" srcset="wp-content\uploads\2014\07\katie-moum-258412-1-100x100.jpeg 100w, wp-content\uploads\2014\07\katie-moum-258412-1-150x150.jpeg 150w, wp-content\uploads\2014\07\katie-moum-258412-1-200x200.jpeg 200w, wp-content\uploads\2014\07\katie-moum-258412-1-500x500.jpeg 500w, wp-content\uploads\2014\07\katie-moum-258412-1-350x350.jpeg 350w" sizes="(max-width: 100px) 100vw, 100px">
 																	</span>
