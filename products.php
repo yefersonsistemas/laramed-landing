@@ -219,7 +219,7 @@
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
+																			<div class="post-featured-img-wrap" style="height: 375px;"> 
 																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-5cc.jpg);"></span>
 																				</a>							
@@ -234,15 +234,6 @@
 																					</h3>
 																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>July 15, 2014</span>
-																					</div>
-																				</div>
 																			</div>
 																		</div>
 																	</div>
@@ -253,7 +244,7 @@
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
+																			<div class="post-featured-img-wrap" style="height: 375px;"> 
 																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-10cc.jpg);"></span>
 																				</a>							
@@ -268,15 +259,6 @@
 																					</h3>
 																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>July 15, 2014</span>
-																					</div>
-																				</div>
 																			</div>
 																		</div>
 																	</div>
@@ -297,7 +279,7 @@
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
+																			<div class="post-featured-img-wrap" style="height: 375px;"> 
 																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Jeringas-de-20cc.jpg);"></span>
 																				</a>							
@@ -312,15 +294,6 @@
 																					</h3>
 																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>July 15, 2014</span>
-																					</div>
-																				</div>
 																			</div>
 																		</div>
 																	</div>
@@ -331,7 +304,7 @@
 																<div class="inner-wrap animated">
 																	<div class="post-content">
 																		<div class="article-content-wrap">
-																			<div class="post-featured-img-wrap"> 
+																			<div class="post-featured-img-wrap" style="height: 375px;"> 
 																				<a >
 																					<span class="post-featured-img" style="background-image: url(img/products/Macrogotero.jpg);"></span>
 																				</a>							
@@ -346,15 +319,6 @@
 																					</h3>
 																				</div><!--/post-header-->
 																				<div class="excerpt">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place&hellip;</div>
-																				<div class="grav-wrap">
-																					<a href="author\biznizzm4ns9\index.html">
-																						<img alt='Phil Martinez' src='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=70&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/3d7188c8a0ece7220484b68f722da404?s=140&#038;d=mm&#038;r=g' class='avatar avatar-70 photo' height='70' width='70'>
-																					</a>
-																					<div class="text">
-																						<a href="author\biznizzm4ns9\index.html" rel="author">Phil Martinez</a>
-																						<span>July 15, 2014</span>
-																					</div>
-																				</div>
 																			</div>
 																		</div>
 																	</div>
@@ -432,24 +396,7 @@
 																		</a>
 																	</li>
 																</ul>
-															</div>
-
-															<div id="tag_cloud-2" class="widget widget_tag_cloud">
-																<h4>Tags</h4>
-																<div class="tagcloud">
-																	<a href="tag\art\index.html" class="tag-cloud-link tag-link-7 tag-link-position-1" style="font-size: 18.08pt;" aria-label="Art (5 items)">Art</a>
-																	<a href="tag\awesome\index.html" class="tag-cloud-link tag-link-8 tag-link-position-2" style="font-size: 13.6pt;" aria-label="Awesome (4 items)">Awesome</a>
-																	<a href="tag\cars\index.html" class="tag-cloud-link tag-link-9 tag-link-position-3" style="font-size: 8pt;" aria-label="Cars (3 items)">Cars</a>
-																	<a href="tag\classic\index.html" class="tag-cloud-link tag-link-10 tag-link-position-4" style="font-size: 13.6pt;" aria-label="Classic (4 items)">Classic</a>
-																	<a href="tag\epic\index.html" class="tag-cloud-link tag-link-13 tag-link-position-5" style="font-size: 18.08pt;" aria-label="Epic (5 items)">Epic</a>
-																	<a href="tag\funny\index.html" class="tag-cloud-link tag-link-15 tag-link-position-6" style="font-size: 13.6pt;" aria-label="Funny (4 items)">Funny</a>
-																	<a href="tag\gaming-tips\index.html" class="tag-cloud-link tag-link-16 tag-link-position-7" style="font-size: 22pt;" aria-label="Gaming Tips (6 items)">Gaming Tips</a>
-																	<a href="tag\music\index.html" class="tag-cloud-link tag-link-17 tag-link-position-8" style="font-size: 13.6pt;" aria-label="Music (4 items)">Music</a>
-																	<a href="tag\photography\index.html" class="tag-cloud-link tag-link-18 tag-link-position-9" style="font-size: 13.6pt;" aria-label="Photography (4 items)">Photography</a>
-																	<a href="tag\standard\index.html" class="tag-cloud-link tag-link-19 tag-link-position-10" style="font-size: 13.6pt;" aria-label="Standard (4 items)">Standard</a>
-																	<a href="tag\videos\index.html" class="tag-cloud-link tag-link-21 tag-link-position-11" style="font-size: 13.6pt;" aria-label="Videos (4 items)">Videos</a>
-																</div>
-															</div>		
+															</div>	
 														</div>
 													</div>
 												</div> 

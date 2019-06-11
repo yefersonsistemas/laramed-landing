@@ -353,7 +353,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -388,7 +388,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -422,7 +422,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -463,7 +463,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -497,7 +497,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -532,7 +532,7 @@
 																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
-																				<i class="fab fa-facebook-f"></i>
+																					<i class="fab fa-facebook-f"></i>
 																				</a>
 																				<a href="# " target="_blank">
 																					<i class="fab fa-twitter"></i>
@@ -608,7 +608,7 @@
 														</div> 
 
 														<div class="vc_col-sm-3 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0"><div class="column-bg-overlay"></div>
-													
+														
 													</div> 
 
 													<div class="vc_col-sm-4 wpb_column column_container vc_column_container col centered-text no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
