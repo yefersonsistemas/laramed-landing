@@ -191,6 +191,10 @@
 		.vc_custom_1503969123885 {
 			margin-bottom: 40px !important;
 		}
+
+		.inner h4{
+			text-align: center;
+		}
 	</style>
 </head>
 
@@ -715,106 +719,12 @@
 
 							<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   "
-								style="padding-top: calc(100vw * 0.10); padding-bottom: 0px; ">
+								style="padding-top: 50px; padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
 										<div class="row-bg    " style=""></div>
 									</div>
 									<div class="row-bg-overlay"></div>
-								</div>
-								<div class="col span_12 dark left">
-									<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent"
-										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
-										data-border-animation="" data-border-animation-delay="" data-border-width="none"
-										data-border-style="solid" data-border-color="" data-bg-cover=""
-										data-padding-pos="right" data-has-bg-color="false" data-bg-color=""
-										data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation=""
-										data-delay="0">
-										<div class="column-bg-overlay"></div>
-										<div class="vc_column-inner">
-											<div class="wpb_wrapper">
-												<div class="wpb_text_column wpb_content_element ">
-													<div class="wpb_wrapper">
-														<h3>VALOR, CALIDAD Y BUEN SERVICIO</h3>
-													</div>
-												</div>
-												<div class="toggles accordion" data-style="minimal_small">
-													<div class="toggle default">
-														<h3>
-															<a href="#">
-																<i class="icon-plus-sign"></i>
-															</a>
-														</h3>
-														<div>
-															<div class="wpb_text_column wpb_content_element ">
-																<div class="wpb_wrapper">
-																	<p style="text-align:justify">
-																		Somos la mejor alternativa para la oferta de
-																		insumos médicos descartables, tenemos una
-																		relación con el cliente cercana y resolutiva,
-																		brindándoles una respuesta inmediata,
-																		asesoramiento y soluciones personalizadas a los
-																		precios más competitivos del mercado. ¿Qué
-																		necesitas?.</p>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="toggle default">
-														<div>
-															<div class="wpb_text_column wpb_content_element ">
-																<div class="wpb_wrapper">
-																	<p>Malesuada fames ac turpis egestas. Ut non enim
-																		eleifend felis pretium feugiat. Vivamus quis mi.
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="toggle default">
-														<div>
-															<div class="wpb_text_column wpb_content_element ">
-																<div class="wpb_wrapper">
-																	<p>Donec sodales sagittis magna. Sed consequat, leo
-																		eget bibendum sodales, augue velit cursus nunc,
-																		quis gravida magna mi a libero.</p>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-
-									<div class="vc_col-sm-8 wpb_column column_container vc_column_container col padding-2-percent"
-										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
-										data-border-animation="" data-border-animation-delay="" data-border-width="none"
-										data-border-style="solid" data-border-color="" data-bg-cover=""
-										data-padding-pos="all" data-has-bg-color="false" data-bg-color=""
-										data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation=""
-										data-delay="0">
-										<div class="column-bg-overlay"></div>
-										<div class="vc_column-inner">
-											<div class="wpb_wrapper">
-												<div class="img-with-aniamtion-wrap " data-max-width="150%"
-													data-border-radius="10px">
-													<div class="inner" style="width:100%">
-														<img data-shadow="x_large_depth" data-shadow-direction="middle"
-															class="img-with-animation skip-lazy " data-delay="0"
-															height="960" width="1511"
-															data-animation="fade-in-from-right" src="img/another/Logistica_770x720.jpg"
-															sizes="100vw" alt="" style="transform: translate(61px, 0px);
-															margin: 0;
-															height: auto;
-															width: 100%;
-															object-fit: contain;
-														">
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
 								</div>
 
 								<div class="col span_12 dark left">
@@ -858,6 +768,44 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
+														<h3>PROPÓSITO</h3>
+													</div>
+												</div>
+												<div class="toggles accordion" data-style="minimal_small">
+													<div class="toggle default">
+														<h3>
+															<a href="#">
+																<i class="icon-plus-sign"></i>
+															</a>
+														</h3>
+														<div>
+															<div class="wpb_text_column wpb_content_element ">
+																<div class="wpb_wrapper">
+																	<p style="text-align:justify">
+																	Somos una  importadora y exportadora de Insumos Médicos Descartables, con más de 9 años de experiencia, comprometidos en ofrecerle a nuestros clientes, productos  de la mejor calidad al mejor precio del mercado. Contamos con un recurso humano profesional, enfocado en la diversidad de productos y calidad de servicio, siempre trabajando con optimismo y dedicación para brindar una excelente atención a nuestros clientes.</p>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+
+								<div class="col span_12 dark left">
+									<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent"
+										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
+										data-border-animation="" data-border-animation-delay="" data-border-width="none"
+										data-border-style="solid" data-border-color="" data-bg-cover=""
+										data-padding-pos="right" data-has-bg-color="false" data-bg-color=""
+										data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation=""
+										data-delay="0">
+										<div class="column-bg-overlay"></div>
+										<div class="vc_column-inner">
+											<div class="wpb_wrapper">
+												<div class="wpb_text_column wpb_content_element ">
+													<div class="wpb_wrapper">
 														<h3>VALOR, CALIDAD Y BUEN SERVICIO</h3>
 													</div>
 												</div>
@@ -879,29 +827,6 @@
 																		asesoramiento y soluciones personalizadas a los
 																		precios más competitivos del mercado. ¿Qué
 																		necesitas?.</p>
-
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="toggle default">
-														<div>
-															<div class="wpb_text_column wpb_content_element ">
-																<div class="wpb_wrapper">
-																	<p>Malesuada fames ac turpis egestas. Ut non enim
-																		eleifend felis pretium feugiat. Vivamus quis mi.
-																	</p>
-																</div>
-															</div>
-														</div>
-													</div>
-													<div class="toggle default">
-														<div>
-															<div class="wpb_text_column wpb_content_element ">
-																<div class="wpb_wrapper">
-																	<p>Donec sodales sagittis magna. Sed consequat, leo
-																		eget bibendum sodales, augue velit cursus nunc,
-																		quis gravida magna mi a libero.</p>
 																</div>
 															</div>
 														</div>
@@ -911,8 +836,36 @@
 										</div>
 									</div>
 
-									
+									<div class="vc_col-sm-8 wpb_column column_container vc_column_container col padding-2-percent"
+										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
+										data-border-animation="" data-border-animation-delay="" data-border-width="none"
+										data-border-style="solid" data-border-color="" data-bg-cover=""
+										data-padding-pos="all" data-has-bg-color="false" data-bg-color=""
+										data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation=""
+										data-delay="0">
+										<div class="column-bg-overlay"></div>
+										<div class="vc_column-inner">
+											<div class="wpb_wrapper">
+												<div class="img-with-aniamtion-wrap " data-max-width="150%"
+													data-border-radius="10px">
+													<div class="inner" style="width:100%">
+														<img data-shadow="x_large_depth" data-shadow-direction="middle"
+															class="img-with-animation skip-lazy " data-delay="0"
+															height="960" width="1511"
+															data-animation="fade-in-from-right" src="img/another/Logistica_770x720.jpg"
+															sizes="100vw" alt="" style="transform: translate(61px, 0px);
+															margin: 0;
+															height: auto;
+															width: 100%;
+															object-fit: contain;
+														">
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
 								</div>
+
 							</div>
 							<div id="fws_5c3e32c7062f2" data-midnight="dark" data-top-percent="10%"
 								data-bottom-percent="5%" data-bg-mobile-hidden=""
@@ -1149,26 +1102,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							Doing a cross country road
 																							trip </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1193,26 +1132,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							We encountered a food
 																							paradise </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1236,26 +1161,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							We encountered a food
 																							paradise </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1285,26 +1196,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							Doing a cross country road
 																							trip </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1329,26 +1226,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							We encountered a food
 																							paradise </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1373,26 +1256,12 @@
 
 																				<div class="post-header">
 
-																					<h3 class="title">
+																					<!-- <h3 class="title">
 																						<a
 																							href="">
 																							We encountered a food
 																							paradise </a>
-																					</h3>
-
-																					<span class="meta-author">
-																						<span>By</span>
-																						<a href=""
-																							title="Posts by Phil Martinez"
-																							rel="author">Phil
-																							Martinez</a>
-																					</span>
-
-																					<span class="meta-comment-count">|
-																						<a
-																							href="">
-																							No Comments</a>
-																					</span>
+																					</h3> -->
 																				</div>
 																			</div>
 																		</div>
@@ -1502,7 +1371,6 @@
 																	</h3>
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
-																		target="_blank"
 																		href="prefactura.php"
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"

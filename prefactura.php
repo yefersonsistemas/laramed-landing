@@ -109,7 +109,7 @@
 			border-bottom:2px solid var(--border-color-hover);
 		}
 		
-		#products-select{
+		#producto{
 
 			height: 50px;
 			border-bottom: 2px solid var(--border-color)!important;
@@ -121,15 +121,15 @@
 			transition: border-bottom 0.2s ease;
 		}
 
-		#products-select option{
+		#producto option{
 			background: #f6f6f6;
 		}
 
-		#products-select:hover{
+		#producto:hover{
 			border-bottom:2px solid var(--border-color-hover)!important;
 		}
 
-		#cantidad-producto,#tlf-ref{
+		#cantidad,#p-phone, #p-cedula{
 			width: 100%;
 			background: #f6f6f6;
 			-webkit-appearance: none;
@@ -140,12 +140,12 @@
 			transition: border-bottom .2s ease;
 		}
  
-		#cantidad-producto:focus,
-		#tlf-ref:focus{
+		#cantidad:focus,
+		#p-phone:focus, #p-cedula:focus{
 			border-bottom: 2px solid var(--border-color-hover);
 		}
 
-		#tlf-ref::-webkit-outer-spin-button, #tlf-ref::-webkit-inner-spin-button{
+		#p-phone::-webkit-outer-spin-button, #p-phone::-webkit-inner-spin-button, #p-cedula::-webkit-outer-spin-button, #p-cedula::-webkit-inner-spin-button{
 			-webkit-appearance: none;
 			margin: 0;
 		}
@@ -250,58 +250,58 @@
 																<div class="wpb_wrapper">
 																	<div role="form" class="wpcf7" id="wpcf7-f5686-p214-o1" lang="en-US" dir="ltr">
 																		<div class="screen-reader-response"></div>
-																		<form action="/demo/salient-corporate-2/corporate-2-contact-us/#wpcf7-f5686-p214-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-																			<div style="display: none;">
-																				<input type="hidden" name="_wpcf7" value="5686">
-																				<input type="hidden" name="_wpcf7_version" value="4.9">
-																				<input type="hidden" name="_wpcf7_locale" value="en_US">
-																				<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5686-p214-o1">
-																				<input type="hidden" name="_wpcf7_container_post" value="214">
-																			</div>
+																		<form id="formularioContacto" class="wpcf7-form" method="POST" enctype="multipart/form-data">
 																			<div class="row">
 																				<div class="col span_6">
 																					<label for="your-name">Nombre y Apellido / Razón Social</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-name" id="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="name" id="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="msjname" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
 																					<label for="your-email">Correo Electronico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="email" name="your-email" id="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="email" name="email" id="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="msjemail" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col">
 																					<label for="your-direction">Dirección Fiscal</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-direction" id="your-direction" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="direccion" id="direccion" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textdireccion" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col span_12">
 																					<label for="label-upload-rif">Cédula / Rif</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="file" id="upload-rif" name="your-name" value="" size="40" hidden class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
-																						<label for="upload-rif" id="label-upload-rif">Click para subir Cedula o RIF</label>
+																						<input type="file" id="uploadrif" name="uploadrif" hidden class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required">
+																						<label for="uploadrif" id="label-upload-rif">Click para subir Cedula o RIF</label>
 																					</span>
+																					<span id="textcedula-rif" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6 mt-4">
-																				<label for="products-select">Producto</label><br>
-																					<select name="productos" id="products-select">
-																							<option value="producto">Producto 1</option>
-																							<option value="producto">Producto 2</option>
-																							<option value="producto">Producto 3</option>
-																							<option value="producto">Producto 4</option>
+																				<label for="producto">Producto</label><br>
+																					<select id="producto" name="producto" style="font-size: 15px!important;">
+																							<option value="Seleccione">Seleccione</option>
+																							<option value="producto 1">Producto 1</option>
+																							<option value="producto 2">Producto 2</option>
+																							<option value="producto 3">Producto 3</option>
+																							<option value="producto 4">Producto 4</option>
 																					</select>
+																					<span id="textproducto" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
-																					<label for="cantidad-producto">Cantidad</label><br>
+																					<label for="cantidad">Cantidad</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input id="cantidad-producto" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input id="cantidad" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textcantidad" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
 																			<div class="row">
@@ -309,37 +309,37 @@
 																				<div class="col span_6">
 																					<label for="name-ref">Nombre y Apellido / Razón Social</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="name-ref" id="name-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="p-name" id="p-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textp-name" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
-																					<label for="identification-ref">Cédula</label><br>
+																					<label for="tlf-ref">Cédula</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="text" name="identification-ref" id="identification-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="number" id="p-cedula" name="p-cedula" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textp-cedula" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
 																			<div class="row">
 																				<div class="col span_6">
 																					<label for="tlf-ref">Telefono</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="number" id="tlf-ref" name="tlf-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="number" id="p-phone" name="p-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textp-phone" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
 																					<label for="email-ref">Correo Electronico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="email" id="email-ref" name="email-ref" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="email" id="p-email" name="p-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textp-email" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
+																			<div id="success" style="padding-top: 5px; padding-bottom: 5px;"></div>
 																			<p>
-																				<!-- <label for="your-message">Message</label><br>
-																				<span class="wpcf7-form-control-wrap your-message">
-																					<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false">
-																					</textarea>
-																				</span><br> -->
-																				<input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit">
+																				<input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
 																			</p>
 																			<div class="wpcf7-response-output wpcf7-display-none"></div>
 																		</form>
@@ -403,10 +403,6 @@
 			<link rel='stylesheet' id='animate-css-css' href='css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
 
 			<script type='text/javascript'>
-				var wpcf7 = {"apiSettings":{"root":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
-			</script>
-
-			<script type='text/javascript'>
 				var nectarLove = {"ajaxurl":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-admin\/admin-ajax.php","postID":"6","rooturl":"http:\/\/themenectar.com\/demo\/salient-corporate-2","pluginPages":[],"disqusComments":"false","loveNonce":"04203c32a6","mapApiKey":""};
 			</script>
 
@@ -415,7 +411,7 @@
 				document.addEventListener('DOMContentLoaded', function() {
 
 					/* script para personalizar el input file */
-					var inputFile = document.getElementById('upload-rif');
+					var inputFile = document.getElementById('uploadrif');
 					var labelInputFile = document.getElementById('label-upload-rif');
 					
 
@@ -428,7 +424,7 @@
 
 					/* script para hacer que el input number actue de numero telefonico */
 
-					var inputNumberTlfRef  = document.getElementById('tlf-ref');
+					var inputNumberTlfRef  = document.getElementById('p-phone');
 
 					inputNumberTlfRef.addEventListener('wheel',function(e){
 						e.preventDefault();
@@ -443,6 +439,7 @@
 
 			</script>
 
+			<script type='text/javascript' src='js\jquery\jquery-2.2.4.min.js'></script>
 			<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
 			<script type='text/javascript' src='js\priority.js?ver=8.6768'></script>
 			<script type='text/javascript' src='js\modernizr.js?ver=2.6.2'></script>
@@ -456,8 +453,8 @@
 			<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
 			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
 			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
-			<script type='text/javascript' src='..\wp-content\themes\salient\js\map.js?ver=8.5.4'></script>
-
+			<script type='text/javascript' src='js\jquery.form.js'></script>
+			<script type='text/javascript' src='mail-contact-prefactura.js'></script>
 		</div>
 	</div>
 </body>

@@ -10,9 +10,11 @@
 			<div class="row">
 				<div class="col span_3">
 					<div id="text-3" class="widget widget_text">
+						<div>
+							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.png" alt="">
+						</div>
 						<div class="textwidget">
-							<p>Copyright © 2019 Laramed C.A.<br>
-								Diseñado por Jak Soluciones<br>
+							<p>Copyright © 2019 Laramed C.A. | <br> Jak Soluciones C.A. <br>
 							Todos los derechos reservados.</p>
 						</div>
 					</div>				
@@ -20,20 +22,20 @@
 
 				<div class="col span_3">
 					<div id="nav_menu-2" class="widget widget_nav_menu">
-						<h4>Discover</h4>
+						<h4>Enlaces</h4>
 						<div class="menu-corporate-2-nav-container">
 							<ul id="menu-corporate-2-nav-1" class="menu">
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 current_page_item menu-item-17">
-									<a href="">Inicio</a>
+									<a href="index.php">Inicio</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
-									<a href="">Acerca de Nosotros</a>
+									<a href="about.php">Acerca de Nosotros</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
-									<a href="">Productos</a>
+									<a href="products.php">Productos</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216">
-									<a href="">Contactanos</a>
+									<a href="contact-us.php">Contactanos</a>
 								</li>
 							</ul>
 						</div>
@@ -41,47 +43,28 @@
 				</div>
 
 				<div class="col span_3">
-					<div id="categories-2" class="widget widget_categories">
-						<h4>Categories</h4>
-						<ul>
-							<li class="cat-item cat-item-4">
-								<a href="">Fashion</a>
-							</li>
-							<li class="cat-item cat-item-14">
-								<a href="">Food for thought</a>
-							</li>
-							<li class="cat-item cat-item-5">
-								<a href="">Gaming</a>
-							</li>
-							<li class="cat-item cat-item-3">
-								<a href="">Music</a>
-							</li>
-							<li class="cat-item cat-item-1">
-								<a href="">Uncategorized</a>
-							</li>
-						</ul>
+					<div id="recent-posts-2" class="widget widget_recent_entries">
+						<h4>Dirección</h4>
+						<p>Av. Juan Carmona. Urb. El Parque edificio. El Impulso, <br>
+						piso 3 local 3-3.<br>
+						Barquisimeto, Venezuela <br>
+						Teléfono: (+58) 251 814 0393 <br>
+						<a href="mailto:gte.comprasyventas@laramen.net">gte.comprasyventas@laramen.net</a> <br>		
+						<a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a>
+						</p>
 					</div>					     
 				</div>
 
 				<div class="col span_3">
-					<div id="recent-posts-2" class="widget widget_recent_entries">
-						<h4>Recent Posts</h4>		
-						<ul>
-							<li>
-								<a href="">Doing a cross country road trip</a>
-							</li>
-							<li>
-								<a href="">We encountered a food paradise</a>
-							</li>
-							<li>
-								<a href="">Deep down in the water</a>
-							</li>
-							<li>
-								<a href="">10 Tips for what to do downtown</a>
-							</li>
-						</ul>
+					<div id="categories-2" class="widget widget_categories">
+						<h4>Redes Sociales</h4>
+						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-facebook-f"></i> /laramed</a></div>
+						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-twitter"></i> @laramed_ca</a></div>
+						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-instagram"></i> @laramed_ca</a></div>
+						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-youtube"></i> /laramed_youtbe</a></div>
 					</div>					     
 				</div>
+
 			</div>
 		</div>
 	</div>

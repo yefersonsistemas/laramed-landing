@@ -186,7 +186,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="nectar-gradient-text" data-direction="horizontal" data-color="extra-color-gradient-2" style="">
-																		<h5>Together We Build Dreams</h5>
+																		<h5>Construye una alianza con nosotros</h5>
 																	</div>
 																</div> 
 															</div>
@@ -204,7 +204,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1504326206457">
 																		<div class="wpb_wrapper">
-																			<h2>A wonderful serenity <strong>has</strong> <strong>taken possession</strong> of my entire soul, like these sweet mornings of spring which I enjoy with my <strong>whole heart</strong>.</h2>
+																			<h2>Siempre a la vanguardia, somos más que equipos e insumos médicos, somos alta calidad y seguridad para los clientes. Tecnología y servicio eficiente para todos los usuarios.</h2>
 																		</div>
 																	</div>
 																</div> 
@@ -250,40 +250,10 @@
 																	<blockquote class="nectar_single_testimonial" data-color="default" data-style="small_modern">
 																		<div class="inner">
 																			<p>
-																				<span class="open-quote">&#8221;</span>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.  
+																				<span class="open-quote">&#8221;</span>Contribuimos de manera positiva en el crecimiento del área de la salud y brindamos la importación, exportación, fabricación, compra, venta y elaboración de todo tipo materiales médico-quirúrgicos de alta calidad.  
 																			</p>
-																			<div class="image-icon " style="background-image: url(wp-content/uploads/2017/09/testimonial3.jpeg);"></div>
-																			<span class="wrap">
-																				<span>Jessie Cohen</span>
-																				<span class="title">Web Developer</span>
-																			</span>
-																		</div>
+																			
 																	</blockquote>
-																</div> 
-															</div>
-														</div> 
-													</div>
-												</div>
-											</div> 
-										</div>
-									</div> 
-
-									<div class="vc_col-sm-6 wpb_column column_container vc_column_container col padding-6-percent" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-										<div class="column-bg-overlay"></div>
-										<div class="vc_column-inner">
-											<div class="wpb_wrapper">
-												<div id="fws_5c3e38d188f01" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
-													<div class="row-bg-wrap">
-														<div class="row-bg   " style=""></div>
-													</div>
-													<div class="col span_12  right">
-														<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-															<div class="column-bg-overlay"></div>
-															<div class="vc_column-inner">
-																<div class="wpb_wrapper">
-																	<a class="nectar-button large see-through accent-color" style="border-color: #ffffff; color: #ffffff;" href="#team" data-color-override="#ffffff" data-hover-color-override="false" data-hover-text-color-override="#fff">
-																		<span>Meet The Team</span>
-																	</a>
 																</div> 
 															</div>
 														</div> 
@@ -319,11 +289,6 @@
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="margin-top: 20px; width: 40px; height: 2px; margin-bottom: 20px;" data-width="40" data-animate="yes" data-animation-delay="" data-color="accent-color" class="divider-small-border"></div>
 																	</div>
-																	<div class="wpb_text_column wpb_content_element " style=" max-width: 650px; display: inline-block;">
-																		<div class="wpb_wrapper">
-																			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nisi vel dui porttitor volutpat. Curabitur vel maximus mauris. Sed in dictum sem.</p>
-																		</div>
-																	</div>
 																</div> 
 															</div>
 														</div> 
@@ -346,7 +311,6 @@
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Directiva</h3>
-																			<p>Graphic Designer</p>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749.jpg"></div>    <div class="nectar_team_bio">
@@ -379,7 +343,6 @@
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Administracion</h3>
-																			<p>Back-end Developer</p>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg">
@@ -414,7 +377,6 @@
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Venta</h3>
-																			<p>Fine Artist</p>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749.jpg"></div>
@@ -455,7 +417,6 @@
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Logistica</h3>
-																			<p>Team Leader</p>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
@@ -489,7 +450,6 @@
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Marketing y Merchadising</h3>
-																			<p>The SEO Expert</p>
 																			
 																		</div>    	
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749.jpg"></div>
@@ -524,7 +484,6 @@
 																		<div class="team-meta">
 																			
 																			<h3>Protocolo</h3>
-																			<p>Front-end Developer</p>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion_al_cliente_995X749.jpg"></div>
@@ -633,100 +592,6 @@
 							</div>
 						</div>
 
-						<div id="testimonials" data-midnight="dark" data-top-percent="7%" data-bottom-percent="16%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: calc(100vw * 0.07); padding-bottom: calc(100vw * 0.16); "><div class="row-bg-wrap">
-							<div class="inner-wrap">
-								<div class="row-bg    " style=""></div>
-							</div>
-							<div class="row-bg-overlay"></div>
-						</div>
-						<div class="col span_12 dark left">
-							<div style="margin-top: 30px; margin-bottom: 30px!important; " class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-								<div class="column-bg-overlay"></div>
-								<div class="vc_column-inner">
-									<div class="wpb_wrapper">
-										<div class="nectar-carousel-flickity-fixed-content">
-											<div class="nectar-carousel-fixed-content">
-												<h4>ELLOS SON QUIENES RESPALDAN NUESTRA TRAYECTORIA</h4>
-												<p>Confían en nosotros como su proveedor número uno</p>
-											</div>
-
-											<div class="nectar-flickity not-initialized nectar-carousel" data-pagination-alignment="default" data-border-radius="10px" data-column-border="true" data-column-padding="50px" data-format="fixed_text_content_fullwidth" data-autoplay="true" data-autoplay-dur="7000" data-controls="material_pagination" data-desktop-columns="3" data-small-desktop-columns="2" data-tablet-columns="1">
-												<div class="cell">
-													<div class="inner-wrap-outer">
-														<div class="inner-wrap" style=" background-color: #ffffff;">
-															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
-																<div class="inner">
-																	<p>&#8220;I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.&#8221; </p>
-																	<div class="image-icon " style="background-image: url(wp-content/uploads/2017/09/testimonial4.jpeg);">
-
-																	</div>
-																	<span class="wrap">
-																		<span>Ray Jackson</span>
-																		<span class="title">Structural Engineer </span>
-																	</span>
-																</div>
-															</blockquote>
-														</div>
-													</div>
-												</div>
-												<div class="cell">
-													<div class="inner-wrap-outer">
-														<div class="inner-wrap" style=" background-color: #ffffff;">
-															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
-																<div class="inner">
-																	<p>&#8220;Science is fun. Science is curiosity. We all have natural curiosity. Science is a process of investigating. It's posing questions and coming up with a method. It's delving in.&#8221; </p>
-																	<div class="image-icon " style="background-image: url(wp-content/uploads/2017/09/testimonial-2.jpeg);">
-																	</div>
-																	<span class="wrap">
-																		<span>Sam Murray </span>
-																		<span class="title">Lead Architect</span>
-																	</span>
-																</div>
-															</blockquote>
-														</div>
-													</div>
-												</div>
-												<div class="cell">
-													<div class="inner-wrap-outer">
-														<div class="inner-wrap" style=" background-color: #ffffff;">
-															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
-																<div class="inner">
-																	<p>&#8220;I feel confident imposing change on myself. It's a lot more fun progressing than looking back. That's why I need to throw curve balls.&#8221; </p>
-																	<div class="image-icon " style="background-image: url(wp-content/uploads/2017/09/testimonial-1.jpeg);"></div>
-																	<span class="wrap">
-																		<span>Jake Smith</span>
-																		<span class="title">Salient Corp</span>
-																	</span>
-																</div>
-															</blockquote>
-														</div>
-													</div>
-												</div>
-												<div class="cell">
-													<div class="inner-wrap-outer">
-														<div class="inner-wrap" style=" background-color: #ffffff;">
-															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
-																<div class="inner">
-																	<p>&#8220;Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.&#8221; </p>
-																	<div class="image-icon " style="background-image: url(wp-content/uploads/2017/09/testimonial3.jpeg);">
-																	</div>
-																	<span class="wrap">
-																		<span>Alice Johnson</span>
-																		<span class="title">Writer at ThemeNectar</span>
-																	</span>
-																</div>
-															</blockquote>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div> 
-								</div>
-							</div> 
-						</div>
-					</div>
-
 					<div id="fws_5c3e38d1a50bc" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: 60px; padding-bottom: 0px; ">
 						<div class="row-bg-wrap">
 							<div class="inner-wrap">
@@ -756,10 +621,10 @@
 															<div class="divider-wrap" data-alignment="default">
 																<div style="height: 15px;" class="divider"></div>
 															</div>
-															<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">Build your dream website today.
+															<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
 															</h3>
-															<a class="nectar-button large see-through-2 " style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;" target="_blank" href="https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
-																<span>Purchase Salient</span>
+															<a class="nectar-button large see-through-2 " style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;" href="prefactura.php" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
+																<span>Genera tu prefactura</span>
 															</a>
 															<div class="divider-wrap" data-alignment="default">
 																<div style="height: 15px;" class="divider"></div>

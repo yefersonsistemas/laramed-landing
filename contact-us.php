@@ -198,26 +198,21 @@
 																<div class="wpb_wrapper">
 																	<div role="form" class="wpcf7" id="wpcf7-f5686-p214-o1" lang="en-US" dir="ltr">
 																		<div class="screen-reader-response"></div>
-																		<form action="/demo/salient-corporate-2/corporate-2-contact-us/#wpcf7-f5686-p214-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-																			<div style="display: none;">
-																				<input type="hidden" name="_wpcf7" value="5686">
-																				<input type="hidden" name="_wpcf7_version" value="4.9">
-																				<input type="hidden" name="_wpcf7_locale" value="en_US">
-																				<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5686-p214-o1">
-																				<input type="hidden" name="_wpcf7_container_post" value="214">
-																			</div>
+																		<form action="" method="post" class="wpcf7-form" novalidate="novalidate" id="formularioContacto">
 																			<div class="row">
 																				<div class="col span_6">
 																					<label for="your-name">Nombre y Apellido</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
-																						<input type="text" name="your-name" id="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																						<input type="text" name="name" id="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="msjname" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
 																					<label for="your-email">Correo Electronico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
-																						<input type="email" name="your-email" id="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						<input type="email" name="email" id="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="msjemail" style="opacity: 0; color: #ff0000"></span> 
 																				</div>
 																			</div>
 																			<div class="row">
@@ -226,22 +221,19 @@
 																					<span class="wpcf7-form-control-wrap your-name">
 																						<input type="text" name="asunto" id="asunto" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
 																					</span>
+																					<span id="textasunto" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col">
 																					<label for="your-message">Mensaje</label><br>
 																					<span class="wpcf7-form-control-wrap your-message">
-																					<textarea name="your-message" id="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false">
-																					</textarea>
-																				</span><br>
+																						<textarea name="mensaje" id="mensaje" cols="40" rows="5" class="wpcf7-form-control"></textarea>
+																					</span>
+																					<span id="textmsj" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
+																			<div id="success" style="padding-top: 5px; padding-bottom: 5px;"></div>
 																			<p>
-																				<!-- <label for="your-message">Message</label><br>
-																				<span class="wpcf7-form-control-wrap your-message">
-																					<textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false">
-																					</textarea>
-																				</span><br> -->
-																				<input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit">
+																				<input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
 																			</p>
 																			<div class="wpcf7-response-output wpcf7-display-none"></div>
 																		</form>
@@ -305,32 +297,24 @@
 			<link rel='stylesheet' id='animate-css-css' href='css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
 
 			<script type='text/javascript'>
-				var wpcf7 = {"apiSettings":{"root":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
-			</script>
-
-			<script type='text/javascript'>
 				var nectarLove = {"ajaxurl":"http:\/\/themenectar.com\/demo\/salient-corporate-2\/wp-admin\/admin-ajax.php","postID":"6","rooturl":"http:\/\/themenectar.com\/demo\/salient-corporate-2","pluginPages":[],"disqusComments":"false","loveNonce":"04203c32a6","mapApiKey":""};
 			</script>
 
-			<script>
-
-			
-
-			</script>
-
-			<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
-			<script type='text/javascript' src='js\priority.js?ver=8.6768'></script>
-			<script type='text/javascript' src='js\modernizr.js?ver=2.6.2'></script>
-			<script type='text/javascript' src='js\imagesLoaded.min.js?ver=4.1.4'></script>
-			<script type='text/javascript' src='js\magnific.js?ver=7.0.1'></script>
-			<script type='text/javascript' src='js\superfish.js?ver=1.4.8'></script>
-			<script type='text/javascript' src='js\init.js?ver=8.6768'></script>
-			<script type='text/javascript' src='js\flickity.min.js?ver=1.1.1'></script>
-			<script type='text/javascript' src='js\jquery.flexslider-min.js?ver=5.5.2'></script>
-			<script type='text/javascript' src='js\isotope.min.js?ver=7.6'></script>
-			<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
-			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
-			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
+			<script type='text/javascript' src='js\jquery\jquery-2.2.4.min.js'></script>
+			<script type='text/javascript' src='js\scripts.js'></script>
+			<script type='text/javascript' src='js\priority.js'></script>
+			<script type='text/javascript' src='js\modernizr.js'></script>
+			<script type='text/javascript' src='js\imagesLoaded.min.js'></script>
+			<script type='text/javascript' src='js\magnific.js'></script>
+			<script type='text/javascript' src='js\superfish.js'></script>
+			<script type='text/javascript' src='js\init.js'></script>
+			<script type='text/javascript' src='js\flickity.min.js'></script>
+			<script type='text/javascript' src='js\jquery.flexslider-min.js'></script>
+			<script type='text/javascript' src='js\isotope.min.js'></script>
+			<script type='text/javascript' src='js\touchswipe.min.js'></script>
+			<script type='text/javascript' src='js\wp-embed.min.js'></script>
+			<script type='text/javascript' src='js\js_composer_front.min.js'></script>
+			<script type='text/javascript' src='mail-contact.js'></script>
 		</div>
 	</div>
 </body>
