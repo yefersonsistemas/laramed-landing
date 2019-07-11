@@ -31,7 +31,7 @@ $mensaje= $_POST['mensaje'];
 
 	    //Content
 	    $mail->isHTML(true);                                  // Set email format to HTML
-	    $mail->Subject = 'Te han contactado a través de www.laramed.net - Contactanos';
+	    $mail->Subject = 'Te han contactado a través de www.laramed.net - Contáctanos';
 	    $mail->CharSet ="UTF-8";
       $mail->Body    = '
       <table border="0" cellpadding="0" cellspacing="0" height="100%" lang="es" style="min-width:348px;" width="100%">

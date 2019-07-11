@@ -583,8 +583,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-users-cog fa-3x"></i>
 																			<h4>TRABAJO EN EQUIPO</h4>
-																			<p>Sed cursus turpis vitae tortor donec
-																				eaque ipsa quaeab illo.</p>
+																			<p>Los talentos de los miembros de Laramed, son de suma importancia para garantizar una excelente atención.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -600,8 +599,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-people-carry fa-3x"></i>
 																			<h4>COMPROMISO</h4>
-																			<p>Nemo enim ipsam volup tatem quia vol
-																				uptas sit sunt in.</p>
+																			<p>Nos esmeramos en brindar la mejor atención, comprometiéndonos para fidelizar con quienes nos prefieren.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -633,8 +631,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-praying-hands fa-3x"></i>
 																			<h4>RESPONSABILIDAD</h4>
-																			<p>Nam libero tempore, cum soluta nobis
-																				placeat facere.</p>
+																			<p>Con seriedad y responsabilidad, al día y a la hora con inmediatez a los requerimientos de nuestros clientes.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -650,8 +647,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-user-shield fa-3x"></i>
 																			<h4>GARANTÍA</h4>
-																			<p>At vero eos et lorem accusamus et iusto
-																				ullam corporis.</p>
+																			<p> Realzamos nuestros valores, estandarizados en los más altos niveles de calidad.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -683,8 +679,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-check-double fa-3x"></i>
 																			<h4>CALIDAD</h4>
-																			<p>Ipsum totam rem aperiam, eaque ipsa quae
-																				ab illo.</p>
+																			<p>Ofrecemos un amplio stock de productos, 100% garantizados y lo más importante, de marca Laramed.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -700,8 +695,7 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-shipping-fast fa-3x"></i>
 																			<h4>EFICACIA</h4>
-																			<p>Incidunt ut labore et dolore magnam ali
-																				quam quaerat.</p>
+																			<p> Optimizamos tiempo para incrementar ganancias a través de nuestros operadores y servicio de logística.</p>
 																		</div>
 																		<a href="#http://google.com"
 																			class="box-link"></a>
@@ -806,7 +800,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>VALOR, CALIDAD Y BUEN SERVICIO</h3>
+														<h3>BRINDANDAMOS TRANQUILIDAD Y SEGURIDAD EN EL SERVICIO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -820,13 +814,7 @@
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
-																		Somos la mejor alternativa para la oferta de
-																		insumos médicos descartables, tenemos una
-																		relación con el cliente cercana y resolutiva,
-																		brindándoles una respuesta inmediata,
-																		asesoramiento y soluciones personalizadas a los
-																		precios más competitivos del mercado. ¿Qué
-																		necesitas?.</p>
+																	Laramed es una empresa que ofrece insumos médicos descartables y que se caracteriza en brindar a sus clientes un servicio de logística que no es común, es decir, además del envío de la mercancía requerida a cualquier parte del país, nos aseguramos de empaquetarla con todos sus cuidados, llegando a sus manos en perfectas condiciones.</p>
 																</div>
 															</div>
 														</div>
@@ -935,7 +923,7 @@
 																		<div class="number default"
 																			data-number-size="92">
 																			<h2>
-																				<span>100</span>
+																				<span>87</span>
 																			</h2>
 																		</div>
 																		<div class="subject" style="padding: 2%;">
@@ -1095,7 +1083,7 @@
 																			<a
 																				href="products.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Imagen_605X378_Guantes.jpg);">
+																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1189,7 +1177,7 @@
 																			<a
 																				href="products.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Imagen_605X378_Solucion.jpg);">
+																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Solucion.jpg);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1312,20 +1300,7 @@
 							<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden=""
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
 								style="padding-top: 60px; padding-bottom: 0px; ">
-								<div class="row-bg-wrap">
-									<div class="inner-wrap">
-										<div class="row-bg  using-bg-color  " style="background-color: #f2f2f2; "></div>
-									</div>
-									<div class="row-bg-overlay"></div>
-								</div>
-								<div class="nectar-shape-divider-wrap " style=" height:80px;" data-front=""
-									data-style="curve" data-position="top">
-									<svg class="nectar-shape-divider" fill="#ffffff" xmlns="http://www.w3.org/2000/svg"
-										viewbox="0 0 1000 100" preserveaspectratio="none">
-										<path d="M 0 0 c 0 0 200 50 500 50 s 500 -50 500 -50 v 101 h -1000 v -100 z">
-										</path>
-									</svg>
-								</div>
+								
 								<div class="col span_12 dark left">
 									<div style=" color: #ffffff;"
 										class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding"
@@ -1534,7 +1509,8 @@
 				perPage:1,
 				loop: true
 			});
-				
+			
+			setInterval(() => carouselBanner.next(), 2500)
 			</script>
 
 		</div>

@@ -14,8 +14,8 @@
 							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.png" alt="">
 						</div>
 						<div class="textwidget">
-							<p>Copyright © 2019 Laramed C.A. | <br> Jak Soluciones C.A. <br>
-							Todos los derechos reservados.</p>
+							<p>Copyright © 2019 Laramed C.A. | <br> Desarrollado por <a href="https://www.jaksoluciones.com">Jak Soluciones C.A.</a>
+							</p>
 						</div>
 					</div>				
 				</div>
@@ -35,7 +35,7 @@
 									<a href="products.php">Productos</a>
 								</li>
 								<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216">
-									<a href="contact-us.php">Contactanos</a>
+									<a href="contact-us.php">Contáctanos</a>
 								</li>
 							</ul>
 						</div>
@@ -61,7 +61,7 @@
 						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-facebook-f"></i> /laramed</a></div>
 						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-twitter"></i> @laramed_ca</a></div>
 						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-instagram"></i> @laramed_ca</a></div>
-						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-youtube"></i> /laramed_youtbe</a></div>
+						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-youtube"></i> /laramed_youtube</a></div>
 					</div>					     
 				</div>
 

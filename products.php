@@ -95,6 +95,10 @@
 			.img-rep{
 				margin-top: 95px;
 			}
+
+			.mtop{
+				margin-top:55px;
+			}
 		}
 
 	</style>
@@ -146,94 +150,121 @@
 			<div id="ajax-content-wrap">
 				<div class="container-wrap">
 					<div class="container main-content">
-						<div class="row">
-							<div id="fws_5c3e363f1d9dd" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row top-level full-width-section standard_section   " style="padding-top: 0px; padding-bottom: 60px; ">
-								<div class="row-bg-wrap">
-									<div class="inner-wrap">
-										<div class="row-bg    " style=""></div>
-									</div>
-									<div class="row-bg-overlay"></div>
+						<div class="row mtop">
+								<div class="col-12 col-md-6">
+									<img src="img/banners/Banner_Productos_Laramed_800x450_Jeringas.jpg" alt="" class="">
 								</div>
-								<div class="span_12 dark left">
-									<div class="vc_col-sm-12 wpb_column column_container vc_column_container no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+								
+								<div class="col-12 col-md-6">
+									<img src="img/banners/Banner_Productos_Laramed_800x450_Macrogoteros.jpg" alt="" class="">
+								</div>
+
+								<div class="row justify-content-center" style="margin-top:25px;">
+							
+									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+										<div class="animated">
+											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
+											<p style="text-align: center;">JERINGA DE 5cc</p>
+										</div>
+									</article>
+							
+									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+										<div class="animated">
+											<img src="img/products/Jeringas-de-10cc.jpg" alt="" style="height: 375px;">
+											<p style="text-align: center;">JERINGA DE 10cc</p>
+										</div>
+									</article>
+							
+									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+										<div class="animated">
+											<img src="img/products/Jeringas-de-20cc.jpg" alt="" style="height: 375px;">
+											<p style="text-align: center;">JERINGA DE 20cc</p>
+										</div>
+									</article>
+
+									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+										<div class="animated">
+											<img src="img/products/Macrogotero.jpg" alt="" style="height: 375px;">
+											<p style="text-align: center;">MACROGOTERO</p>
+										</div>
+									</article>
+
+									<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden=""
+								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
+								>
+								
+								<div class="col span_12 dark left">
+									<div style=" color: #ffffff;"
+										class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding"
+										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
+										data-border-animation="" data-border-animation-delay="" data-border-width="none"
+										data-border-style="solid" data-border-color="" data-bg-cover=""
+										data-padding-pos="all" data-has-bg-color="false" data-bg-color=""
+										data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation=""
+										data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
-												<div id="rps_5c3e363f245c1" class="nectar-recent-posts-single_featured parallax_section" data-padding="8%" data-bg-overlay="solid_color" data-height="600" data-animate-in-effect="zoom-out"> 
-													<div class="nectar-recent-post-slide no-bg-img post-ref-0 img-rep">
-														<div class="row-bg using-image" data-parallax-speed="fast">
-															<div class="nectar-recent-post-bg" style="  background-image: url(wp-content/uploads/2013/04/brooke-lark-186926.jpeg);">
+												<div id="fws_5c3e32c7188c2" data-midnight=""
+													data-column-margin="default" data-bg-mobile-hidden=""
+													class="wpb_row vc_row-fluid vc_row standard_section    "
+													style="padding-top: 0px; padding-bottom: 0px;">
+													<div class="row-bg-wrap">
+														<div class="row-bg   " style=""></div>
+													</div>
+													<div class="col span_12  left">
+														<div style=" color: #ffffff;margin-top: 15px; "
+															class="vc_col-sm-12 wpb_column column_container vc_column_container col centered-text has-animation padding-5-percent"
+															data-cfc="true" data-using-bg="true"
+															data-t-w-inherits="default" data-shadow="x_large_depth"
+															data-border-radius="20px" data-border-animation=""
+															data-border-animation-delay="" data-border-width="none"
+															data-border-style="solid" data-border-color=""
+															data-bg-cover="" data-padding-pos="all"
+															data-has-bg-color="true" data-bg-opacity="1"
+															data-hover-bg="" data-hover-bg-opacity="1"
+															data-animation="flip-in-vertical" data-delay="0">
+															<div class="column-bg-overlay"
+																style="opacity: 1; background: linear-gradient(to right, rgba(52,156,247,1) 0%, rgba(12,183,245,1) 51%, rgba(145,203,242,1) 100%);">
 															</div>
-														</div>
-														<div class="recent-post-container container">
-															<div class="inner-wrap">
-          
-																<h2 class="post-ref-1">
-																	<a href="we-encountered-a-food-paradise\index.html" class="full-slide-link">Somos alta calidad y seguridad para nuestros clientes.</a>
-																</h2>
+															<div class="vc_column-inner">
+																<div class="wpb_wrapper">
+																	<div class="divider-wrap" data-alignment="default">
+																		<div style="height: 15px;" class="divider">
+																		</div>
+																	</div>
+																	<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal"
+																		class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
+																	</h3>
+																	<a class="nectar-button large see-through-2 "
+																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
+																		href="prefactura.php"
+																		data-color-override="#ffffff"
+																		data-hover-color-override="#ffffff"
+																		data-hover-text-color-override="#000000">
+																		<span style="text-transform: none;">Genera tu
+																			prefactura</span>
+																	</a>
+																	<div class="divider-wrap" data-alignment="default">
+																		<div style="height: 15px;" class="divider">
+																		</div>
+																	</div>
+																</div>
 															</div>
 														</div>
 													</div>
 												</div>
-											</div> 
+											</div>
 										</div>
-									</div> 
+									</div>
 								</div>
-							</div>
-
-								<div class="row justify-content-center">
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">MACROGOTERO EN Y</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 20cc C/R 21G x 1 1/2</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 20cc C/R 21G x 1 1/2</p>
-										</div>
-									</article>
-
-									<div class="col-12"></div>
-									
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 10cc C/R 21G x 1 1/2</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 5cc C/R 21G x 1 1/2</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 3cc C/R 21G x 1 1/2</p>
-										</div>
-									</article>
-
-									<div class="col-12 col-md-8" style="margin: 35px 0;">
+								</div>
+									<div class="col-12 col-md-8" style="margin-top:50px; margin-bottom: 50px;">
 										<img src="img/another/banner_products_laramed.png" alt="" style="">
 									</div>
 								</div>
 							</div>
 						</div>
-					</div>
 
 					<?php
 					require 'footer.php';

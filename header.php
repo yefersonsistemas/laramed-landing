@@ -34,7 +34,7 @@
 							<a href="products.php">Productos</a>
 						</li>
 						<li id="menu-item-216" <?=($activepage=="contact-us")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current_page_item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"'?>>
-							<a href="contact-us.php">Contactanos</a>
+							<a href="contact-us.php">Contáctanos</a>
 						</li>
 					</ul>
 

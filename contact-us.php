@@ -9,7 +9,7 @@
 
 	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
-	<title>Laramed - Contactanos</title>
+	<title>Laramed - Contáctanos</title>
 	
 	<link rel='stylesheet' id='rgs-css' href='css\rgs.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='main-styles-css' href='css\style.css' type='text/css' media='all'>
@@ -177,7 +177,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
-																			<h2>Contactanos</h2>
+																			<h2>Contáctanos</h2>
 
 																		</div>
 																	</div>
@@ -208,7 +208,7 @@
 																					<span id="msjname" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																				<div class="col span_6">
-																					<label for="your-email">Correo Electronico</label><br>
+																					<label for="your-email">Correo Electrónico</label><br>
 																					<span class="wpcf7-form-control-wrap your-email">
 																						<input type="email" name="email" id="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																					</span>

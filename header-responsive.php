@@ -23,7 +23,7 @@
 						<a href="products.php">Productos</a>
 					</li>
 					<li <?=($activepageresponsive=="contact-us")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current-menu-item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"'?>>
-						<a href="contact-us.php">Contactanos</a>
+						<a href="contact-us.php">Contáctanos</a>
 					</li>
 				</ul>
 
@@ -37,7 +37,7 @@
 				</div>
 			</div>
 
-			<div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>UBICANOS</h4>
+			<div id="text-4" class="widget widget_text">			<div class="textwidget"><h4>UBÍCANOS</h4>
 				<div class="textwidget">
 					<p>Urb. El Parque<br>
 						Edif. El Impulso<br>

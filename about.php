@@ -176,23 +176,6 @@
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
-												<div id="fws_5c3e38d176491" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
-													<div class="row-bg-wrap">
-														<div class="row-bg   " style=""></div>
-													</div>
-													<div class="col span_12  left">
-														<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
-															<div class="column-bg-overlay"></div>
-															<div class="vc_column-inner">
-																<div class="wpb_wrapper">
-																	<div class="nectar-gradient-text" data-direction="horizontal" data-color="extra-color-gradient-2" style="">
-																		<h5>Construye una alianza con nosotros</h5>
-																	</div>
-																</div> 
-															</div>
-														</div> 
-													</div>
-												</div>
 												<div id="fws_5c3e38d17e91f" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
 													<div class="row-bg-wrap">
 														<div class="row-bg   " style=""></div>
@@ -204,7 +187,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1504326206457">
 																		<div class="wpb_wrapper">
-																			<h2>Siempre a la vanguardia, somos más que equipos e insumos médicos, somos alta calidad y seguridad para los clientes. Tecnología y servicio eficiente para todos los usuarios.</h2>
+																			<h2>Con 9 años de trayectoria, seguimos elevándonos en los más altos estándares de calidad a la vanguardia de la salud, ofreciendo el mejor stock de productos.</h2>
 																		</div>
 																	</div>
 																</div> 
@@ -250,7 +233,7 @@
 																	<blockquote class="nectar_single_testimonial" data-color="default" data-style="small_modern">
 																		<div class="inner">
 																			<p>
-																				<span class="open-quote">&#8221;</span>Contribuimos de manera positiva en el crecimiento del área de la salud y brindamos la importación, exportación, fabricación, compra, venta y elaboración de todo tipo materiales médico-quirúrgicos de alta calidad.  
+																				<span class="open-quote">&#8221;</span>Nuestra empresa tiene presencia digital y física, optimizamos nuestro tiempo y el de cada uno de nuestros clientes, poseemos permiso sanitario, proporcionamos las mejores ofertas adaptándonos a su bolsillo, somos una marca con reconocimiento en el mercado y con la mejor atención.  
 																			</p>
 																			
 																	</blockquote>
@@ -285,9 +268,11 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h3 style="text-align: center" class="vc_custom_heading">Nuestro Staff</h3>
-																	<div class="divider-wrap" data-alignment="default">
+																	<h2 style="text-align: center" class="vc_custom_heading">Nuestro Staff</h2>
+																	<div class="divider-wrap" data-alignment="default" style="text-align:center;">
 																		<div style="margin-top: 20px; width: 40px; height: 2px; margin-bottom: 20px;" data-width="40" data-animate="yes" data-animation-delay="" data-color="accent-color" class="divider-small-border"></div>
+																		<h4 style="text-align: justify; width: 90%; display:inline-block; font-size: 18px;" text-indent: 35px;>Somos un equipo a la vanguardia de la salud, en la fabricación, compra y venta de insumos médicos quirúrgicos estandarizados en niveles de calidad insuperables.</h4>
+																		<h4 style="text-align: justify; width: 90%; display:inline-block; margin-top: 5px;  font-size: 18px; text-indent: 35px;">Trabajamos de manera ética, profesional y eficiente en cada uno de los departamentos, comprometidos todos los días con nuestros clientes, atentos y con dinamismo en brindar el mejor servicio, aportando soluciones y garantizando productos a su disposición.</h4>
 																	</div>
 																</div> 
 															</div>
@@ -314,7 +299,7 @@
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749.jpg"></div>    <div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
+																		Está constituido por dos (2) directores principales y un (1) director general, profesionales competentes y expertos en la gerencia de esta empresa vinculada a la salud a través de su productos de marca Laramed. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -342,13 +327,13 @@
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Administracion</h3>
+																			<h3>Administración</h3>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg">
 																		</div>
 																		<div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+																		Está conformada por profesionales capacitados en el área de la administración, los cuales garantizan la implementación de los procesos adecuados para Laramed y el carisma en el servicio a nuestros clientes en el gestionamiento de los insumos requeridos.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -376,12 +361,12 @@
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Venta</h3>
+																			<h3>Ventas</h3>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749.jpg"></div>
 																		<div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. 
+																		Estructurada por líderes expertos en la rama, comprometidos en diagnosticar y principalmente brindar la mejor asesoría a todos nuestros clientes para efectos de cierre con una buena venta, quedando fidelizados con nosotros a través de la excelente atención que brindamos.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -416,12 +401,12 @@
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Logistica</h3>
+																			<h3>Logística</h3>
 																			
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
 																		<div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+																		Conformado por un valioso personal que garantiza a la propia empresa y a nuestros clientes, la operatividad en la obtención de los materiales quirúrgicos, capacitados en planificar, dirigir y coordinar llegando a todos los rincones de Venezuela.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -454,7 +439,7 @@
 																		</div>    	
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749.jpg"></div>
 																		<div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+																		Diagnostican arduamente el mercado orientado en la nueva era digital y tecnológica, con el fin de diseñar, establecer y ejecutar, estrategias para el posicionamiento de Laramed, enfocados en una atención de calidad mediante un equipo de profesionales en el área, proporcionando respuestas concisas y oportunas en el ofrecimiento de nuestros productos y servicios con el uso de las tendencias digitales.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -488,7 +473,7 @@
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion_al_cliente_995X749.jpg"></div>
 																		<div class="nectar_team_bio">
-																			Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+																		Dispuesto a orientar el sentido de una buena comunicación, responsabilizándose de la operatividad interna de Laramed para brindar óptimos resultados externamente a todos nuestros clientes, mediante procedimientos y acciones que realzan los valores de Laramed.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>

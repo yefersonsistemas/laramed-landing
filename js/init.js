@@ -3454,7 +3454,7 @@ function teamMemberFullscreen() {
 
 		$teamMemberMeta = $(this).find('.nectar_team_bio').html();
 		$teamMemberImg = ($(this).find('.nectar_team_bio_img[data-img-src]').length > 0) ? $(this).find('.nectar_team_bio_img').attr('data-img-src') : '';
-		$('body').append('<div class="nectar_team_member_overlay '+$usingBoxedClass+'"><div class="inner-wrap"><div class="team_member_details"><div class="bio-inner"><span class="mobile-close"></span><h2>'+$(this).find('.team-meta h3').html()+'</h2><div class="title">'+$(this).find('.team-meta p').html()+'</div><div class="team-desc">'+$teamMemberMeta+'</div></div></div><div class="team_member_picture"><div class="team_member_image_bg_cover"></div><div class="team_member_picture_wrap"><div class="team_member_image"></div></div></div></div></div><div class="nectar_team_member_close '+$usingBoxedClass+'"><div class="inner"><i style="position: relative; top: -3px; color: #006fab;" class="fas fa-times"></i></div></div>');
+		$('body').append('<div class="nectar_team_member_overlay '+$usingBoxedClass+'"><div class="inner-wrap"><div class="team_member_details"><div class="bio-inner"><span class="mobile-close"></span><h2>'+$(this).find('.team-meta h3').html()+'</div><div class="team-desc">'+$teamMemberMeta+'</div></div></div><div class="team_member_picture"><div class="team_member_image_bg_cover"></div><div class="team_member_picture_wrap"><div class="team_member_image"></div></div></div></div></div><div class="nectar_team_member_close '+$usingBoxedClass+'"><div class="inner"><i style="position: relative; top: -3px; color: #006fab;" class="fas fa-times"></i></div></div>');
 		if($teamMemberImg.length > 0) {
 
 			//fadein img on load
