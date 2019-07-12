@@ -242,8 +242,7 @@
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
-																		<span style="text-transform: none;">Genera tu
-																			prefactura</span>
+																		<span style="text-transform: none;">Genera tu pedido</span>
 																	</a>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="height: 15px;" class="divider">

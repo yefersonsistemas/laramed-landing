@@ -11,10 +11,10 @@
 				<div class="col span_3">
 					<div id="text-3" class="widget widget_text">
 						<div>
-							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.png" alt="">
+							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.svg" alt="">
 						</div>
 						<div class="textwidget">
-							<p>Copyright © 2019 Laramed C.A. | <br> Desarrollado por <a href="https://www.jaksoluciones.com">Jak Soluciones C.A.</a>
+							<p>Copyright © 2019 Laramed C.A. J-29798576-0 | <br> Desarrollado por <a href="https://www.jaksoluciones.com">Jak Soluciones C.A.</a>
 							</p>
 						</div>
 					</div>				

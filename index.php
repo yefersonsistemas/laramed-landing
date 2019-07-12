@@ -24,9 +24,6 @@
 		background: white;
 		}
 		
-
-
-		
 		.banner-container{
 			max-height:380px!important;
 		}
@@ -327,7 +324,7 @@
 													<div class="heading-line">
 														<div>
 															<h1 style="font-family: monospace;"><img
-																	src="img/logos/Logo_Laramed_Blanco.png" alt=""
+																	src="img/logos/Logo_Laramed_Blanco.svg" alt=""
 																	style="width: 50%;"></h1>
 														</div>
 													</div>
@@ -336,6 +333,7 @@
 													class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 													<div class="wpb_wrapper">
 														<h4>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h4>
+														<h4>RUMBO A LOS 10 AÑOS</h4>
 													</div>
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp"
@@ -434,7 +432,7 @@
 									<div class="row-bg-overlay"></div>
 								</div>
 								<div class="col span_12 dark left" style="text-align: center;">
-									<span style="font-size: 2em;">NUESTROS ALIADOS COMERCIALES</span>
+									<span style="font-size: 2em;" class="color-titulos">NUESTROS ALIADOS COMERCIALES</span>
 									<div class="vc_col-sm-1 wpb_column column_container vc_column_container col no-extra-padding"
 										data-t-w-inherits="default" data-border-radius="none" data-shadow="none"
 										data-border-animation="" data-border-animation-delay="" data-border-width="none"
@@ -524,14 +522,14 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>NUESTROS VALORES EMPRESARIALES NOS DEFINEN</h3>
+														<h3 class="color-titulos">NUESTROS VALORES EMPRESARIALES NOS DEFINEN</h3>
 													</div>
 												</div>
 												<div
 													class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
 													<div class="wpb_wrapper">
-														<p style="text-align: justify;">Con más de 9 años de
-															trayectoria, es un referente
+														<p style="text-align: justify;">Próximos a cumplir 10 años de
+															trayectoria, somos un referente
 															a nivel nacional de innovación y cambio
 															constante, buscando la excelencia en nuestros
 															productos y servicios.
@@ -585,8 +583,7 @@
 																			<h4>TRABAJO EN EQUIPO</h4>
 																			<p>Los talentos de los miembros de Laramed, son de suma importancia para garantizar una excelente atención.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
+
 																	</div>
 																	<div class="nectar-fancy-box   vc_custom_1504285795178 has-animation"
 																		data-style="color_box_basic"
@@ -601,8 +598,7 @@
 																			<h4>COMPROMISO</h4>
 																			<p>Nos esmeramos en brindar la mejor atención, comprometiéndonos para fidelizar con quienes nos prefieren.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
+
 																	</div>
 																</div>
 															</div>
@@ -633,8 +629,7 @@
 																			<h4>RESPONSABILIDAD</h4>
 																			<p>Con seriedad y responsabilidad, al día y a la hora con inmediatez a los requerimientos de nuestros clientes.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
+
 																	</div>
 																	<div class="nectar-fancy-box   vc_custom_1504286112774 has-animation"
 																		data-style="color_box_basic"
@@ -649,8 +644,7 @@
 																			<h4>GARANTÍA</h4>
 																			<p> Realzamos nuestros valores, estandarizados en los más altos niveles de calidad.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
+
 																	</div>
 																</div>
 															</div>
@@ -681,8 +675,7 @@
 																			<h4>CALIDAD</h4>
 																			<p>Ofrecemos un amplio stock de productos, 100% garantizados y lo más importante, de marca Laramed.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
+
 																	</div>
 																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation"
 																		data-style="color_box_basic"
@@ -697,8 +690,6 @@
 																			<h4>EFICACIA</h4>
 																			<p> Optimizamos tiempo para incrementar ganancias a través de nuestros operadores y servicio de logística.</p>
 																		</div>
-																		<a href="#http://google.com"
-																			class="box-link"></a>
 																	</div>
 																</div>
 															</div>
@@ -762,7 +753,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>PROPÓSITO</h3>
+														<h3 class="color-titulos">PROPÓSITO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -776,7 +767,7 @@
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
-																	Somos una  importadora y exportadora de Insumos Médicos Descartables, con más de 9 años de experiencia, comprometidos en ofrecerle a nuestros clientes, productos  de la mejor calidad al mejor precio del mercado. Contamos con un recurso humano profesional, enfocado en la diversidad de productos y calidad de servicio, siempre trabajando con optimismo y dedicación para brindar una excelente atención a nuestros clientes.</p>
+																	Somos una  importadora y exportadora de Insumos Médicos Descartables, a propósito  de cumplir 10 años de experiencia, estamos comprometidos en ofrecerle a nuestros clientes, productos  de la mejor calidad al mejor precio del mercado. Contamos con un recurso humano profesional, enfocado en la diversidad de productos y calidad de servicio, siempre trabajando con optimismo y dedicación para brindar una excelente atención a nuestros clientes.</p>
 																</div>
 															</div>
 														</div>
@@ -800,7 +791,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3>BRINDANDAMOS TRANQUILIDAD Y SEGURIDAD EN EL SERVICIO</h3>
+														<h3 class="color-titulos">BRINDANDAMOS TRANQUILIDAD Y SEGURIDAD EN EL SERVICIO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -892,7 +883,7 @@
 												<div class="wpb_text_column wpb_content_element "
 													style=" max-width: 500px; display: inline-block;">
 													<div class="wpb_wrapper">
-														<h3>METAS ALCANZADAS</h3>
+														<h3 class="color-titulos">METAS ALCANZADAS</h3>
 													</div>
 												</div>
 
@@ -1061,7 +1052,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1503969123885">
 																		<div class="wpb_wrapper" id="productos">
-																			<h2>PRODUCTOS DESTACADOS</h2>
+																			<h2 class="color-titulos">PRODUCTOS DESTACADOS</h2>
 																		</div>
 																	</div>
 																</div>
@@ -1350,8 +1341,7 @@
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
-																		<span style="text-transform: none;">Genera tu
-																			prefactura</span>
+																		<span style="text-transform: none;">Genera tu pedido</span>
 																	</a>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="height: 15px;" class="divider">
@@ -1364,7 +1354,7 @@
 												</div>
 												<div class="col span_12 instafeed-container" style="margin-bottom: 30px; border-radius: 5px;">
 													<span>
-														<h2>¡SIGUENOS EN NUESTRAS REDES!</h2>
+														<h2 class="color-titulos">¡SIGUENOS EN NUESTRAS REDES!</h2>
 														<a href="https://www.instagram.com/laramed_ca/">
 															<i class="fab fa-instagram fa-4x"></i>
 															<h3>@Laramed_ca</h3>

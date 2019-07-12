@@ -4,7 +4,9 @@ del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, 
 dl, dt, dd, ol, ul, li, fieldset, form, label, legend{vertical-align:baseline; font-family:inherit; font-weight:inherit; font-style:inherit; font-size:100%; outline:0; padding:0; margin:0; border:0}
 
-
+.color-titulos{
+    color: #9E9E9E!important;
+}
 :focus{outline:0}
 
 input[type=submit]{   -webkit-appearance:none}
@@ -3384,7 +3386,7 @@ body[data-transparent-header="false"][data-header-resize="0"] .nectar-slider-wra
 
 .classic_enhanced article .flickity-viewport{transform:scale(1.01); -webkit-transform:scale(1.01)}
 
-.nectar-flickity:not(.masonry) .flickity-viewport{ overflow:hidden;  position:relative;  height:100%;  margin:80px 0}
+.nectar-flickity:not(.masonry) .flickity-viewport{ overflow:hidden;  position:relative;  height:100%;}
 
 .flickity-slider{ position:absolute;  width:100%;  height:100%}
 
@@ -3493,10 +3495,6 @@ body[data-transparent-header="false"][data-header-resize="0"] .nectar-slider-wra
 
 .nectar-flickity.nectar-carousel[data-format="fixed_text_content_fullwidth"] .flickity-slider .cell .inner-wrap-outer { transform-style: preserve-3d;}
 .nectar-flickity.nectar-carousel[data-format="fixed_text_content_fullwidth"] .flickity-slider .cell { overflow: visible; }
-
-.nectar-flickity.nectar-carousel.nectar-carousel:not(.masonry) .flickity-viewport {
-   margin: 90px 0 90px 0;
-}
 
 .vc_col-sm-3 .nectar-flickity.nectar-carousel.nectar-carousel:not(.masonry) .flickity-viewport,
 .vc_col-sm-4 .nectar-flickity.nectar-carousel.nectar-carousel:not(.masonry) .flickity-viewport,
@@ -3789,7 +3787,6 @@ body.material [data-bullet_style="see_through"] .slider-pagination .swiper-pagin
 .span_12.light .nectar-recent-posts-slider_multiple_visible .flickity-page-dots .dot.is-selected:before,
  body.material [data-bullet_style="see_through"] .slider-pagination:not(.dark-cs) .swiper-pagination-switch.swiper-active-switch:before {box-shadow:inset 0 0 0 1px #fff}
 .nectar-flickity[data-controls="material_pagination"] .flickity-page-dots{ bottom:-85px;  margin:0!important}
-.nectar-flickity[data-controls="material_pagination"]:not(.masonry) .flickity-viewport{margin:110px 0 130px 0}
 
  .nectar-recent-posts-slider_multiple_visible .flickity-page-dots .dot.is-selected:before { background-color: transparent!important;}
 .flickity-page-dots{ bottom:-60px;  margin:0!important}

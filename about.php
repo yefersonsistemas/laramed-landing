@@ -187,7 +187,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1504326206457">
 																		<div class="wpb_wrapper">
-																			<h2>Con 9 años de trayectoria, seguimos elevándonos en los más altos estándares de calidad a la vanguardia de la salud, ofreciendo el mejor stock de productos.</h2>
+																			<h2 class="color-titulos">Camino a los 10 años de trayectoria, seguimos elevándonos en los más altos estándares de calidad a la vanguardia de la salud, ofreciendo el mejor stock de productos.</h2>
 																		</div>
 																	</div>
 																</div> 
@@ -268,11 +268,11 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h2 style="text-align: center" class="vc_custom_heading">Nuestro Staff</h2>
+																	<h2 style="text-align: center" class="vc_custom_heading color-titulos" >Nuestro Staff</h2>
 																	<div class="divider-wrap" data-alignment="default" style="text-align:center;">
 																		<div style="margin-top: 20px; width: 40px; height: 2px; margin-bottom: 20px;" data-width="40" data-animate="yes" data-animation-delay="" data-color="accent-color" class="divider-small-border"></div>
-																		<h4 style="text-align: justify; width: 90%; display:inline-block; font-size: 18px;" text-indent: 35px;>Somos un equipo a la vanguardia de la salud, en la fabricación, compra y venta de insumos médicos quirúrgicos estandarizados en niveles de calidad insuperables.</h4>
-																		<h4 style="text-align: justify; width: 90%; display:inline-block; margin-top: 5px;  font-size: 18px; text-indent: 35px;">Trabajamos de manera ética, profesional y eficiente en cada uno de los departamentos, comprometidos todos los días con nuestros clientes, atentos y con dinamismo en brindar el mejor servicio, aportando soluciones y garantizando productos a su disposición.</h4>
+																		<h4 style="text-align: center; width: 90%; display:inline-block; font-size: 18px;" text-indent: 35px;>Somos un equipo a la vanguardia de la salud, en la fabricación, compra y venta de insumos médicos quirúrgicos estandarizados en niveles de calidad insuperables. Trabajamos de manera ética, profesional y eficiente en cada uno de los departamentos, comprometidos todos los días con nuestros clientes, atentos y con dinamismo en brindar el mejor servicio, aportando soluciones y garantizando productos a su disposición.</h4>
+																		
 																	</div>
 																</div> 
 															</div>
@@ -609,7 +609,7 @@
 															<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
 															</h3>
 															<a class="nectar-button large see-through-2 " style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;" href="prefactura.php" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
-																<span>Genera tu prefactura</span>
+																<span>Genera tu pedido</span>
 															</a>
 															<div class="divider-wrap" data-alignment="default">
 																<div style="height: 15px;" class="divider"></div>
@@ -623,11 +623,99 @@
 								</div>
 							</div> 
 						</div>
+						<div id="testimonials" data-midnight="dark" data-top-percent="7%" data-bottom-percent="16%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section"><div class="row-bg-wrap">
+							<div class="inner-wrap">
+								<div class="row-bg    " style=""></div>
+							</div>
+							<div class="row-bg-overlay"></div>
+						</div>
+						<div class="col span_12 dark left">
+							<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+								<div class="vc_column-inner">
+									<div class="wpb_wrapper">
+										<div class="nectar-carousel-flickity-fixed-content">
+											<div class="nectar-carousel-fixed-content">
+												<h4>ELLOS SON QUIENES RESPALDAN NUESTRA TRAYECTORIA</h4>
+												<p style="text-align: center;">Casi a los 10 años de presencia en el mercado, nuestros clientes por si solos, son los que dan garantía en la calidad de nuestro stock, acompañado de la mejor atención.</p>
+											</div>
+
+											<div class="nectar-flickity not-initialized nectar-carousel" data-pagination-alignment="default" data-border-radius="10px" data-column-border="true" data-column-padding="50px" data-format="fixed_text_content_fullwidth" data-autoplay="true" data-autoplay-dur="7000" data-controls="material_pagination" data-desktop-columns="3" data-small-desktop-columns="2" data-tablet-columns="1">
+												<div class="cell">
+													<div class="inner-wrap-outer">
+														<div class="inner-wrap" style=" background-color: #ffffff;">
+															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
+																<div class="inner">
+																	<p>&#8220;No puedo más que recomendar los servicios de Laramed, estoy fascinada con sus servicios.&#8221; </p>
+																	<div class="image-icon " style="background-image: url(img/testimonios/Maria_Torres.jpg);">
+
+																	</div>
+																	<span class="wrap">
+																		<span>María Eugenia Torres</span>
+																	</span>
+																</div>
+															</blockquote>
+														</div>
+													</div>
+												</div>
+												<div class="cell">
+													<div class="inner-wrap-outer">
+														<div class="inner-wrap" style=" background-color: #ffffff;">
+															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
+																<div class="inner">
+																	<p>&#8220;De todas las marcas con las que he trabajado, Laramed es la mejor, sin duda alguna 100% recomendada.&#8221; </p>
+																	<div class="image-icon " style="background-image: url(img/testimonios/Carmen_Jimenez.jpg);">
+																	</div>
+																	<span class="wrap">
+																		<span>Carmen T. Jiménez</span>
+																	</span>
+																</div>
+															</blockquote>
+														</div>
+													</div>
+												</div>
+												<div class="cell">
+													<div class="inner-wrap-outer">
+														<div class="inner-wrap" style=" background-color: #ffffff;">
+															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
+																<div class="inner">
+																	<p>&#8220;Durante más de un año he trabajado con Laramed. Su atención ha sido genial y trabajar con ellos es muy fácil.&#8221; </p>
+																	<div class="image-icon " style="background-image: url(img/testimonios/Jean_Kil.jpg);"></div>
+																	<span class="wrap">
+																		<span>Jean Kil</span>
+																	</span>
+																</div>
+															</blockquote>
+														</div>
+													</div>
+												</div>
+												<div class="cell">
+													<div class="inner-wrap-outer">
+														<div class="inner-wrap" style=" background-color: #ffffff;">
+															<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
+																<div class="inner">
+																	<p>&#8220;Son muy eficientes y me atendieron de la mejor manera, los productos los trajeron a mi laboratorio y son de muy buena calidad, ¡Los recomiendo!.&#8221; </p>
+																	<div class="image-icon " style="background-image: url(img/testimonios/Yeferson_Salazar.jpg);">
+																	</div>
+																	<span class="wrap">
+																		<span>Yeferson Salazar</span>
+																	</span>
+																</div>
+															</blockquote>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div> 
+								</div>
+							</div> 
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 
+		
 		<?php
 		require 'footer.php';
 		?>

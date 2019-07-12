@@ -229,7 +229,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
-																			<h2>Genera tu prefactura</h2>
+																			<h2>Genera tu pedido</h2>
 
 																		</div>
 																	</div>

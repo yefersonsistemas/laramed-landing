@@ -3,9 +3,9 @@
 		<div class="row">
 			<div class="col span_3">
 				<a id="logo" href="index.php" data-supplied-ml="false">
-					<img class="stnd default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Negro.png" srcset="img\logos\Logo_Laramed_Negro.png 1x, img\logos\Logo_Laramed_Negro.png 2x">
-					<img class="starting-logo default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Blanco.png" srcset="img\logos\Logo_Laramed_Blanco.png 1x, img\logos\Logo_Laramed_Blanco.png 2x">
-					<img class="starting-logo dark-version default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Negro.png" srcset="img\logos\Logo_Laramed_Negro.png 1x, img\logos\Logo_Laramed_Negro.png 2x"> 
+					<img class="stnd default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Negro.svg">
+					<img class="starting-logo default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Blanco.svg">
+					<img class="starting-logo dark-version default-logo" alt="Salient Corporate Creative" src="img\logos\Logo_Laramed_Negro.svg"> 
 				</a>
 			</div>
 
