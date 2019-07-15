@@ -97,7 +97,7 @@
 			}
 
 			.mtop{
-				margin-top:55px;
+				margin-top:110px;
 			}
 		}
 
@@ -152,44 +152,22 @@
 					<div class="container main-content">
 						<div class="row mtop">
 								<div class="col-12 col-md-6">
-									<img src="img/banners/Banner_Productos_Laramed_800x450_Jeringas.jpg" alt="" class="">
+									<a href="productos-100-laramed.php">
+										<img src="img/banners/Banner_1040x1040_Titulos_Productos-100-Laramed.jpg" alt="banner producto 100% laramed" class="" style="border-radius:1.25em">
+									</a>
 								</div>
 								
 								<div class="col-12 col-md-6">
-									<img src="img/banners/Banner_Productos_Laramed_800x450_Macrogoteros.jpg" alt="" class="">
+									<a href="productos-con-respaldo.php">
+										<img src="img/banners/Banner_1040x1040_Titulos_Productos-Respaldo-Laramed.jpg" alt="banner producto con respaldo laramed" class="" style="border-radius:1.25em">
+									</a>
 								</div>
 
 								<div class="row justify-content-center" style="margin-top:25px;">
 							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-5cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 5cc</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-10cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 10cc</p>
-										</div>
-									</article>
-							
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Jeringas-de-20cc.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">JERINGA DE 20cc</p>
-										</div>
-									</article>
 
-									<article class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-										<div class="animated">
-											<img src="img/products/Macrogotero.jpg" alt="" style="height: 375px;">
-											<p style="text-align: center;">MACROGOTERO</p>
-										</div>
-									</article>
 
-									<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden=""
+									<div id="fws_5c3e32c717dc5" data-midnight="dark" data-bg-mobile-hidden="true"
 								class="wpb_row vc_row-fluid vc_row full-width-section standard_section   "
 								>
 								
