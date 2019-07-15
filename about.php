@@ -210,7 +210,7 @@
 							<div id="fws_5c3e38d181256" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-bottom parallax_section   " style="padding-top: 0px; padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(wp-content/uploads/2017/09/priscilla-du-preez-234138.jpeg); background-position: center center; background-repeat: no-repeat; ">
+										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(img/banners/Banner_Laramed_Nosotros_1040x506.jpg); background-position: center center; background-repeat: no-repeat; ">
 										</div>
 									</div>
 									<div class="row-bg-overlay" style="background: rgba(255,255,255,0.001); background: linear-gradient(135deg,rgba(255,255,255,0.001) 0%,rgba(10,10,10,0.87) 100%);  opacity: 0.5; ">
@@ -396,7 +396,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Logistica.jpg);">>
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-04.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -404,7 +404,7 @@
 																			<h3>Logística</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Logistica.jpg"></div>
 																		<div class="nectar_team_bio">
 																		Conformado por un valioso personal que garantiza a la propia empresa y a nuestros clientes, la operatividad en la obtención de los materiales quirúrgicos, capacitados en planificar, dirigir y coordinar llegando a todos los rincones de Venezuela.
 																			<div class="bottom_meta">
