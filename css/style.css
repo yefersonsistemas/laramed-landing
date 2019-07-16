@@ -13274,3 +13274,12 @@ body[data-is="minimal"] .lines, body[data-is="minimal"] .lines:before, body[data
 .icon-salient-left-arrow-thin, .icon-salient-right-arrow-thin, .icon-salient-down-arrow-thin, .icon-salient-down-arrow, .icon-salient-google-plus, .ascend .mfp-image-holder .mfp-close, .ascend .mfp-iframe-holder .mfp-close, .mfp-iframe-holder .mfp-close, .mfp-image-holder .mfp-close, .mfp-iframe-holder .mfp-close, .mfp-iframe-holder .mfp-close, 
 .icon-salient-facebook, .icon-salient-twitter, .icon-salient-pinterest, .icon-salient-heart, .icon-salient-heart-2, .icon-salient-plus, .icon-salient-cart, body[data-is="minimal"] [class^="icon-"].icon-reorder, 
 .icon-salient-pencil, .icon-be, .icon-vimeo, .icon-soundcloud, .icon-button-arrow, .icon-salient-thin-line, .icon-salient-spotify, .icon-salient-m-user, .salient-page-submenu-icon, .icon-salient-m-clock, .video-play-button, .mejs-controls .mejs-button button{font-family:'icomoon'!important; speak:none; font-style:normal; font-weight:normal; font-variant:normal; text-transform:none; line-height:1; -webkit-font-smoothing:antialiased}
+
+.product-types img{
+  transform: scale(1);
+  transition: transform 0.2s ease;
+}
+
+.product-types:hover img{
+  transform: scale(1.05);
+}

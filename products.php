@@ -101,6 +101,8 @@
 			}
 		}
 
+		
+
 	</style>
 </head>
 <body class="page-template-default page page-id-209 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive" data-footer-reveal="false" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-footer-reveal-shadow="none" data-dropdown-style="minimal" data-cae="easeOutQuart" data-megamenu-width="full-width" data-cad="700" data-aie="zoom-out" data-ls="magnific" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="minimal" data-form-submit="regular" data-is="minimal" data-button-style="rounded_shadow" data-header-inherit-rc="false" data-header-search="false" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="slide-out-from-right" data-user-set-ocm="1" data-loading-animation="none" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-cart="false" data-remove-m-parallax="" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
@@ -152,13 +154,13 @@
 					<div class="container main-content">
 						<div class="row mtop">
 								<div class="col-12 col-md-6">
-									<a href="productos-100-laramed.php">
+									<a href="productos-100-laramed.php" class="product-types">
 										<img src="img/banners/Banner_1040x1040_Titulos_Productos-100-Laramed.jpg" alt="banner producto 100% laramed" class="" style="border-radius:1.25em">
 									</a>
 								</div>
 								
 								<div class="col-12 col-md-6">
-									<a href="productos-con-respaldo.php">
+									<a href="productos-con-respaldo.php" class="product-types">
 										<img src="img/banners/Banner_1040x1040_Titulos_Productos-Respaldo-Laramed.jpg" alt="banner producto con respaldo laramed" class="" style="border-radius:1.25em">
 									</a>
 								</div>

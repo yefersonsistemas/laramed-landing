@@ -199,7 +199,7 @@
                                             <div class="row justify-content-center" style="margin-top:25px;">
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-                                                    <div class="animated">
+                                                    <div class="animated product-types">
                                                         <img src="img/products/Jeringas-de-5cc.jpg" alt=""
                                                             style="height: 375px;">
                                                         <p style="text-align: center;">JERINGA DE 5cc</p>
@@ -207,7 +207,7 @@
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-                                                    <div class="animated">
+                                                    <div class="animated product-types">
                                                         <img src="img/products/Jeringas-de-10cc.jpg" alt=""
                                                             style="height: 375px;">
                                                         <p style="text-align: center;">JERINGA DE 10cc</p>
@@ -215,7 +215,7 @@
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-                                                    <div class="animated">
+                                                    <div class="animated product-types">
                                                         <img src="img/products/Jeringas-de-20cc.jpg" alt=""
                                                             style="height: 375px;">
                                                         <p style="text-align: center;">JERINGA DE 20cc</p>
@@ -223,7 +223,7 @@
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-                                                    <div class="animated">
+                                                    <div class="animated product-types">
                                                         <img src="img/products/Macrogotero.jpg" alt=""
                                                             style="height: 375px;">
                                                         <p style="text-align: center;">MACROGOTERO</p>
