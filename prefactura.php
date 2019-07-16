@@ -141,13 +141,31 @@
 		}
  
 		#cantidad:focus,
-		#p-phone:focus, #p-cedula:focus{
+		#p-phone:focus, 
+		#p-cedula:focus,
+		#add-product-container:hover
+		{
 			border-bottom: 2px solid var(--border-color-hover);
 		}
 
 		#p-phone::-webkit-outer-spin-button, #p-phone::-webkit-inner-spin-button, #p-cedula::-webkit-outer-spin-button, #p-cedula::-webkit-inner-spin-button{
 			-webkit-appearance: none;
 			margin: 0;
+		}
+
+		#add-product-container{
+			position: absolute;
+			right: 0;
+			z-index: 5;
+			border-radius: 1px !important;
+			font-weight: bolder;
+			font-family: Nunito;
+			cursor: pointer;
+			border: 0;
+			padding: 5px 15px;
+			background-color: #f6f6f6;
+			border-bottom: 2px solid #e0e0e0;
+			transition: border-bottom .2s ease;
 		}
 	</style>
 </head>
@@ -276,6 +294,7 @@
 																					<span id="textdireccion" style="opacity: 0; color: #ff0000"></span>
 																				</div>
 																			</div>
+
 																			<div class="row">
 																				<div class="col span_12">
 																					<label for="label-upload-rif">Cédula / Rif</label><br>
@@ -285,31 +304,43 @@
 																					</span>
 																					<span id="textcedula-rif" style="opacity: 0; color: #ff0000"></span>
 																				</div>
-																				<div class="col span_6 mt-4">
-																				<label for="producto">Producto</label><br>
-																					<select id="producto" name="producto" style="font-size: 15px!important;">
-																							<option value="Seleccione">Seleccione</option>
-																							<option value="Macrogoteros en Y">Macrogoteros en Y - Marca Laramed</option>
-																							<option value="Jeringa de 20cc">Jeringa de 20cc - Marca Laramed</option>
-																							<option value="Jerigan de 10cc">Jerigan de 10cc - Marca Laramed</option>
-																							<option value="Buretas de 150ml">Buretas de 150ml</option>
-																							<option value="Microgoteros en Y">Microgoteros en Y</option>
-																							<option value="SealP N° 21 y 23">SealP N° 21 y 23</option>
-																							<option value="Soluciones">Soluciones</option>
-																							<option value="Jeringas de 5cc">Jeringas de 5cc</option>
-																							<option value="Jeringas de 3cc">Jeringas de 3cc</option>
-																							<option value="Jeringas de 1cc">Jeringas de 1cc</option>
-																					</select>
-																					<span id="textproducto" style="opacity: 0; color: #ff0000"></span>
-																				</div>
-																				<div class="col span_6">
-																					<label for="cantidad">Cantidad</label><br>
-																					<span class="wpcf7-form-control-wrap your-email">
-																						<input id="cantidad" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																					</span>
-																					<span id="textcantidad" style="opacity: 0; color: #ff0000"></span>
-																				</div>
+																				
 																			</div>
+
+																			<div class="row" id="wrapper-product">
+
+																				<div class="col-12" id="product-container">
+
+																					<div class="col span_6 mt-4">
+																						<label for="producto">Producto</label><br>
+																						<select id="producto" name="producto" style="font-size: 15px!important;">
+																								<option value="Seleccione">Seleccione</option>
+																								<option value="Macrogoteros en Y">Macrogoteros en Y - Marca Laramed</option>
+																								<option value="Jeringa de 20cc">Jeringa de 20cc - Marca Laramed</option>
+																								<option value="Jerigan de 10cc">Jerigan de 10cc - Marca Laramed</option>
+																								<option value="Buretas de 150ml">Buretas de 150ml</option>
+																								<option value="Microgoteros en Y">Microgoteros en Y</option>
+																								<option value="SealP N° 21 y 23">SealP N° 21 y 23</option>
+																								<option value="Soluciones">Soluciones</option>
+																								<option value="Jeringas de 5cc">Jeringas de 5cc</option>
+																								<option value="Jeringas de 3cc">Jeringas de 3cc</option>
+																								<option value="Jeringas de 1cc">Jeringas de 1cc</option>
+																						</select>
+																						<span id="textproducto" style="opacity: 0; color: #ff0000"></span>
+																					</div>
+
+																					<div class="col span_6">
+																						<label for="cantidad">Cantidad</label><br>
+																						<span class="wpcf7-form-control-wrap your-email">
+																							<input id="cantidad" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																						</span>
+																						<span id="textcantidad" style="opacity: 0; color: #ff0000"></span>
+																					</div>
+																				</div>
+																			
+																			</div>
+																					<button id="add-product-container"><i class="fa fa-plus"></i> Agregar Otro Producto</button>
+
 																			<div class="row">
 																				<p>Referencia</p>
 																				<div class="col span_6">
@@ -461,6 +492,12 @@
 			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
 			<script type='text/javascript' src='js\jquery.form.js'></script>
 			<script type='text/javascript' src='mail-contact-prefactura.js'></script>
+
+			<script>
+				$('#add-product-container').on('click',function(){
+					$('#product-container').clone().appendTo($('#wrapper-product'));
+				})
+			</script>
 		</div>
 	</div>
 </body>
