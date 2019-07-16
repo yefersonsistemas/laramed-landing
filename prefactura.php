@@ -519,6 +519,8 @@
 				});
 
 				$('.delete-product-container').on('click',function(){
+
+					if($('.product-container').length <=1) return;
 					$(this).parent('.product-container').remove();
 				});
 			</script>
