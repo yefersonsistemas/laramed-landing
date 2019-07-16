@@ -309,7 +309,7 @@
 
 																			<div class="row" id="wrapper-product">
 
-																				<div class="col-12" id="product-container">
+																				<div class="col-12 product-container">
 
 																					<div class="col span_6 mt-4">
 																						<label for="producto">Producto</label><br>
@@ -339,7 +339,7 @@
 																				</div>
 																			
 																			</div>
-																					<button id="add-product-container"><i class="fa fa-plus"></i> Agregar Otro Producto</button>
+																					<button id="add-product-container" type="button"><i class="fa fa-plus"></i> Agregar Otro Producto</button>
 
 																			<div class="row">
 																				<p>Referencia</p>
@@ -495,8 +495,10 @@
 
 			<script>
 				$('#add-product-container').on('click',function(){
-					$('#product-container').clone().appendTo($('#wrapper-product'));
-				})
+					$('.product-container:last').clone().appendTo($('#wrapper-product'));
+					
+					($('#wrapper-product .product-container:last input[type="number"]')).val('');
+				});
 			</script>
 		</div>
 	</div>
