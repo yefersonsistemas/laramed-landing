@@ -289,10 +289,16 @@
 																				<label for="producto">Producto</label><br>
 																					<select id="producto" name="producto" style="font-size: 15px!important;">
 																							<option value="Seleccione">Seleccione</option>
-																							<option value="producto 1">Producto 1</option>
-																							<option value="producto 2">Producto 2</option>
-																							<option value="producto 3">Producto 3</option>
-																							<option value="producto 4">Producto 4</option>
+																							<option value="Macrogoteros en Y">Macrogoteros en Y - Marca Laramed</option>
+																							<option value="Jeringa de 20cc">Jeringa de 20cc - Marca Laramed</option>
+																							<option value="Jerigan de 10cc">Jerigan de 10cc - Marca Laramed</option>
+																							<option value="Buretas de 150ml">Buretas de 150ml</option>
+																							<option value="Microgoteros en Y">Microgoteros en Y</option>
+																							<option value="SealP N° 21 y 23">SealP N° 21 y 23</option>
+																							<option value="Soluciones">Soluciones</option>
+																							<option value="Jeringas de 5cc">Jeringas de 5cc</option>
+																							<option value="Jeringas de 3cc">Jeringas de 3cc</option>
+																							<option value="Jeringas de 1cc">Jeringas de 1cc</option>
 																					</select>
 																					<span id="textproducto" style="opacity: 0; color: #ff0000"></span>
 																				</div>
