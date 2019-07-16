@@ -143,7 +143,8 @@
 		#cantidad:focus,
 		#p-phone:focus, 
 		#p-cedula:focus,
-		#add-product-container:hover
+		#add-product-container:hover,
+		.delete-product-container:hover
 		{
 			border-bottom: 2px solid var(--border-color-hover);
 		}
@@ -153,7 +154,8 @@
 			margin: 0;
 		}
 
-		#add-product-container{
+		#add-product-container,
+		.delete-product-container{
 			position: absolute;
 			right: 0;
 			z-index: 5;
@@ -166,6 +168,17 @@
 			background-color: #f6f6f6;
 			border-bottom: 2px solid #e0e0e0;
 			transition: border-bottom .2s ease;
+		}
+
+		.product-container{
+			position:relative;
+			display:flex;
+			flex-wrap:wrap;
+			margin-top: 1.5em;
+		}
+
+		.delete-product-container{
+			top:0;
 		}
 	</style>
 </head>
@@ -311,7 +324,9 @@
 
 																				<div class="col-12 product-container">
 
-																					<div class="col span_6 mt-4">
+																				<button class="delete-product-container" type="button"><i class="fa fa-times"></i></button>
+
+																					<div class="col span_6">
 																						<label for="producto">Producto</label><br>
 																						<select id="producto" name="producto" style="font-size: 15px!important;">
 																								<option value="Seleccione">Seleccione</option>
@@ -336,9 +351,12 @@
 																						</span>
 																						<span id="textcantidad" style="opacity: 0; color: #ff0000"></span>
 																					</div>
+																					
 																				</div>
 																			
 																			</div>
+
+																					
 																					<button id="add-product-container" type="button"><i class="fa fa-plus"></i> Agregar Otro Producto</button>
 
 																			<div class="row">
@@ -495,9 +513,13 @@
 
 			<script>
 				$('#add-product-container').on('click',function(){
-					$('.product-container:last').clone().appendTo($('#wrapper-product'));
-					
+					$('.product-container:last').clone(true).appendTo($('#wrapper-product'));
+
 					($('#wrapper-product .product-container:last input[type="number"]')).val('');
+				});
+
+				$('.delete-product-container').on('click',function(){
+					$(this).parent('.product-container').remove();
 				});
 			</script>
 		</div>
