@@ -322,7 +322,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/laramed/20190405_152811.jpg);">>
+																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Administracion.jpg);">>
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-02.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -330,7 +330,7 @@
 																			<h3>Administración</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/laramed/20190405_152811.jpg">
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Administracion.jpg">
 																		</div>
 																		<div class="nectar_team_bio">
 																		Está conformada por profesionales capacitados en el área de la administración, los cuales garantizan la implementación de los procesos adecuados para Laramed y el carisma en el servicio a nuestros clientes en el gestionamiento de los insumos requeridos.

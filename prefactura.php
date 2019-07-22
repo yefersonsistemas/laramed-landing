@@ -324,7 +324,7 @@
 
 																				<div class="col-12 product-container">
 
-																				<button class="delete-product-container" type="button"><i class="fa fa-times"></i></button>
+																				<!-- <button class="delete-product-container" type="button"><i class="fa fa-times"></i></button> -->
 
 																					<div class="col span_6">
 																						<label for="producto">Producto</label><br>
@@ -357,7 +357,7 @@
 																			</div>
 
 																					
-																					<button id="add-product-container" type="button"><i class="fa fa-plus"></i> Agregar Otro Producto</button>
+																					<!-- <button id="add-product-container" type="button"><i class="fa fa-plus"></i> Agregar Otro Producto</button> -->
 
 																			<div class="row">
 																				<p>Referencia</p>
