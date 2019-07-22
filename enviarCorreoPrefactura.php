@@ -75,7 +75,7 @@ move_uploaded_file($sourcePath,$targetPath);
                                         <p style="text-align: center; font-size: 30px;"><strong>PREFACTURA</strong></p>
                                         <p><b>Nombre y Apellido/Razon Social:</b> '.$name.'</p>
                                         <p><b>E-mail:</b> '.$email.'</p>
-                                        <p><b>Dirección Fiscal:</b> '.direccion.'</p>
+                                        <p><b>Dirección Fiscal:</b> '.$direccion.'</p>
                                         <p><b>Cédula/Rif:</b> '.$fileName.'</p>
                                         <p><b>Producto:</b> '.$producto.'</p>
                                         <p><b>Cantidad:</b> '.$cantidad.'</p>
