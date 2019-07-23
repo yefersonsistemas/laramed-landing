@@ -45,7 +45,7 @@
 					Barquisimeto, Venezuela</p>
 					<p>Telf: <a href="tel:+582518140393">(+58) 251 814 0393 </a><br>
 						Correo: <a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a><br>
-						<a href="mailto:gte.comprayventas@laramed.net">gte.comprayventas@laramed.net</a></p>
+						
 					</div>
 				</div>
 			</div>

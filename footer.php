@@ -49,7 +49,7 @@
 						piso 3 local 3-3.<br>
 						Barquisimeto, Venezuela <br>
 						Teléfono: (+58) 251 814 0393 <br>
-						<a href="mailto:gte.comprasyventas@laramen.net">gte.comprasyventas@laramen.net</a> <br>		
+						
 						<a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a>
 						</p>
 					</div>					     
