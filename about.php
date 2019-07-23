@@ -290,7 +290,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(img/about/Ventas_396X300.jpg);">
+																		<div class="team-member-image" style="background-image: url(img/about/Ventas_396X300_Sin_Logo.jpg);">
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-01.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -298,7 +298,7 @@
 																			<h3>Directiva</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749.jpg"></div>    <div class="nectar_team_bio">
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749_Sin_Logo.jpg"></div>    <div class="nectar_team_bio">
 																		Está constituido por dos (2) directores principales y un (1) director general, profesionales competentes y expertos en la gerencia de esta empresa vinculada a la salud a través de su productos de marca Laramed. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
@@ -356,7 +356,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/about/Operadores_396X300.jpg);">>
+																		<div class="team-member-image"  style="background-image: url(img/about/Operadores_396X300_Sin_Logo.jpg);">>
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-03.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -364,7 +364,7 @@
 																			<h3>Ventas</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749_Sin_Logo.jpg"></div>
 																		<div class="nectar_team_bio">
 																		Estructurada por líderes expertos en la rama, comprometidos en diagnosticar y principalmente brindar la mejor asesoría a todos nuestros clientes para efectos de cierre con una buena venta, quedando fidelizados con nosotros a través de la excelente atención que brindamos.
 																			<div class="bottom_meta">
@@ -429,7 +429,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen"> 
-																		<div class="team-member-image"  style="background-image: url(img/about/Marketing_396X300.jpg);">>
+																		<div class="team-member-image"  style="background-image: url(img/about/Marketing_396X300_Sin_Logo.jpg);">>
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-05.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -437,7 +437,7 @@
 																			<h3>Marketing y Merchadising</h3>
 																			
 																		</div>    	
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749_Sin_Logo.jpg"></div>
 																		<div class="nectar_team_bio">
 																		Diagnostican arduamente el mercado orientado en la nueva era digital y tecnológica, con el fin de diseñar, establecer y ejecutar, estrategias para el posicionamiento de Laramed, enfocados en una atención de calidad mediante un equipo de profesionales en el área, proporcionando respuestas concisas y oportunas en el ofrecimiento de nuestros productos y servicios con el uso de las tendencias digitales.
 																			<div class="bottom_meta">
@@ -462,7 +462,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/about/Atencion_al_cliente_396X300.jpg);">
+																	<div class="team-member-image"  style="background-image: url('img/about/Atencion al cliente_396X300_Sin_Logo.jpg');">>
 																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-06.png" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -471,7 +471,7 @@
 																			<h3>Protocolo</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion_al_cliente_995X749.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion al cliente_995X749_Sin_Logo.jpg"></div>
 																		<div class="nectar_team_bio">
 																		Dispuesto a orientar el sentido de una buena comunicación, responsabilizándose de la operatividad interna de Laramed para brindar óptimos resultados externamente a todos nuestros clientes, mediante procedimientos y acciones que realzan los valores de Laramed.
 																			<div class="bottom_meta">
