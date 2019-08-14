@@ -187,7 +187,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1504326206457">
 																		<div class="wpb_wrapper">
-																			<h2 class="color-titulos">Camino a los 10 años de trayectoria, seguimos elevándonos en los más altos estándares de calidad a la vanguardia de la salud, ofreciendo el mejor stock de productos.</h2>
+																			<h2 class="color-titulos">Con 10 años de trayectoria, seguimos elevándonos en los más altos estándares de calidad a la vanguardia de la salud, ofreciendo el mejor stock de productos.</h2>
 																		</div>
 																	</div>
 																</div> 
@@ -525,7 +525,7 @@
 																	<div class="nectar-milestone " data-ms-align="default">
 																		<div class="number default" data-number-size="92">
 																			<h5>
-																				<span>9</span>
+																				<span>10</span>
 																			</h5>
 																		</div> 
 																		<div class="subject" style="padding: 2%;"></div> 
@@ -636,7 +636,7 @@
 										<div class="nectar-carousel-flickity-fixed-content">
 											<div class="nectar-carousel-fixed-content">
 												<h4>ELLOS SON QUIENES RESPALDAN NUESTRA TRAYECTORIA</h4>
-												<p style="text-align: center;">Casi a los 10 años de presencia en el mercado, nuestros clientes por si solos, son los que dan garantía en la calidad de nuestro stock, acompañado de la mejor atención.</p>
+												<p style="text-align: center;">Tenemos 10 años de presencia en el mercado, nuestros clientes por si solos, son los que dan garantía en la calidad de nuestro stock, acompañado de la mejor atención.</p>
 											</div>
 
 											<div class="nectar-flickity not-initialized nectar-carousel" data-pagination-alignment="default" data-border-radius="10px" data-column-border="true" data-column-padding="50px" data-format="fixed_text_content_fullwidth" data-autoplay="true" data-autoplay-dur="7000" data-controls="material_pagination" data-desktop-columns="3" data-small-desktop-columns="2" data-tablet-columns="1">

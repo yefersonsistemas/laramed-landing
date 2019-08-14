@@ -333,7 +333,7 @@
 													class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 													<div class="wpb_wrapper">
 														<h4>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h4>
-														<h4>RUMBO A LOS 10 AÑOS</h4>
+														<h4>CON 10 AÑOS DE EXPERIENCIA</h4>
 													</div>
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp"
@@ -528,7 +528,7 @@
 												<div
 													class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
 													<div class="wpb_wrapper">
-														<p style="text-align: justify;">Próximos a cumplir 10 años de
+														<p style="text-align: justify;">Hemos cunplido 10 años de
 															trayectoria, somos un referente
 															a nivel nacional de innovación y cambio
 															constante, buscando la excelencia en nuestros
@@ -767,7 +767,7 @@
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
-																	Somos una  importadora y exportadora de Insumos Médicos Descartables, a propósito  de cumplir 10 años de experiencia, estamos comprometidos en ofrecerle a nuestros clientes, productos  de la mejor calidad al mejor precio del mercado. Contamos con un recurso humano profesional, enfocado en la diversidad de productos y calidad de servicio, siempre trabajando con optimismo y dedicación para brindar una excelente atención a nuestros clientes.</p>
+																	Somos una importadora y exportadora de Insumos Médicos Descartables, hemos logrado 10 años de experiencia, estamos comprometidos en ofrecerle a nuestros clientes, productos  de la mejor calidad al mejor precio del mercado. Contamos con un recurso humano profesional, enfocado en la diversidad de productos y calidad de servicio, siempre trabajando con optimismo y dedicación para brindar una excelente atención a nuestros clientes.</p>
 																</div>
 															</div>
 														</div>
