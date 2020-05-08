@@ -1,3 +1,25 @@
+<style>
+/* Flash class and keyframe animation */
+.flashit{
+  color:#f2f;
+	-webkit-animation: flash linear 1s infinite;
+	animation: flash linear 1s infinite;
+}
+@-webkit-keyframes flash {
+	0% { opacity: 1; } 
+	50% { opacity: .1; } 
+	100% { opacity: 1; }
+}
+@keyframes flash {
+	0% { opacity: 1; } 
+	50% { opacity: .1; } 
+	100% { opacity: 1; }
+}
+</style>
+<header>
+	<meta charset="UTF-8">
+</header>
+
 <div id="slide-out-widget-area-bg" class="slide-out-from-right dark"></div>
 
 <div id="slide-out-widget-area" class="slide-out-from-right" data-dropdown-func="separate-dropdown-parent-link" data-back-txt="Back">
@@ -13,6 +35,9 @@
 			<div class="off-canvas-menu-container mobile-only">
 
 				<ul class="menu">
+					<li>
+						<a href="productos-100-laramed.php" class="flashit">Nuevo producto</a>
+					</li>
 					<li <?=($activepageresponsive=="index")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6 menu-item-17"':'class ="menu-item menu-item-type-post_type menu-item-object-page menu-item-home page_item page-item-6 menu-item-17"'?>>
 						<a href="index.php">Inicio</a>
 					</li>

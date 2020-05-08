@@ -1,13 +1,13 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 <head>
-
+	<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="img/logos/Logo_Laramed_Favicon.webp" type="image/png">
 
 	<title>Laramed - Acerca de Nosotros</title>
 	
@@ -210,7 +210,7 @@
 							<div id="fws_5c3e38d181256" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-bottom parallax_section   " style="padding-top: 0px; padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(img/banners/Banner_Laramed_Nosotros_1040x506.jpg); background-position: center center; background-repeat: no-repeat; ">
+										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(img/banners/Banner_Laramed_Nosotros_1040x506.webp); background-position: center center; background-repeat: no-repeat; ">
 										</div>
 									</div>
 									<div class="row-bg-overlay" style="background: rgba(255,255,255,0.001); background: linear-gradient(135deg,rgba(255,255,255,0.001) 0%,rgba(10,10,10,0.87) 100%);  opacity: 0.5; ">
@@ -290,15 +290,15 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(img/about/Ventas_396X300_Sin_Logo.jpg);">
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-01.png" alt="" width="180" height="180">
+																		<div class="team-member-image" style="background-image: url(img/about/Ventas_396X300_Sin_Logo.webp);">
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-01.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Directiva</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749_Sin_Logo.jpg"></div>    <div class="nectar_team_bio">
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Ventas_995X749_Sin_Logo.webp"></div>    <div class="nectar_team_bio">
 																		Está constituido por dos (2) directores principales y un (1) director general, profesionales competentes y expertos en la gerencia de esta empresa vinculada a la salud a través de su productos de marca Laramed. 
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
@@ -322,15 +322,15 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Administracion.jpg);">>
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-02.png" alt="" width="180" height="180">
+																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Administracion.webp);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-02.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Administración</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Administracion.jpg">
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Administracion.webp">
 																		</div>
 																		<div class="nectar_team_bio">
 																		Está conformada por profesionales capacitados en el área de la administración, los cuales garantizan la implementación de los procesos adecuados para Laramed y el carisma en el servicio a nuestros clientes en el gestionamiento de los insumos requeridos.
@@ -356,15 +356,15 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/about/Operadores_396X300_Sin_Logo.jpg);">>
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-03.png" alt="" width="180" height="180">
+																		<div class="team-member-image"  style="background-image: url(img/about/Operadores_396X300_Sin_Logo.webp);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-03.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Ventas</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749_Sin_Logo.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Operadores_995X749_Sin_Logo.webp"></div>
 																		<div class="nectar_team_bio">
 																		Estructurada por líderes expertos en la rama, comprometidos en diagnosticar y principalmente brindar la mejor asesoría a todos nuestros clientes para efectos de cierre con una buena venta, quedando fidelizados con nosotros a través de la excelente atención que brindamos.
 																			<div class="bottom_meta">
@@ -396,15 +396,15 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Logistica.jpg);">>
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-04.png" alt="" width="180" height="180">
+																		<div class="team-member-image"  style="background-image: url(img/about/Banner_396x300_Logistica.webp);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-04.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Logística</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Logistica.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Banner_995x749_Logistica.webp"></div>
 																		<div class="nectar_team_bio">
 																		Conformado por un valioso personal que garantiza a la propia empresa y a nuestros clientes, la operatividad en la obtención de los materiales quirúrgicos, capacitados en planificar, dirigir y coordinar llegando a todos los rincones de Venezuela.
 																			<div class="bottom_meta">
@@ -429,15 +429,15 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen"> 
-																		<div class="team-member-image"  style="background-image: url(img/about/Marketing_396X300_Sin_Logo.jpg);">>
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-05.png" alt="" width="180" height="180">
+																		<div class="team-member-image"  style="background-image: url(img/about/Marketing_396X300_Sin_Logo.webp);">>
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-05.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
 																			<h3>Marketing y Merchadising</h3>
 																			
 																		</div>    	
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749_Sin_Logo.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Marketing_995X749_Sin_Logo.webp"></div>
 																		<div class="nectar_team_bio">
 																		Diagnostican arduamente el mercado orientado en la nueva era digital y tecnológica, con el fin de diseñar, establecer y ejecutar, estrategias para el posicionamiento de Laramed, enfocados en una atención de calidad mediante un equipo de profesionales en el área, proporcionando respuestas concisas y oportunas en el ofrecimiento de nuestros productos y servicios con el uso de las tendencias digitales.
 																			<div class="bottom_meta">
@@ -463,7 +463,7 @@
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
 																	<div class="team-member-image"  style="background-image: url('img/about/Atencion al cliente_396X300_Sin_Logo.jpg');">>
-																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-06.png" alt="" width="180" height="180">
+																			<img class="icono-img" src="img/iconos/STAFF_LARAMED-06.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
@@ -471,7 +471,7 @@
 																			<h3>Protocolo</h3>
 																			
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion al cliente_995X749_Sin_Logo.jpg"></div>
+																		<div class="nectar_team_bio_img" data-img-src="img/about/Atencion_al_cliente_396X300_Sin_Logo.webp"></div>
 																		<div class="nectar_team_bio">
 																		Dispuesto a orientar el sentido de una buena comunicación, responsabilizándose de la operatividad interna de Laramed para brindar óptimos resultados externamente a todos nuestros clientes, mediante procedimientos y acciones que realzan los valores de Laramed.
 																			<div class="bottom_meta">
@@ -606,10 +606,10 @@
 															<div class="divider-wrap" data-alignment="default">
 																<div style="height: 15px;" class="divider"></div>
 															</div>
-															<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
+															<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal" class="vc_custom_heading">¿YA HICISTE TU COTIZACIÓN?
 															</h3>
 															<a class="nectar-button large see-through-2 " style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;" href="prefactura.php" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
-																<span>Genera tu pedido</span>
+																<span>Genera tu cotización</span>
 															</a>
 															<div class="divider-wrap" data-alignment="default">
 																<div style="height: 15px;" class="divider"></div>

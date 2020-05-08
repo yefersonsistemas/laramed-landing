@@ -1,13 +1,13 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 <head>
-
+	<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="img/logos/Logo_Laramed_Favicon.webp" type="image/png">
 
 	<title>Laramed - Productos</title>
 	
@@ -155,13 +155,13 @@
 						<div class="row mtop">
 								<div class="col-12 col-md-6">
 									<a href="productos-100-laramed.php" class="product-types">
-										<img src="img/banners/Banner_1040x1040_Titulos_Productos-100-Laramed.jpg" alt="banner producto 100% laramed" class="" style="border-radius:1.25em">
+										<img src="img/banners/Banner_1040x1040_Titulos_Productos-100-Laramed.webp" alt="banner producto 100% laramed" class="" style="border-radius:1.25em">
 									</a>
 								</div>
 								
 								<div class="col-12 col-md-6">
 									<a href="productos-con-respaldo.php" class="product-types">
-										<img src="img/banners/Banner_1040x1040_Titulos_Productos-Respaldo-Laramed.jpg" alt="banner producto con respaldo laramed" class="" style="border-radius:1.25em">
+										<img src="img/banners/Banner_1040x1040_Titulos_Productos-Respaldo-Laramed.webp" alt="banner producto con respaldo laramed" class="" style="border-radius:1.25em">
 									</a>
 								</div>
 
@@ -214,7 +214,7 @@
 																		</div>
 																	</div>
 																	<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal"
-																		class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
+																		class="vc_custom_heading">¿YA HICISTE TU COTIZACIÓN?
 																	</h3>
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
@@ -222,7 +222,7 @@
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
-																		<span style="text-transform: none;">Genera tu pedido</span>
+																		<span style="text-transform: none;">Genera tu cotización</span>
 																	</a>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="height: 15px;" class="divider">
@@ -239,7 +239,7 @@
 								</div>
 								</div>
 									<div class="col-12 col-md-8" style="margin-top:50px; margin-bottom: 50px;">
-										<img src="img/another/banner_products_laramed.png" alt="" style="">
+										<img src="img/another/banner_products_laramed.webp" alt="" style="">
 									</div>
 								</div>
 							</div>

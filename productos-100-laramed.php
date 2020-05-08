@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 
     <head>
-
+        <meta charset="UTF-8">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
         <meta name="theme-color" content="#006fab" />
 
-        <link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+        <link rel=icon href="img/logos/Logo_Laramed_Favicon.webp" type="image/png">
 
         <title>Laramed - Productos</title>
 
@@ -194,39 +194,50 @@
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-12">
+
+                                        <div class="row justify-content-center" style="margin-top:25px;">
+
+                                                <div class="col-12 col-md-12 col-lg-12 d-flex justify-content-center">
+                                                    <div class="animated product-types">
+                                                        <a href="prefactura.php"><img src="img/products/Gel-antibacterial.webp" alt="" style="height: 375px;"></a>
+                                                        <p style="text-align: center;">Gel antibacterial</p>
+                                                    </div>
+                                                </div>
+
+                                            </div>
                                         
 
-                                            <div class="row justify-content-center" style="margin-top:25px;">
+                                            <div class="row justify-content-center" style="">
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                     <div class="animated product-types">
-                                                        <img src="img/products/Jeringas-de-5cc.jpg" alt=""
-                                                            style="height: 375px;">
-                                                        <p style="text-align: center;">JERINGA DE 5cc</p>
+                                                    <a href="prefactura.php"><img src="img/products/Jeringas-de-5cc.webp" alt=""
+                                                            style="height: 375px;"></a>
+                                                        <p style="text-align: center;">Jeringa de 5cc</p>
                                                     </div>
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                     <div class="animated product-types">
-                                                        <img src="img/products/Jeringas-de-10cc.jpg" alt=""
-                                                            style="height: 375px;">
-                                                        <p style="text-align: center;">JERINGA DE 10cc</p>
+                                                    <a href="prefactura.php"><img src="img/products/Jeringas-de-10cc.webp" alt=""
+                                                            style="height: 375px;"></a>
+                                                        <p style="text-align: center;">Jeringa de 10cc</p>
                                                     </div>
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                     <div class="animated product-types">
-                                                        <img src="img/products/Jeringas-de-20cc.jpg" alt=""
-                                                            style="height: 375px;">
-                                                        <p style="text-align: center;">JERINGA DE 20cc</p>
+                                                    <a href="prefactura.php"><img src="img/products/Jeringas-de-20cc.webp" alt=""
+                                                            style="height: 375px;"></a>
+                                                        <p style="text-align: center;">Jeringa de 20cc</p>
                                                     </div>
                                                 </div>
 
                                                 <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                     <div class="animated product-types">
-                                                        <img src="img/products/Macrogotero.jpg" alt=""
-                                                            style="height: 375px;">
-                                                        <p style="text-align: center;">MACROGOTERO</p>
+                                                    <a href="prefactura.php"><img src="img/products/Macrogotero.webp" alt=""
+                                                            style="height: 375px;"></a>
+                                                        <p style="text-align: center;">Macrogotero</p>
                                                     </div>
                                                 </div>
 
@@ -279,7 +290,7 @@
 																		</div>
 																	</div>
 																	<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal"
-																		class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
+																		class="vc_custom_heading">¿YA HICISTE TU COTIZACIÓN?
 																	</h3>
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
@@ -287,7 +298,7 @@
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
-																		<span style="text-transform: none;">Genera tu pedido</span>
+																		<span style="text-transform: none;">Genera tu cotización</span>
 																	</a>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="height: 15px;" class="divider">
@@ -306,8 +317,7 @@
 
 
                         </div>
-                            <img src="img/another/banner_products_laramed.png" alt="" style="display:block;margin:1.25em auto 0 auto;">
-                                     
+                            <img src="img/another/banner_products_laramed.webp" alt="" style="display:block;margin:1.25em auto 0 auto;">
                             <?php
                                 require 'footer.php';
                             ?>

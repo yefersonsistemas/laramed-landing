@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 
 <head>
 	<style>
@@ -28,11 +28,25 @@
 			max-height:380px!important;
 		}
 
+		
+		.banner-container2{
+			max-height:400px!important;
+		}
+
 		.banner-container img{
 			width: 100%!important;
 			height: 100%!important;
 			object-fit: cover;
 			max-height: 380px!important;
+			max-width: 100%!important;
+			border-radius: 5px;
+		}
+
+		.banner-container2 img{
+			width: 100%!important;
+			height: 100%!important;
+			object-fit: cover;
+			max-height: 400px!important;
 			max-width: 100%!important;
 			border-radius: 5px;
 		}
@@ -99,12 +113,12 @@
 		}
 
 	</style>
-
+	<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="img/logos/Logo_Laramed_Favicon.webp" type="image/png">
 
 	<title>Laramed - Home</title>
 
@@ -193,6 +207,17 @@
 			text-align: center;
 		}
 	</style>
+	<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '37f00fc193f8608985f61941001808e1f216a406';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
 </head>
 
 <body class="home page-template-default page page-id-6 material wpb-js-composer js-comp-ver-5.5.2 vc_responsive"
@@ -324,7 +349,7 @@
 													<div class="heading-line">
 														<div>
 															<h1 style="font-family: monospace;"><img
-																	src="img/logos/Logo_Laramed_Blanco.svg" alt=""
+																	src="img/logos/Logo_Laramed_Blanco.webp" alt=""
 																	style="width: 50%;"></h1>
 														</div>
 													</div>
@@ -333,7 +358,7 @@
 													class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 													<div class="wpb_wrapper">
 														<h4>EXPERIENCIA TRANSFORMADA EN EXCELENCIA</h4>
-														<h4>CON 10 AÑOS DE EXPERIENCIA</h4>
+														<h4>CON MÁS DE 10 AÑOS DE EXPERIENCIA</h4>
 													</div>
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp"
@@ -362,7 +387,8 @@
 															data-bg-opacity="1" data-hover-bg=""
 															data-hover-bg-opacity="1" data-animation="" data-delay="0">
 															<div class="column-bg-overlay"></div>
-															<div class="vc_column-inner">
+															<iframe width="560" height="315" src="https://www.youtube.com/embed/MU5UJhNMRbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+															<!-- <div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="nectar-video-box"
 																		data-color="default-accent-color"
@@ -400,7 +426,7 @@
 																		</div>
 																	</div>
 																</div>
-															</div>
+															</div> -->
 														</div>
 													</div>
 												</div>
@@ -459,23 +485,23 @@
 												<div class="clients no-carousel four-cols " data-he="greyscale_to_color"
 													data-additional_padding="4">
 													<div style="width:26%">
-														<img src="img/logos/Logo_Grupo_Linarez-01.png" width="274"
+														<img src="img/logos/Logo_Grupo_Linarez-01.webp" width="274"
 															height="68" alt="client">
 													</div>
 													<div style="width:26%">
-														<img src="img/logos/Logo_Orquideas.png" width="313" height="80"
+														<img src="img/logos/Logo_Orquideas.webp" width="313" height="80"
 															alt="client">
 													</div>
 													<div style="width:26%">
-														<img src="img/logos/Logo_Equipromedic.png" width="315"
+														<img src="img/logos/Logo_Equipromedic.webp" width="315"
 															height="74" alt="client">
 													</div>
 													<div style="width:26%">
-														<img src="img/logos/Logo_SinusandFace_Clinic.png" width="210"
+														<img src="img/logos/Logo_SinusandFace_Clinic.webp" width="210"
 															height="141" alt="client">
 													</div>
 													<div style="width:26%">
-														<img src="img/logos/Logo_SinusandFace_Academy.png" width="253"
+														<img src="img/logos/Logo_SinusandFace_Academy.webp" width="253"
 															height="143" alt="client">
 													</div>
 												</div>
@@ -497,6 +523,13 @@
 									</div>
 								</div>
 							</div>
+
+							<div class="banner-container2 siema-banner2">
+								<img src="img/banners/Gel-Laramed-1.webp" alt="" class="banner-img">
+								<img src="img/banners/Gel-Laramed-2.webp" alt="" class="banner-img">
+								<img src="img/banners/Gel-Laramed-3.webp" alt="" class="banner-img">
+							</div>
+
 
 							<div id="creative-services" data-midnight="dark" data-top-percent="5%"
 								data-bg-mobile-hidden=""
@@ -729,7 +762,7 @@
 														<img data-shadow="x_large_depth" data-shadow-direction="middle"
 															class="img-with-animation skip-lazy " data-delay="0"
 															height="960" width="1511"
-															data-animation="fade-in-from-right" src="img/another/Imagen_Logistica_770x720.jpg"
+															data-animation="fade-in-from-right" src="img/another/Imagen_Logistica_770x720.webp"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
@@ -831,7 +864,7 @@
 														<img data-shadow="x_large_depth" data-shadow-direction="middle"
 															class="img-with-animation skip-lazy " data-delay="0"
 															height="960" width="1511"
-															data-animation="fade-in-from-right" src="img/another/Logistica_770x720.jpg"
+															data-animation="fade-in-from-right" src="img/another/Logistica_770x720.webp"
 															sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
@@ -1005,9 +1038,9 @@
 								</div>
 							</div>
 							<div class="banner-container siema-banner">
-								<img src="img/banners/banner_laramed_1243x380_4.png" alt="" class="banner-img">
-								<img src="img/banners/banner_laramed_1243x380_2.jpg" alt="" class="banner-img">
-								<img src="img/banners/banner_laramed_1243x380_3.jpg" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_4.webp" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_2.webp" alt="" class="banner-img">
+								<img src="img/banners/banner_laramed_1243x380_3.webp" alt="" class="banner-img">
 							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%"
 								data-bottom-percent="18%" data-bg-mobile-hidden=""
@@ -1061,6 +1094,16 @@
 													</div>
 												</div>
 
+												<div class="banner-container " style="margin-top:25px;">
+
+													<div class="col-12 col-md-12 col-lg-12 d-flex justify-content-center">
+														<div class="animated product-types">
+															<a href="productos-100-laramed.php"><img src="img/products/Gel-antibacterial.webp" alt="" style="height: 375px;"></a>
+														</div>
+													</div>
+
+												</div>
+
 												<div class="row" style="padding-bottom: 0; margin-bottom: 0;">
 													<div class="post-area col  span_12 col_last masonry auto_meta_overlaid_spaced  "
 														data-ams="16px">
@@ -1072,9 +1115,9 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="products.php"></a>
+																			href="productos-100-laramed.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.jpg);">
+																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1102,9 +1145,9 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="products.php"></a>
+																			href="productos-100-laramed.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/products/Jeringas-de-5cc.jpg);">
+																				style="background-image: url(img/products/Jeringas-de-5cc.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1131,9 +1174,9 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="products.php"></a>
+																			href="productos-100-laramed.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/products/Jeringas-de-20cc.jpg);">
+																				style="background-image: url(img/products/Jeringas-de-20cc.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1166,9 +1209,9 @@
 																	<div class="post-content">
 																		<div class="content-inner">
 																			<a
-																				href="products.php"></a>
+																			href="productos-con-respaldo.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Solucion.jpg);">
+																				style="background-image: url(img/another/Banner_Productos_Respaldo_Laramed_800x450_Solucion.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1196,9 +1239,9 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="products.php"></a>
+																			href="productos-100-laramed.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/products/Macrogotero.jpg);">
+																				style="background-image: url(img/products/Macrogotero.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1226,9 +1269,9 @@
 																		<div class="content-inner">
 
 																			<a
-																				href="products.php"></a>
+																			href="productos-100-laramed.php"></a>
 																			<span class="post-featured-img"
-																				style="background-image: url(img/products/Jeringas-de-10cc.jpg);">
+																				style="background-image: url(img/products/Jeringas-de-10cc.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -1253,7 +1296,7 @@
 
 
 												<div class="banner-container">
-													<img src="img/banners/banner_laramed_1243x380_1.jpg" alt="" class="banner-img">
+													<img src="img/banners/banner_laramed_1243x380_1.webp" alt="" class="banner-img">
 												</div>
 												<div id="fws_5c3e32c716779" data-midnight=""
 													data-column-margin="default" data-bg-mobile-hidden=""
@@ -1333,7 +1376,7 @@
 																		</div>
 																	</div>
 																	<h3 style="text-align: center;font-family:Nunito;font-weight:700;font-style:normal"
-																		class="vc_custom_heading">¿YA HICISTE TU PEDIDO?
+																		class="vc_custom_heading">¿YA HICISTE TU COTIZACIÓN?
 																	</h3>
 																	<a class="nectar-button large see-through-2 "
 																		style="margin-top: 30px; margin-bottom: 1px; border-color: #ffffff; color: #ffffff;"
@@ -1341,7 +1384,7 @@
 																		data-color-override="#ffffff"
 																		data-hover-color-override="#ffffff"
 																		data-hover-text-color-override="#000000">
-																		<span style="text-transform: none;">Genera tu pedido</span>
+																		<span style="text-transform: none;">Genera tu cotización</span>
 																	</a>
 																	<div class="divider-wrap" data-alignment="default">
 																		<div style="height: 15px;" class="divider">
@@ -1435,13 +1478,13 @@
 			
 			<script>
 				var imgInstaFeed = '';
-				var userFeed = new Instafeed({
-					get: 'user',
-					userId: '174598075',
-					clientId: '	fd9a8f7d7a9643469f59f1be8dce779c',
-					accessToken: '174598075.fd9a8f7.5c1f02ed211946799f9e2a7ffbded440',
-					resolution: 'standard_resolution',
-					template: `<a class="img-insta" href="{{link}}" target="_blank" id="{{id}}">
+var userFeed = new Instafeed({
+    get: 'user',
+    userId: '174598075',
+    clientId: '	fd9a8f7d7a9643469f59f1be8dce779c',
+    accessToken: '174598075.fd9a8f7.58ff72a6ed484e188510a5b8fe9ab96d',
+    resolution: 'standard_resolution',
+    template: `<a class="img-insta" href="{{link}}" target="_blank" id="{{id}}">
 									<span class="overlay-insta">
 										<span class="metrics">
 											<i class="fa fa-heart"></i>{{likes}}
@@ -1450,52 +1493,61 @@
 									</span>
 									<img src="{{image}}"/>
 								</a>`,
-					sortBy: 'most-recent',
-					// limit: 5,
-					links: false,
-					after: function () {
+    sortBy: 'most-recent',
+    // limit: 5,
+    links: false,
+    after: function() {
 
-					var carouselInstagram = new Siema({
-						selector: '.instafeed',
-						perPage: 4,
-						onInit: function () {
-							imgInstaFeed = this.innerElements;
+        var carouselInstagram = new Siema({
+            selector: '.instafeed',
+            perPage: 4,
+            onInit: function() {
+                imgInstaFeed = this.innerElements;
 
-							imgInstaFeed.forEach(function (img) {
+                imgInstaFeed.forEach(function(img) {
 
-								var wasDraggin = false;
-								img.addEventListener('mousedown', function (e) {
-									wasDraggin = false;
-									// console.log(this);
-									this.addEventListener('mousemove', function (e) {
-										wasDraggin = true;
+                    var wasDraggin = false;
+                    img.addEventListener('mousedown', function(e) {
+                        wasDraggin = false;
+                        // console.log(this);
+                        this.addEventListener('mousemove', function(e) {
+                            wasDraggin = true;
 
-										this.addEventListener('click', function (e) {
-											aux = wasDraggin;
-											wasDraggin = false;
-											if (aux) {
-												e.preventDefault();
-											}
-										});
-									})
-
-
-								});
+                            this.addEventListener('click', function(e) {
+                                aux = wasDraggin;
+                                wasDraggin = false;
+                                if (aux) {
+                                    e.preventDefault();
+                                }
+                            });
+                        })
 
 
-							});
-						},
-					});
-					}
-					});
-					userFeed.run();
+                    });
 
+
+                });
+            },
+        });
+    }
+});
+userFeed.run();
 					
 			</script>
 
 			<script>
 			var carouselBanner = new Siema({
 				selector: '.siema-banner',
+				perPage:1,
+				loop: true
+			});
+			
+			setInterval(() => carouselBanner.next(), 2500)
+			</script>
+
+			<script>
+			var carouselBanner = new Siema({
+				selector: '.siema-banner2',
 				perPage:1,
 				loop: true
 			});

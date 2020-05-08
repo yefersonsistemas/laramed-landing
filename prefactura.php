@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 <head>
-
+	<meta charset="UTF-8">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
@@ -18,6 +18,7 @@
 	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='magnific-css' href='css\magnific.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='magnific-css' href='css\bootstrap-grid.css' type='text/css'>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 	
@@ -260,7 +261,7 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
-																			<h2>Genera tu pedido</h2>
+																			<h2>Genera tu cotización</h2>
 
 																		</div>
 																	</div>
@@ -320,41 +321,147 @@
 																				
 																			</div>
 
-																			<div class="row" id="wrapper-product">
-
-																				<div class="col-12 product-container">
-
-																				<!-- <button class="delete-product-container" type="button"><i class="fa fa-times"></i></button> -->
-
-																					<div class="col span_6">
-																						<label for="producto">Producto</label><br>
-																						<select id="producto" name="producto" style="font-size: 15px!important;">
-																								<option value="Seleccione">Seleccione</option>
-																								<option value="Macrogoteros en Y">Macrogoteros en Y - Marca Laramed</option>
-																								<option value="Jeringa de 20cc">Jeringa de 20cc - Marca Laramed</option>
-																								<option value="Jerigan de 10cc">Jerigan de 10cc - Marca Laramed</option>
-																								<option value="Buretas de 150ml">Buretas de 150ml</option>
-																								<option value="Microgoteros en Y">Microgoteros en Y</option>
-																								<option value="SealP N° 21 y 23">SealP N° 21 y 23</option>
-																								<option value="Soluciones">Soluciones</option>
-																								<option value="Jeringas de 5cc">Jeringas de 5cc</option>
-																								<option value="Jeringas de 3cc">Jeringas de 3cc</option>
-																								<option value="Jeringas de 1cc">Jeringas de 1cc</option>
-																						</select>
-																						<span id="textproducto" style="opacity: 0; color: #ff0000"></span>
-																					</div>
-
-																					<div class="col span_6">
-																						<label for="cantidad">Cantidad</label><br>
-																						<span class="wpcf7-form-control-wrap your-email">
-																							<input id="cantidad" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																						</span>
-																						<span id="textcantidad" style="opacity: 0; color: #ff0000"></span>
-																					</div>
-																					
+																			<p>Productos</p>
+																			<div class="container">
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox1" value="Antibacterial"><label class="form-check-label">Antibacterial - Laramed</label>
 																				</div>
-																			
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto" class="hideable" id="cant1" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class=" form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox2" value="Macrogoteros en Y"><label class="form-check-label"> Macrogoteros en Y - Laramed</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant2" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
 																			</div>
+
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox3" value="Jeringa de 20cc"><label class="form-check-label"> Jeringa de 20cc - Laramed</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant3" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox4" value="Jeringa de 10cc"><label class="form-check-label"> Jeringa de 10cc - Laramed</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant4" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																			</div>
+
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox5" value="Buretas de 150ml"><label class="form-check-label"> Buretas de 150ml</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant5" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox6" value="Microgoteros en Y"><label class="form-check-label"> Microgoteros en Y</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant6" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																			</div>
+
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox7" value="SealP N° 21 y 23"><label class="form-check-label"> SealP N° 21 y 23</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant7" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox8" value="Soluciones"><label class="form-check-label"> Soluciones</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant8" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																			</div>
+
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox9" value="Jeringas de 5cc"><label class="form-check-label"> Jeringas de 5cc</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant9" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox10" value="Jeringas de 3cc"><label class="form-check-label"> Jeringas de 3cc</label>
+																				</div>
+																				<div class="col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant10" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																			</div>
+
+																			<div class="row">
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="form-check col-5">
+																					<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox11" value="Jeringas de 1cc"> Jeringas de 1cc</label>
+																				</div>
+																				<div class="form-check col-1">
+																					<input placeholder="Cantidad de producto"  class="hideable" id="cant11" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																				</div>
+																				</div>
+																				</div>
+																				<div class="col-6">
+																				<div class="row">
+																				<div class="col-5">
+
+																				</div>
+																				<div class="col-1">
+
+																				</div>
+																				</div>
+																				</div>
+																			</div>
+																			</div>
+		
 
 																					
 																					<!-- <button id="add-product-container" type="button"><i class="fa fa-plus"></i> Agregar Otro Producto</button> -->
@@ -522,6 +629,56 @@
 
 					if($('.product-container').length <=1) return;
 					$(this).parent('.product-container').remove();
+				});
+			</script>
+
+<script>
+				$(document).ready(function() {
+					$(".hideable").hide();
+				});
+			</script>
+
+			<script>
+				$(document).ready(function(){
+					$("input[name$='cbox']").click(function(){
+					var radio_value = $(this).val();
+					if(radio_value=='') {
+					$(".hideable").hide();
+					}
+					else if(radio_value=='Antibacterial') {
+					$("#cant1").toggle();
+					}
+					else if(radio_value=='Macrogoteros en Y') {
+					$("#cant2").toggle();
+					}
+					else if(radio_value=='Jeringa de 20cc') {
+					$("#cant3").toggle();
+					}
+					else if(radio_value=='Jeringa de 10cc') {
+					$("#cant4").toggle();
+					}
+					else if(radio_value=='Buretas de 150ml') {
+					$("#cant5").toggle();
+					}
+					else if(radio_value=='Microgoteros en Y') {
+					$("#cant6").toggle();
+					}
+					else if(radio_value=='SealP N° 21 y 23') {
+					$("#cant7").toggle();
+					}
+					else if(radio_value=='Soluciones') {
+					$("#cant8").toggle();
+					}
+					else if(radio_value=='Jeringas de 5cc') {
+					$("#cant9").toggle();
+					}
+					else if(radio_value=='Jeringas de 3cc') {
+					$("#cant10").toggle();
+					}
+					else if(radio_value=='Jeringas de 1cc') {
+					$("#cant11").toggle();
+					}
+					});
 				});
 			</script>
 		</div>

@@ -4,6 +4,9 @@
 			--degradado2: linear-gradient(to right, rgba(73,155,234,1) 0%, rgba(69,137,233,1) 12%, rgba(45,32,227,1) 82%, rgba(36,23,212,1) 100%);
 		}
 </style>
+<header>
+	<meta charset="UTF-8">
+</header>
 <div id="footer-outer" data-midnight="light" data-cols="5" data-custom-color="true" data-disable-copyright="true" data-matching-section-color="true" data-copyright-line="true" data-using-bg-img="false" data-bg-img-overlay="0.8" data-full-width="false" data-using-widget-area="true">
 	<div id="footer-widgets" data-cols="5">
 		<div class="container">
@@ -11,7 +14,7 @@
 				<div class="col span_3">
 					<div id="text-3" class="widget widget_text">
 						<div>
-							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.svg" alt="">
+							<img style="width:300px;" src="img/logos/Logo_Laramed_Negro.webp" alt="">
 						</div>
 						<div class="textwidget">
 							<p>Copyright © 2019 Laramed C.A. J-29798576-0 | <br> Desarrollado por <a href="https://www.jaksoluciones.com">Jak Soluciones C.A.</a>
@@ -58,11 +61,11 @@
 				<div class="col span_3">
 					<div id="categories-2" class="widget widget_categories">
 						<h4>Redes Sociales</h4>
-						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-facebook-f"></i> /laramed</a></div>
-						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-twitter"></i> @laramed_ca</a></div>
-						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-instagram"></i> @laramed_ca</a></div>
-						<div><a href=""><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-youtube"></i> /laramed_youtube</a></div>
-					</div>					     
+						<div><a href="https://www.facebook.com/laramed.insumos/"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-facebook-f"></i> /laramed</a></div>
+						<div><a href="https://twitter.com/laramedca"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-twitter"></i> @laramed_ca</a></div>
+						<div><a href="https://www.instagram.com/laramed_ca/?hl=es-la"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-instagram"></i> @laramed_ca</a></div>
+						<div><a href="https://www.youtube.com/channel/UCRUw5ZLv3VViLsPq5R9k3wg/videos"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-youtube"></i> /laramed_youtube</a></div>
+					</div>				     
 				</div>
 
 			</div>
