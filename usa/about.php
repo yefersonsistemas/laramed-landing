@@ -291,12 +291,12 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(../img/about/Ventas_396X300_Sin_Logo.webp);">
+																		<div class="team-member-image" style="background-image: url(../img/about/Directiva.webp);">
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-01.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
 																		<div class="team-meta">
-																			<h3>Directiva</h3>
+																			<h3>Directive</h3>
 
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="../img/about/Ventas_995X749_Sin_Logo.webp"></div>
@@ -324,7 +324,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(../img/about/Banner_396x300_Administracion.webp);">>
+																		<div class="team-member-image" style="background-image: url(../img/about/Administración.webp);">>
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-02.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -358,7 +358,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(../img/about/Operadores_396X300_Sin_Logo.webp);">>
+																		<div class="team-member-image" style="background-image: url(../img/about/Ventas.webp);">>
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-03.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -398,7 +398,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(../img/about/Banner_396x300_Logistica.webp);">>
+																		<div class="team-member-image" style="background-image: url(../img/about/Logistica.webp);">>
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-04.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -431,7 +431,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url(../img/about/Marketing_396X300_Sin_Logo.webp);">>
+																		<div class="team-member-image" style="background-image: url(../img/about/Marketin.webp);">>
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-05.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
@@ -464,7 +464,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<div class="team-member" data-style="bio_fullscreen">
-																		<div class="team-member-image" style="background-image: url('../img/about/Atencion al cliente_396X300_Sin_Logo.webp');">>
+																		<div class="team-member-image" style="background-image: url('../img/about/Protocolo.webp');">>
 																			<img class="icono-img" src="../img/iconos/STAFF_LARAMED-06.webp" alt="" width="180" height="180">
 																		</div>
 																		<div class="team-member-overlay"></div>
