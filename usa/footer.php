@@ -48,10 +48,8 @@
 				<div class="col span_3">
 					<div id="recent-posts-2" class="widget widget_recent_entries">
 						<h4>Address</h4>
-						<p>Av. Juan Carmona. Urb. El Parque building. El Impulso,<br>
-							3rd floor local 3-3.<br>
-							Barquisimeto, Venezuela <br>
-							Telephone: (+58) 251 814 0393 <br>
+						<p>78 SW 7TH Street Suite 500 Miami FL33130.<br>
+							Telephone: +17563528947 <br>
 
 							<a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a>
 						</p>
@@ -60,7 +58,7 @@
 
 				<div class="col span_3">
 					<div id="categories-2" class="widget widget_categories">
-						<h4>Social Networks</h4>
+						<h4>Follow us on social networks</h4>
 						<div><a href="https://www.facebook.com/laramed.insumos/"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-facebook-f"></i> /laramed</a></div>
 						<div><a href="https://twitter.com/laramedca"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-twitter"></i> @laramed_ca</a></div>
 						<div><a href="https://www.instagram.com/laramed_ca/?hl=es-la"><i style="font-size: 30px; margin-bottom: 5px;" class="fab fa-instagram"></i> @laramed_ca</a></div>

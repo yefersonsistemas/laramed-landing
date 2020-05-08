@@ -45,7 +45,7 @@
             }
         } */
 
-/* @media (min-width:1081px) {
+	/* @media (min-width:1081px) {
 	.idiomas {
 		border-left: 1px solid #fff;
 		padding-left: 5px;
@@ -118,11 +118,8 @@
 				<div class="textwidget">
 					<h4>LOCATE US</h4>
 					<div class="textwidget">
-						<p>Urb. El Parque<br>
-							Edif. El Impulso<br>
-							Floor 3 - Office 3<br>
-							Barquisimeto, Venezuela</p>
-						<p>Telf: <a href="tel:+582518140393">(+58) 251 814 0393 </a><br>
+						<p>78 SW 7TH Street Suite 500 Miami FL33130.a</p><br>
+						<p>Telf: <a href="tel:+17563528947">+17563528947 </a><br>
 							Email: <a href="mailto:supervisorcv@laramed.net">supervisorcv@laramed.net</a><br>
 
 					</div>

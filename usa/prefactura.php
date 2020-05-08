@@ -542,8 +542,8 @@
 									<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
-											<div class="wpb_wrapper">
-												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13213.528315649766!2d-69.28892519667346!3d10.065824150932674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e875d876f5a7eff%3A0x16905fc2ea406888!2sLaramed+C.A!5e0!3m2!1ses!2sve!4v1552940239473" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
+											<div class="wpb_wrapper"> 
+												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.11072869967!2d-80.19594528510525!3d25.76690591467408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b684eeadddcf%3A0xf05961ea192900a4!2s78%20SW%207th%20St%20%23500%2C%20Miami%2C%20FL%2033130%2C%20USA!5e0!3m2!1sen!2sve!4v1588962713953!5m2!1sen!2sve" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
 											</div>
 										</div>
 									</div>

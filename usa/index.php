@@ -634,7 +634,7 @@
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
 																		Laramed is a company that offers disposable medical supplies and that is characterized in
-																		providing its clients with a logistics service that is not common, that is, in addition
+																		providing its customers with a logistics service that is not common, that is, in addition
 																		to shipping the required merchandise to any part of the country, we make sure to pack it
 																		with all its cared for, reaching your hands in perfect condition.</p>
 																</div>

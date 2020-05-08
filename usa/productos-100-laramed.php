@@ -180,14 +180,14 @@
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Jeringas-de-5cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">5cc syringe</p>
+                                                    <p style="text-align: center;">Nitrile gloves</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Jeringas-de-10cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">10cc syringe</p>
+                                                    <p style="text-align: center;">Latex gloves</p>
                                                 </div>
                                             </div>
 
