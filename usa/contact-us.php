@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="../img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
 	<title>Laramed - Contact us</title>
 
@@ -308,21 +308,21 @@
 			};
 		</script>
 
-		<script type='text/javascript' src='js\jquery\jquery-2.2.4.min.js'></script>
-		<script type='text/javascript' src='js\scripts.js'></script>
-		<script type='text/javascript' src='js\priority.js'></script>
-		<script type='text/javascript' src='js\modernizr.js'></script>
-		<script type='text/javascript' src='js\imagesLoaded.min.js'></script>
-		<script type='text/javascript' src='js\magnific.js'></script>
-		<script type='text/javascript' src='js\superfish.js'></script>
-		<script type='text/javascript' src='js\init.js'></script>
-		<script type='text/javascript' src='js\flickity.min.js'></script>
-		<script type='text/javascript' src='js\jquery.flexslider-min.js'></script>
-		<script type='text/javascript' src='js\isotope.min.js'></script>
-		<script type='text/javascript' src='js\touchswipe.min.js'></script>
-		<script type='text/javascript' src='js\wp-embed.min.js'></script>
-		<script type='text/javascript' src='js\js_composer_front.min.js'></script>
-		<script type='text/javascript' src='mail-contact.js'></script>
+		<script type='text/javascript' src='..\js\jquery\jquery-2.2.4.min.js'></script>
+		<script type='text/javascript' src='..\js\scripts.js'></script>
+		<script type='text/javascript' src='..\js\priority.js'></script>
+		<script type='text/javascript' src='..\js\modernizr.js'></script>
+		<script type='text/javascript' src='..\js\imagesLoaded.min.js'></script>
+		<script type='text/javascript' src='..\js\magnific.js'></script>
+		<script type='text/javascript' src='..\js\superfish.js'></script>
+		<script type='text/javascript' src='..\js\init.js'></script>
+		<script type='text/javascript' src='..\js\flickity.min.js'></script>
+		<script type='text/javascript' src='..\js\jquery.flexslider-min.js'></script>
+		<script type='text/javascript' src='..\js\isotope.min.js'></script>
+		<script type='text/javascript' src='..\js\touchswipe.min.js'></script>
+		<script type='text/javascript' src='..\js\wp-embed.min.js'></script>
+		<script type='text/javascript' src='..\js\js_composer_front.min.js'></script>
+		<script type='text/javascript' src='..\mail-contact.js'></script>
 	</div>
 	</div>
 </body>

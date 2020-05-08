@@ -104,7 +104,7 @@
 							<a href="contact-us.php">Contáctanos</a>
 						</li>
 						<li class="idiomas">
-							<a href="" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
+							<a href="#" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
 								VZLA <img class="" src="img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="">
 							</a>
 							<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="display: inline-block;">
@@ -112,15 +112,6 @@
 							</a>
 						</li>
 					</ul>
-
-					<!-- <div class="idiomas">
-						<a href="" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
-							ES <img class="img-fluid" src="img/banderas_laramed/spain_idioma_jak.webp" alt="">
-						</a>
-						<a href="" class="nav-link text-white py-0 px-0" style="display: inline-block;">
-							EN <img class="img-fluid" src="img/banderas_laramed/usa_idioma_jak.webp" alt="">
-						</a>
-					</div> -->
 
 					<ul class="buttons" data-user-set-ocm="1">
 						<li class="slide-out-widget-area-toggle" data-icon-animation="simple-transform">

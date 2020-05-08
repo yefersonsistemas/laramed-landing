@@ -107,7 +107,7 @@
 							<a href="../index.php" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
 								VZLA <img class="" src="../img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="">
 							</a>
-							<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="display: inline-block;">
+							<a href="#" class="nav-link text-white py-0 px-0" style="display: inline-block;">
 								USA <img class="" src="../img/banderas_laramed/usa_idioma_jak.webp" alt="">
 							</a>
 						</li>
