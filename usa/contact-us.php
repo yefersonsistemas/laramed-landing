@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="../img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
 	<title>Laramed - Contact us</title>
 
@@ -268,7 +268,9 @@
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
-												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13213.528315649766!2d-69.28892519667346!3d10.065824150932674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e875d876f5a7eff%3A0x16905fc2ea406888!2sLaramed+C.A!5e0!3m2!1ses!2sve!4v1552940239473" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
+												
+											<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13213.528315649766!2d-69.28892519667346!3d10.065824150932674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e875d876f5a7eff%3A0x16905fc2ea406888!2sLaramed+C.A!5e0!3m2!1ses!2sve!4v1552940239473" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+												<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1510.7178558332644!2d-80.19422544730568!3d25.76683597582367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b684eeadddcf%3A0xf05961ea192900a4!2s78%20SW%207th%20St%20%23500%2C%20Miami%2C%20FL%2033130%2C%20EE.%20UU.!5e0!3m2!1ses-419!2sve!4v1588963076562!5m2!1ses-419!2sve" width="1423" height="650" frameborder="0" allowfullscreen></iframe> -->
 											</div>
 										</div>
 									</div>
@@ -308,21 +310,21 @@
 			};
 		</script>
 
-		<script type='text/javascript' src='js\jquery\jquery-2.2.4.min.js'></script>
-		<script type='text/javascript' src='js\scripts.js'></script>
-		<script type='text/javascript' src='js\priority.js'></script>
-		<script type='text/javascript' src='js\modernizr.js'></script>
-		<script type='text/javascript' src='js\imagesLoaded.min.js'></script>
-		<script type='text/javascript' src='js\magnific.js'></script>
-		<script type='text/javascript' src='js\superfish.js'></script>
-		<script type='text/javascript' src='js\init.js'></script>
-		<script type='text/javascript' src='js\flickity.min.js'></script>
-		<script type='text/javascript' src='js\jquery.flexslider-min.js'></script>
-		<script type='text/javascript' src='js\isotope.min.js'></script>
-		<script type='text/javascript' src='js\touchswipe.min.js'></script>
-		<script type='text/javascript' src='js\wp-embed.min.js'></script>
-		<script type='text/javascript' src='js\js_composer_front.min.js'></script>
-		<script type='text/javascript' src='mail-contact.js'></script>
+		<script type='text/javascript' src='..\js\jquery\jquery-2.2.4.min.js'></script>
+		<script type='text/javascript' src='..\js\scripts.js'></script>
+		<script type='text/javascript' src='..\js\priority.js'></script>
+		<script type='text/javascript' src='..\js\modernizr.js'></script>
+		<script type='text/javascript' src='..\js\imagesLoaded.min.js'></script>
+		<script type='text/javascript' src='..\js\magnific.js'></script>
+		<script type='text/javascript' src='..\js\superfish.js'></script>
+		<script type='text/javascript' src='..\js\init.js'></script>
+		<script type='text/javascript' src='..\js\flickity.min.js'></script>
+		<script type='text/javascript' src='..\js\jquery.flexslider-min.js'></script>
+		<script type='text/javascript' src='..\js\isotope.min.js'></script>
+		<script type='text/javascript' src='..\js\touchswipe.min.js'></script>
+		<script type='text/javascript' src='..\js\wp-embed.min.js'></script>
+		<script type='text/javascript' src='..\js\js_composer_front.min.js'></script>
+		<script type='text/javascript' src='..\mail-contact.js'></script>
 	</div>
 	</div>
 </body>
