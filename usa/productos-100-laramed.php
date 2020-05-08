@@ -174,17 +174,72 @@
                                 <div class="row">
                                     <div class="col-12">
 
-                                        <div class="row justify-content-center" style="margin-top:25px;">
 
-                                            <div class="col-12 col-md-12 col-lg-12 d-flex justify-content-center">
+                                        <div class="row justify-content-center" style="margin-top: 25px;">
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Gel-antibacterial.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Hand sanitizer</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-5cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">5cc syringe</p>
                                                 </div>
                                             </div>
 
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-10cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">10cc syringe</p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-20cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">20cc syringe</p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Macrogotero.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">Insfusion set</p>
+                                                </div>
+                                            </div>
+
+
                                         </div>
 
+                                        <div class="row justify-content-center" style="margin-top: 25px;">
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-5cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">5cc syringe</p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-10cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">10cc syringe</p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-20cc.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">20cc syringe</p>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
+                                                <div class="animated product-types">
+                                                    <a href="prefactura.php"><img src="../img/products/Macrogotero.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">Insfusion set</p>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
 
                                         <div class="row justify-content-center" style="">
 

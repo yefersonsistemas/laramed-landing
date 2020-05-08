@@ -804,7 +804,7 @@
 
 													<div class="col-12 col-md-12 col-lg-12 d-flex justify-content-center">
 														<div class="animated product-types">
-															<a href="productos-100-laramed.php"><img src="../img/products/Gel-antibacterial.jpg" alt="" style="height: 375px;"></a>
+															<a href="productos-100-laramed.php"><img src="../img/products/Banner_Featured-Products_1243x380.webp" alt="" style="height: 375px;"></a>
 														</div>
 													</div>
 

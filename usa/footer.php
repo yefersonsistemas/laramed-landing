@@ -72,3 +72,19 @@
 		</div>
 	</div>
 </div>
+
+<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
+<script type='text/javascript' src='js\priority.js?ver=8.6768'></script>
+<script type='text/javascript' src='js\modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='js\imagesLoaded.min.js?ver=4.1.4'></script>
+<script type='text/javascript' src='js\magnific.js?ver=7.0.1'></script>
+<script type='text/javascript' src='js\superfish.js?ver=1.4.8'></script>
+<script type='text/javascript' src='js\init.js?ver=8.6768'></script>
+<script type='text/javascript' src='js\flickity.min.js?ver=1.1.1'></script>
+<script type='text/javascript' src='js\jquery.flexslider-min.js?ver=5.5.2'></script>
+<script type='text/javascript' src='js\isotope.min.js?ver=7.6'></script>
+<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
+<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
+<script type='text/javascript' src="https://matthewelsom.com/assets/js/libs/instafeed.min.js"></script>
+<script type='text/javascript' src="js/siema.min.js"></script>

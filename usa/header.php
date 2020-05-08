@@ -35,30 +35,30 @@
 	}
 
 	@media (min-width: 992px) and (max-width: 1080px) {
-            .idiomas {
-                display: grid !important;
-                height: 100%;
-                border-left: 1px solid #fff;
-                padding-left: 5px;
-                margin-top: 29px;
-                margin-right: 5px;
-            }
-        }
-
-@media (min-width:1081px) {
-	.idiomas {
-		border-left: 1px solid #fff;
-		padding-left: 5px;
-		height: 24px;
-		margin-top: 29px;
-		margin-right: 8px;
+		.idiomas {
+			display: grid !important;
+			height: 100%;
+			border-left: 1px solid #fff;
+			padding-left: 5px;
+			margin-top: 29px;
+			margin-right: 5px;
+		}
 	}
 
-	.idiomas {
-		display: inline-block;
-		margin-right: 8px; 
+	@media (min-width:1081px) {
+		.idiomas {
+			border-left: 1px solid #fff;
+			padding-left: 5px;
+			height: 24px;
+			margin-top: 29px;
+			margin-right: 8px;
+		}
+
+		.idiomas {
+			display: inline-block;
+			margin-right: 8px;
+		}
 	}
-}
 </style>
 
 <header id="top">
@@ -103,9 +103,9 @@
 						<li id="menu-item-216" <?= ($activepage == "contact-us") ? 'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current_page_item"' : 'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"' ?>>
 							<a href="contact-us.php">Contact us</a>
 						</li>
-						<li class="idiomas"> 
+						<li class="idiomas">
 							<a href="../index.php" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
-								VZLA <img class="" src="../img/banderas_laramed/spain_idioma_jak.webp" alt="">
+								VZLA <img class="" src="../img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="">
 							</a>
 							<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="display: inline-block;">
 								USA <img class="" src="../img/banderas_laramed/usa_idioma_jak.webp" alt="">
