@@ -12,20 +12,19 @@
 
 	<title>Laramed - Products</title>
 
-	<link rel='stylesheet' id='rgs-css' href='css\rgs.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='main-styles-css' href='css\style.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='responsive-css' href='css\responsive.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='iconsmind-css' href='css\iconsmind.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='skin-material-css' href='css\skin-material.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='js_composer_front-css' href='css\js_composer.min.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='magnific-css' href='css\magnific.css' type='text/css' media='all'>
-	<link rel='stylesheet' id='magnific-css' href='css\bootstrap-grid.css' type='text/css'>
+	<link rel='stylesheet' id='rgs-css' href='..\css\rgs.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='main-styles-css' href='..\css\style.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='responsive-css' href='..\css\responsive.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='iconsmind-css' href='..\css\iconsmind.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='skin-material-css' href='..\css\skin-material.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='js_composer_front-css' href='..\css\js_composer.min.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='magnific-css' href='..\css\magnific.css' type='text/css' media='all'>
+	<link rel='stylesheet' id='magnific-css' href='..\css\bootstrap-grid.css' type='text/css'>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
-	<script type='text/javascript' src='js\jquery\jquery.js'></script>
-	<script type='text/javascript' src='js\jquery\jquery-migrate.min.js'></script>
-
+	<script type='text/javascript' src='..\js\jquery\jquery.js'></script>
+    <script type='text/javascript' src='..\js\jquery\jquery-migrate.min.js'></script>
 	<?php
 	require 'script-header.php';
 	?>
@@ -256,19 +255,19 @@
 					};
 				</script>
 
-				<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
-				<script type='text/javascript' src='js\priority.js?ver=8.6768'></script>
-				<script type='text/javascript' src='js\modernizr.js?ver=2.6.2'></script>
-				<script type='text/javascript' src='js\imagesLoaded.min.js?ver=4.1.4'></script>
-				<script type='text/javascript' src='js\magnific.js?ver=7.0.1'></script>
-				<script type='text/javascript' src='js\superfish.js?ver=1.4.8'></script>
-				<script type='text/javascript' src='js\init.js?ver=8.6768'></script>
-				<script type='text/javascript' src='js\flickity.min.js?ver=1.1.1'></script>
-				<script type='text/javascript' src='js\jquery.flexslider-min.js?ver=5.5.2'></script>
-				<script type='text/javascript' src='js\isotope.min.js?ver=7.6'></script>
-				<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
-				<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
-				<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
+				<script type='text/javascript' src='..\js\scripts.js?ver=4.9'></script>
+				<script type='text/javascript' src='..\js\priority.js?ver=8.6768'></script>
+				<script type='text/javascript' src='..\js\modernizr.js?ver=2.6.2'></script>
+				<script type='text/javascript' src='..\js\imagesLoaded.min.js?ver=4.1.4'></script>
+				<script type='text/javascript' src='..\js\magnific.js?ver=7.0.1'></script>
+				<script type='text/javascript' src='..\js\superfish.js?ver=1.4.8'></script>
+				<script type='text/javascript' src='..\js\init.js?ver=8.6768'></script>
+				<script type='text/javascript' src='..\js\flickity.min.js?ver=1.1.1'></script>
+				<script type='text/javascript' src='..\js\jquery.flexslider-min.js?ver=5.5.2'></script>
+				<script type='text/javascript' src='..\js\isotope.min.js?ver=7.6'></script>
+				<script type='text/javascript' src='..\js\touchswipe.min.js?ver=1.0'></script>
+				<script type='text/javascript' src='..\js\wp-embed.min.js?ver=4.9.9'></script>
+				<script type='text/javascript' src='..\js\js_composer_front.min.js?ver=5.5.2'></script>
 			</div>
 		</div>
 </body>
