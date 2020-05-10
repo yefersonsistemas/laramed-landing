@@ -666,7 +666,7 @@
 								</div>
 
 							</div>
-							<div id="fws_5c3e32c7062f2" data-midnight="dark" data-top-percent="10%" data-bottom-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: calc(100vw * 0.05); ">
+							<!-- <div id="fws_5c3e32c7062f2" data-midnight="dark" data-top-percent="10%" data-bottom-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.10); padding-bottom: calc(100vw * 0.05); ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
 										<div class="row-bg    " style=""></div>
@@ -762,7 +762,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> -->
 							<div class="banner-container siema-banner">
 								<img src="../img/banners/banner_laramed_1243x380_4.webp" alt="" class="banner-img">
 								<img src="../img/banners/banner_laramed_1243x380_2.webp" alt="" class="banner-img">

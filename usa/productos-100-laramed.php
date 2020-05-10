@@ -226,15 +226,15 @@
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-20cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">20cc syringe</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Productos_Ventiladores_laramed_467x700.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">AX-400 Ventilation Machine</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Macrogotero.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Insfusion set</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Productos_VentiladoresC-5_laramed_467x700.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">C-5 Ventilation Machine</p>
                                                 </div>
                                             </div>
 
@@ -245,29 +245,22 @@
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-5cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">5cc syringe</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Productos_Ventiladoresjinling_laramed_467x700.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">JINLING 850 Ventilation Machine</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-10cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">10cc syringe</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Productos_VentiladoresPortail30_laramed_467x700.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">3D Portatil Ventilation Machine</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Jeringas-de-20cc.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">20cc syringe</p>
-                                                </div>
-                                            </div>
-
-                                            <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
-                                                <div class="animated product-types">
-                                                    <a href="prefactura.php"><img src="../img/products/Macrogotero.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Insfusion set</p>
+                                                    <a href="prefactura.php"><img src="../img/products/Productos_VentiladoresYU830_laramed_467x700.webp" alt="" style="height: 375px;"></a>
+                                                    <p style="text-align: center;">YU 830 Ventilation Machine</p>
                                                 </div>
                                             </div>
 
