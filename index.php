@@ -449,7 +449,7 @@
 							<div id="creative-services" data-midnight="dark" data-top-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg" style=""></div>
+										<div class="row-bg"></div>
 									</div>
 									<div class="row-bg-overlay"></div>
 								</div>
@@ -461,7 +461,7 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">NUESTROS VALORES EMPRESARIALES NOS DEFINEN</h3>
+														<h3 class="color-titulos text-align-center">NUESTROS VALORES EMPRESARIALES NOS DEFINEN</h3>
 													</div>
 												</div>
 												<div class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
@@ -484,7 +484,7 @@
 											<div class="wpb_wrapper">
 												<div id="fws_5c3e32c6f392d" data-midnight="" data-column-margin="none" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
 													<div class="row-bg-wrap">
-														<div class="row-bg" style=""></div>
+														<div class="row-bg"></div>
 													</div>
 													<div class="col span_12  left">
 														<div class="vc_col-sm-4 wpb_column column_container vc_column_container col padding-2-percent" data-t-w-inherits="default" data-shadow="none" data-border-radius="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
@@ -517,8 +517,14 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff;">
-																		<div class="box-bg" style=" background-color: #ff1053;"></div>
+																	<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation"
+																		data-style="color_box_basic"
+																		data-animation="fade-in-from-bottom"
+																		data-border="" data-box-color-opacity="1"
+																		data-delay="100" data-alignment="left"
+																		data-color="#ff1053" style="color: #ffffff; margin-top: 50px">
+																		<div class="box-bg"
+																			style=" background-color: #ff1053;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-praying-hands fa-3x"></i>
 																			<h4>RESPONSABILIDAD</h4>
@@ -526,8 +532,14 @@
 																		</div>
 
 																	</div>
-																	<div class="nectar-fancy-box   vc_custom_1504286112774 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#fbbc05" style="color: #ffffff;">
-																		<div class="box-bg" style=" background-color: #fbbc05;"></div>
+																	<div class="nectar-fancy-box   vc_custom_1504286112774 has-animation"
+																		data-style="color_box_basic"
+																		data-animation="fade-in-from-bottom"
+																		data-border="" data-box-color-opacity="1"
+																		data-delay="100" data-alignment="left"
+																		data-color="#fbbc05" style="color: #ffffff; margin-top: 55px">
+																		<div class="box-bg"
+																			style=" background-color: #fbbc05;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-user-shield fa-3x"></i>
 																			<h4>GARANTÍA</h4>
@@ -552,8 +564,14 @@
 																		</div>
 
 																	</div>
-																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff;">
-																		<div class="box-bg" style=" background-color: #34a853;"></div>
+																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation"
+																		data-style="color_box_basic"
+																		data-animation="fade-in-from-bottom"
+																		data-border="" data-box-color-opacity="1"
+																		data-delay="200" data-alignment="left"
+																		data-color="#34a853" style="color: #ffffff; margin-top: 85px">
+																		<div class="box-bg"
+																			style=" background-color: #34a853;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-shipping-fast fa-3x"></i>
 																			<h4>EFICACIA</h4>
@@ -603,7 +621,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">PROPÓSITO</h3>
+														<h3 class="color-titulos text-align-center">PROPÓSITO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -635,7 +653,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">BRINDANDAMOS TRANQUILIDAD Y SEGURIDAD EN EL SERVICIO</h3>
+														<h3 class="color-titulos text-align-center">BRINDANDAMOS TRANQUILIDAD Y SEGURIDAD EN EL SERVICIO</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">

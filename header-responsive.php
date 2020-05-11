@@ -15,6 +15,32 @@
 	50% { opacity: .1; } 
 	100% { opacity: 1; }
 }
+
+@media (min-width: 992px) and (max-width: 1080px) {
+	.idiomas {
+		display: grid !important;
+		height: 100%;
+		border-left: 1px solid #fff;
+		padding-left: 5px;
+		margin-top: 29px;
+		margin-right: 5px;
+	}
+}
+
+@media (min-width:1081px) {
+	.idiomas {
+		border-left: 1px solid #fff;
+		padding-left: 5px;
+		height: 24px;
+		margin-top: 29px;
+		margin-right: 8px;
+	}
+
+	.idiomas {
+		display: inline-block;
+		margin-right: 8px;
+	}
+}
 </style>
 <header>
 	<meta charset="UTF-8">
@@ -49,6 +75,14 @@
 					</li>
 					<li <?=($activepageresponsive=="contact-us")?'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current-menu-item"':'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"'?>>
 						<a href="contact-us.php">Contáctanos</a>
+					</li>
+					<li class="idiomas">
+						<a href="index.php" class="nav-link text-white py-0 px-0 pr-1" style="margin-top: 8px"> <!--display: inline-block; -->
+							VZLA 
+						</a><img class="" src="img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="" style="margin-top: 24px; margin-left: -15px">
+						<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="margin-top: 8px"> <!--display: inline-block; -->
+							USA 
+						</a><img class="" src="img/banderas_laramed/usa_idioma_jak.webp" alt="" style="margin-top: 24px; margin-left: -15px">
 					</li>
 				</ul>
 

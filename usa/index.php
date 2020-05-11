@@ -321,7 +321,7 @@
 												<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1504325323751">
 													<div class="wpb_wrapper">
 														<h4>EXPERIENCE TRANSFORMED INTO EXCELLENCE</h4>
-														<h4>WITH 10 YEARS OF EXPERIENCE</h4>
+														<h4>WITH MORE THAN 10 YEARS OF EXPERIENCE</h4>
 													</div>
 												</div>
 												<a class="nectar-button large see-through-2  wpb_animate_when_almost_visible wpb_slideInUp slideInUp" style="margin-top: 25px; margin-bottom: 85px; border-color: #ffffff; color: #ffffff;" href="#productos" data-color-override="#ffffff" data-hover-color-override="#ffffff" data-hover-text-color-override="#000000">
@@ -442,15 +442,14 @@
 
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">OUR BUSINESS VALUES DEFINE US</h3>
+														<h3 class="color-titulos text-align-center">OUR BUSINESS VALUES DEFINE US</h3>
 													</div>
 												</div>
 												<div class="wpb_text_column wpb_content_element  vc_custom_1504286255898">
 													<div class="wpb_wrapper">
 														<p style="text-align: justify;">
-															We've been around for 10 years of experience,
-															we are a national benchmark of innovation and constant change,
-															seeking excellence in our products and services.
+															We've been around for a decade, we're a National reference of innovation 
+															and constant change seeking excellence in our products and service.
 														</p>
 													</div>
 												</div>
@@ -476,7 +475,9 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-users-cog fa-3x"></i>
 																			<h4>TEAMWORK</h4>
-																			<p>The talents of the members of Laramed are of paramount importance to ensure excellent care.</p>
+																			<p>
+																				The talents of the members of LARAMED they are  of the utmost importance to ensure excellent care.
+																			</p>
 																		</div>
 
 																	</div>
@@ -485,7 +486,9 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-people-carry fa-3x"></i>
 																			<h4>COMMITMENT</h4>
-																			<p>We strive to provide the best care, committing ourselves to loyalty with those who prefer us.</p>
+																			<p>
+																				We strive to provide the best care, committing ourselves to loyalty with those who prefer us.
+																			</p>
 																		</div>
 
 																	</div>
@@ -497,12 +500,14 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff;">
+																	<div class="nectar-fancy-box   vc_custom_1504285430965 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="100" data-alignment="left" data-color="#ff1053" style="color: #ffffff; margin-top: 50px">
 																		<div class="box-bg" style=" background-color: #ff1053;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-praying-hands fa-3x"></i>
 																			<h4>RESPONSIBILITY</h4>
-																			<p>With seriousness, responsability, to the day and on the hour with immediacy to the requirements of our clients.</p>
+																			<p>
+																				With seriousness, responsability, to the day and to the our with immediacy to the requirements of our clients.
+																			</p>
 																		</div>
 
 																	</div>
@@ -510,8 +515,10 @@
 																		<div class="box-bg" style=" background-color: #fbbc05;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-user-shield fa-3x"></i>
-																			<h4>ASSURANCE</h4>
-																			<p>We heighten our values, standardized at the highest levels of quality.</p>
+																			<h4>GUARANTEE</h4>
+																			<p>
+																				We enhance our values standardize in the highest level of quality.
+																			</p>
 																		</div>
 
 																	</div>
@@ -528,16 +535,18 @@
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-check-double fa-3x"></i>
 																			<h4>QUALITY</h4>
-																			<p>We offer a wide stock of 100% guaranteed products and most importantly Laramed brand.</p>
+																			<p>
+																				We offer a wide stock of 100% guaranteed products and the most important Laramed brand.
+																			</p>
 																		</div>
 
 																	</div>
-																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff;">
+																	<div class="nectar-fancy-box   vc_custom_1504286089409 has-animation" data-style="color_box_basic" data-animation="fade-in-from-bottom" data-border="" data-box-color-opacity="1" data-delay="200" data-alignment="left" data-color="#34a853" style="color: #ffffff; margin-top: 65px">
 																		<div class="box-bg" style=" background-color: #34a853;"></div>
 																		<div class="inner" style="min-height: 0px">
 																			<i class="fas fa-shipping-fast fa-3x"></i>
 																			<h4>EFFICIENCY</h4>
-																			<p>We optimize time to increase profits through our operators and logistics service.</p>
+																			<p>We optimize time to increase profits through our operator and logistics services.</p>
 																		</div>
 																	</div>
 																</div>
@@ -554,7 +563,7 @@
 							<div id="explainer" data-midnight="dark" data-top-percent="10%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: 50px; padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg    " style=""></div>
+										<div class="row-bg"></div>
 									</div>
 									<div class="row-bg-overlay"></div>
 								</div>
@@ -583,7 +592,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">PURPOSE</h3>
+														<h3 class="color-titulos text-align-center">PURPOSE</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -597,11 +606,10 @@
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
-																		We are an importer and exporter of Disposable Medical Supplies,
-																		we have achieved 10 years of experience, we are committed to offering our customers the best
-																		quality products at the best market price. We have a professional human resource,
-																		focused on the diversity of products and quality of service,
-																		always working with optimism and dedication to provide excellent attention to our customers.</p>
+																	We are an importer and exporter of  medical supplies, we achieved 10 years of experience,
+																	we are committed to offering our customers, the best quality products at the best market price.
+																	We have a professional human resource, focused on the diversity of products and quality of services, 
+																	always working with optimism and dedication to provide excellent care to our customers.</p>
 																</div>
 															</div>
 														</div>
@@ -619,7 +627,7 @@
 											<div class="wpb_wrapper">
 												<div class="wpb_text_column wpb_content_element ">
 													<div class="wpb_wrapper">
-														<h3 class="color-titulos">WE PROVIDE TRANQUILITY AND SECURITY IN THE SERVICE</h3>
+														<h3 class="color-titulos" style="text-align: center">WE OFFER TRANQUILITY AND SECURITY</h3>
 													</div>
 												</div>
 												<div class="toggles accordion" data-style="minimal_small">
@@ -633,10 +641,9 @@
 															<div class="wpb_text_column wpb_content_element ">
 																<div class="wpb_wrapper">
 																	<p style="text-align:justify">
-																		Laramed is a company that offers disposable medical supplies and that is characterized in
-																		providing its customers with a logistics service that is not common, that is, in addition
-																		to shipping the required merchandise to any part of the country, we make sure to pack it
-																		with all its cared for, reaching your hands in perfect condition.</p>
+																	LARAMED is a company that offers medical supplies and characterized by providing its customers and 
+																	logistics service that is not common, in addition to sending the required merchandise to any part of the country, 
+																	we make sure that is packed  with all its care and reaches you in perfect condition.</p>
 																</div>
 															</div>
 														</div>
@@ -660,7 +667,7 @@
 														">
 													</div>
 												</div>
-											</div>../
+											</div>
 										</div>
 									</div>
 								</div>
@@ -771,7 +778,7 @@
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%" data-bottom-percent="18%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 150px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg    " style=""></div>
+										<div class="row-bg"></div>
 									</div>
 									<div class="row-bg-overlay"></div>
 								</div>
@@ -1023,7 +1030,7 @@
 
 			<a id="to-top" class="mobile-enabled"><i class="fa fa-angle-up"></i></a>
 
-			<link rel='stylesheet' id='animate-css-css' href='css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
+			<link rel='stylesheet' id='animate-css-css' href='..\css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
 
 			<script type='text/javascript'>
 				var wpcf7 = {
@@ -1052,21 +1059,21 @@
 				};
 			</script>
 
-			<script type='text/javascript' src='js\scripts.js?ver=4.9'></script>
-			<script type='text/javascript' src='js\priority.js?ver=8.6768'></script>
-			<script type='text/javascript' src='js\modernizr.js?ver=2.6.2'></script>
-			<script type='text/javascript' src='js\imagesLoaded.min.js?ver=4.1.4'></script>
-			<script type='text/javascript' src='js\magnific.js?ver=7.0.1'></script>
-			<script type='text/javascript' src='js\superfish.js?ver=1.4.8'></script>
-			<script type='text/javascript' src='js\init.js?ver=8.6768'></script>
-			<script type='text/javascript' src='js\flickity.min.js?ver=1.1.1'></script>
-			<script type='text/javascript' src='js\jquery.flexslider-min.js?ver=5.5.2'></script>
-			<script type='text/javascript' src='js\isotope.min.js?ver=7.6'></script>
-			<script type='text/javascript' src='js\touchswipe.min.js?ver=1.0'></script>
-			<script type='text/javascript' src='js\wp-embed.min.js?ver=4.9.9'></script>
-			<script type='text/javascript' src='js\js_composer_front.min.js?ver=5.5.2'></script>
+			<script type='text/javascript' src='..\js\scripts.js?ver=4.9'></script>
+			<script type='text/javascript' src='..\js\priority.js?ver=8.6768'></script>
+			<script type='text/javascript' src='..\js\modernizr.js?ver=2.6.2'></script>
+			<script type='text/javascript' src='..\js\imagesLoaded.min.js?ver=4.1.4'></script>
+			<script type='text/javascript' src='..\js\magnific.js?ver=7.0.1'></script>
+			<script type='text/javascript' src='..\js\superfish.js?ver=1.4.8'></script>
+			<script type='text/javascript' src='..\js\init.js?ver=8.6768'></script>
+			<script type='text/javascript' src='..\js\flickity.min.js?ver=1.1.1'></script>
+			<script type='text/javascript' src='..\js\jquery.flexslider-min.js?ver=5.5.2'></script>
+			<script type='text/javascript' src='..\js\isotope.min.js?ver=7.6'></script>
+			<script type='text/javascript' src='..\js\touchswipe.min.js?ver=1.0'></script>
+			<script type='text/javascript' src='..\js\wp-embed.min.js?ver=4.9.9'></script>
+			<script type='text/javascript' src='..\js\js_composer_front.min.js?ver=5.5.2'></script>
 			<script type='text/javascript' src="https://matthewelsom.com/assets/js/libs/instafeed.min.js"></script>
-			<script type='text/javascript' src="js/siema.min.js"></script>
+			<script type='text/javascript' src="..\js/siema.min.js"></script>
 
 			<script>
 				var imgInstaFeed = '';
