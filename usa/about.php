@@ -19,8 +19,8 @@
 	<link rel='stylesheet' id='skin-material-css' href='..\css\skin-material.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='..\css\js_composer.min.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='magnific-css' href='..\css\magnific.css' type='text/css' media='all'>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
 	<script type='text/javascript' src='..\js\jquery\jquery.js'></script>
 	<script type='text/javascript' src='..\js\jquery\jquery-migrate.min.js'></script>
@@ -211,7 +211,7 @@
 							<div id="fws_5c3e38d181256" data-midnight="light" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row  vc_row-o-equal-height vc_row-flex  vc_row-o-content-bottom parallax_section   " style="padding-top: 0px; padding-bottom: 0px; ">
 								<div class="row-bg-wrap">
 									<div class="inner-wrap">
-										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(../img/banners/Banner_Laramed_Nosotros_1040x506.webp); background-position: center center; background-repeat: no-repeat; ">
+										<div class="row-bg using-image   " data-parallax-speed="fast" style="background-image: url(../img/banners/Banner_Laramed_AboutUsFLAG_1040x506.webp); background-position: center center; background-repeat: no-repeat; ">
 										</div>
 									</div>
 									<div class="row-bg-overlay" style="background: rgba(255,255,255,0.001); background: linear-gradient(135deg,rgba(255,255,255,0.001) 0%,rgba(10,10,10,0.87) 100%);  opacity: 0.5; ">
@@ -222,7 +222,7 @@
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
 											<div class="wpb_wrapper">
-												<div id="fws_5c3e38d181e54" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; -webkit-transform:  translateY(-50%) translateX(-17%); transform:  translateY(-50%) translateX(-17%);">
+												<div id="fws_5c3e38d181e54" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; -webkit-transform:  translateY(-80%) translateX(50%); transform:  translateY(-80%) translateX(50%);">
 													<div class="row-bg-wrap">
 														<div class="row-bg   " style=""></div>
 													</div>
@@ -299,7 +299,7 @@
 																			<h3>Directive</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Ventas_995X749_Sin_Logo.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Directiva.webp"></div>
 																		<div class="nectar_team_bio">
 																			It is made up of two (2) main directors and one (1) general director, competent professionals and experts in the management of this company linked to health through its Laramed brand products.
 																			<div class="bottom_meta">
@@ -332,7 +332,7 @@
 																			<h3>Administration</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Banner_995x749_Administracion.webp">
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Administración.webp">
 																		</div>
 																		<div class="nectar_team_bio">
 																			It is made up of professionals trained in the area of ​​administration, who guarantee the implementation of the appropriate processes for Laramed and the charisma in serving our clients in managing the required supplies.
@@ -366,7 +366,7 @@
 																			<h3>Sales</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Operadores_995X749_Sin_Logo.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Ventas.webp"></div>
 																		<div class="nectar_team_bio">
 																			Structured by expert leaders in the branch, committed to diagnosing and mainly providing the best advice to all our clients for closing purposes with a good sale, remaining loyal to us through the excellent care we provide.
 																			<div class="bottom_meta">
@@ -406,7 +406,7 @@
 																			<h3>Logistics</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Banner_995x749_Logistica.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Logistica.webp"></div>
 																		<div class="nectar_team_bio">
 																			Formed by a valuable staff that guarantees the company itself and our clients, the operability in obtaining surgical materials, trained in planning, directing and coordinating reaching all corners of Venezuela.
 																			<div class="bottom_meta">
@@ -439,7 +439,7 @@
 																			<h3>Marketing and Merchadising</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Marketing_995X749_Sin_Logo.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Marketin.webp"></div>
 																		<div class="nectar_team_bio">
 																			They hard diagnose the market oriented in the new digital and technological era, in order to design, establish and execute, strategies for the positioning of Laramed, focused on quality care through a team of professionals in the area, providing concise and timely responses in offering our products and services with the use of digital trends.
 																			<div class="bottom_meta">
@@ -473,7 +473,7 @@
 																			<h3>Protocol</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Atencion al cliente_995X749_Sin_Logo.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Protocolo.webp"></div>
 																		<div class="nectar_team_bio">
 																			Willing to guide the sense of good communication, taking responsibility for the internal operations of Laramed to provide optimal results externally to all our clients, through procedures and actions that enhance Laramed's values.
 																			<div class="bottom_meta">
@@ -524,7 +524,7 @@
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
 																	<h5 style="color: rgba(255,255,255,0.63);text-align: center" class="vc_custom_heading vc_custom_1504326242419">YEARS IN THE MARKET</h5>
-																	<div class="nectar-milestone " data-ms-align="default">
+																	<div class="nectar-milestone " data-symbol="+" data-symbol-alignment="superscript" data-symbol-pos="after" data-symbol-size="40" data-ms-align="default">
 																		<div class="number default" data-number-size="92">
 																			<h5>
 																				<span>10</span>
@@ -649,12 +649,12 @@
 																	<div class="inner-wrap" style=" background-color: #ffffff;">
 																		<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
 																			<div class="inner">
-																				<p>&#8220;I can only recommend the services of Laramed, I am fascinated with their services.&#8221; </p>
-																				<div class="image-icon " style="background-image: url(../img/testimonios/Maria_Torres.webp);">
+																				<p>&#8220;I can only recommend the services of Laramed, I am fascinated by their services.&#8221; </p>
+																				<div class="image-icon " style="background-image: url(../img/testimonios/Laramed_Testimonials_AlyssaBrooks_03_960x960.webp);">
 
 																				</div>
 																				<span class="wrap">
-																					<span>María Eugenia Torres</span>
+																					<span>Alyssa Brooks</span>
 																				</span>
 																			</div>
 																		</blockquote>
@@ -666,11 +666,11 @@
 																	<div class="inner-wrap" style=" background-color: #ffffff;">
 																		<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
 																			<div class="inner">
-																				<p>&#8220;Of all the brands I have worked with, Laramed is the best, without a doubt 100% recommended.&#8221; </p>
-																				<div class="image-icon " style="background-image: url(../img/testimonios/Carmen_Jimenez.webp);">
+																				<p>&#8220;Of all the brands I've worked with, Laramed is the best, without a doubt 100% recommended.&#8221; </p>
+																				<div class="image-icon " style="background-image: url(../img/testimonios/Laramed_Testimonials_KaylaMorgan04_960x960.webp);">
 																				</div>
 																				<span class="wrap">
-																					<span>Carmen T. Jiménez</span>
+																					<span>Kayla Morgan</span>
 																				</span>
 																			</div>
 																		</blockquote>
@@ -682,10 +682,10 @@
 																	<div class="inner-wrap" style=" background-color: #ffffff;">
 																		<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
 																			<div class="inner">
-																				<p>&#8220;For more than a year I have worked with Laramed. Their attention has been great and working with them is very easy.&#8221; </p>
-																				<div class="image-icon " style="background-image: url(../img/testimonios/Jean_Kil.webp);"></div>
+																				<p>&#8220;For over a year I've worked with Laramed. Their attention has been great and working with them is very easy.&#8221; </p>
+																				<div class="image-icon " style="background-image: url(../img/testimonios/Laramed_Testimonials_JhonPope_01_960x960.webp);"></div>
 																				<span class="wrap">
-																					<span>Jean Kil</span>
+																					<span>Jhon Pope</span>
 																				</span>
 																			</div>
 																		</blockquote>
@@ -698,10 +698,10 @@
 																		<blockquote class="nectar_single_testimonial" data-color="" data-style="basic">
 																			<div class="inner">
 																				<p>&#8220;They are very efficient and they took care of me in the best way, the products were brought to my laboratory and they are of very good quality, I recommend them!&#8221; </p>
-																				<div class="image-icon " style="background-image: url(../img/testimonios/Yeferson_Salazar.webp);">
+																				<div class="image-icon " style="background-image: url(../img/testimonios/Laramed_Testimonials_AlexanderMiller02_960x960.webp);">
 																				</div>
 																				<span class="wrap">
-																					<span>Yeferson Salazar</span>
+																					<span>Alexander Miller</span>
 																				</span>
 																			</div>
 																		</blockquote>

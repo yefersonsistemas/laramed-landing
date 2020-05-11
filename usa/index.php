@@ -420,11 +420,11 @@
 								</div>
 							</div>
 
-							<div class="banner-container2 siema-banner2">
+							<!-- <div class="banner-container2 siema-banner2">
 								<img src="../img/banners/Gel-Laramed-1.webp" alt="" class="banner-img">
 								<img src="../img/banners/Gel-Laramed-2.webp" alt="" class="banner-img">
 								<img src="../img/banners/Gel-Laramed-3.webp" alt="" class="banner-img">
-							</div>
+							</div> -->
 
 
 							<div id="creative-services" data-midnight="dark" data-top-percent="5%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section  vc_row-o-equal-height vc_row-flex  vc_row-o-content-middle standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 0px; ">
@@ -566,7 +566,7 @@
 											<div class="wpb_wrapper">
 												<div class="img-with-aniamtion-wrap " data-max-width="150%" data-border-radius="10px">
 													<div class="inner" style="width:100%">
-														<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="../img/another/Imagen_Logistica_770x720.webp" sizes="100vw" alt="" style="transform: translate(61px, 0px);
+														<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="../img/another/Logistics_770x720.webp" sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
 															width: 100%;
@@ -652,7 +652,7 @@
 											<div class="wpb_wrapper">
 												<div class="img-with-aniamtion-wrap " data-max-width="150%" data-border-radius="10px">
 													<div class="inner" style="width:100%">
-														<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="../img/another/Logistica_770x720.webp" sizes="100vw" alt="" style="transform: translate(61px, 0px);
+														<img data-shadow="x_large_depth" data-shadow-direction="middle" class="img-with-animation skip-lazy " data-delay="0" height="960" width="1511" data-animation="fade-in-from-right" src="../img/another/Logistics2_770x720.webp" sizes="100vw" alt="" style="transform: translate(61px, 0px);
 															margin: 0;
 															height: auto;
 															width: 100%;
@@ -764,9 +764,9 @@
 								</div>
 							</div> -->
 							<div class="banner-container siema-banner">
-								<img src="../img/banners/banner_laramed_1243x380_4.webp" alt="" class="banner-img">
-								<img src="../img/banners/banner_laramed_1243x380_2.webp" alt="" class="banner-img">
-								<img src="../img/banners/banner_laramed_1243x380_3.webp" alt="" class="banner-img">
+								<img src="../img/banners/Banner_NationWideDelivery_Laramed_1243x380.webp" alt="" class="banner-img">
+								<img src="../img/banners/Banner_PersonalizedAttention_Gel_Laramed_1243x380.webp" alt="" class="banner-img">
+								<img src="../img/banners/Banner_GuaranteedProducts_1243x380.webp" alt="" class="banner-img">
 							</div>
 							<div id="fws_5c3e32c7094dc" data-midnight="dark" data-top-percent="5%" data-bottom-percent="18%" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row full-width-section standard_section   " style="padding-top: calc(100vw * 0.05); padding-bottom: 150px; ">
 								<div class="row-bg-wrap">
@@ -819,7 +819,7 @@
 																		<div class="content-inner">
 
 																			<a href="productos-100-laramed.php"></a>
-																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.webp);">
+																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_FaceMask_Laramed_800x450.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -846,7 +846,7 @@
 																		<div class="content-inner">
 
 																			<a href="productos-100-laramed.php"></a>
-																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.webp);">
+																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_GuantesNitrilo_Laramed_800x450.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -878,7 +878,7 @@
 																	<div class="post-content">
 																		<div class="content-inner">
 																			<a href="productos-con-respaldo.php"></a>
-																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_Respaldo_Laramed_800x450_Solucion.webp);">
+																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_MedicalGown_Laramed_800x450.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -905,7 +905,7 @@
 																		<div class="content-inner">
 
 																			<a href="productos-100-laramed.php"></a>
-																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_Respaldo_Laramed_800x450_Guantes.webp);">
+																			<span class="post-featured-img" style="background-image: url(../img/another/Banner_Productos_Portail3D_Laramed_800x450.webp);">
 																			</span>
 
 																			<div class="article-content-wrap">
@@ -930,7 +930,7 @@
 
 
 												<div class="banner-container">
-													<img src="../img/banners/banner_laramed_1243x380_1.webp" alt="" class="banner-img">
+													<img src="../img/banners/banner_repartidor_15.webp" alt="" class="banner-img">
 												</div>
 												<div id="fws_5c3e32c716779" data-midnight="" data-column-margin="default" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section    " style="padding-top: 0px; padding-bottom: 0px; ">
 													<div class="row-bg-wrap">

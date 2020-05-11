@@ -180,28 +180,28 @@
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Product_NitrileGloves_laramed_467x700.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Nitrile gloves</p>
+                                                    <p style="text-align: center;">Nitrile exam gloves</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Productos_LatexGloves_laramed_467x700.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Latex gloves</p>
+                                                    <p style="text-align: center;">Latex exam gloves</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Productos_3PYFaceMask_laramed_467x700.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Face mask 3PY</p>
+                                                    <p style="text-align: center;">3PY Surgical face mask</p>
                                                 </div>
                                             </div>
 
                                             <div class="col-12 col-md-6 col-lg-3 d-flex justify-content-center">
                                                 <div class="animated product-types">
                                                     <a href="prefactura.php"><img src="../img/products/Productos_KN95FaceMask_laramed_467x700.webp" alt="" style="height: 375px;"></a>
-                                                    <p style="text-align: center;">Face mask KN95</p>
+                                                    <p style="text-align: center;">KN95 Face mask</p>
                                                 </div>
                                             </div>
 
@@ -313,7 +313,7 @@
 
 
                     </div>
-                    <img src="../img/another/banner_products_laramed.webp" alt="" style="display:block;margin:1.25em auto 0 auto;">
+                    <img src="../img/another/banner_products.webp" alt="" style="display:block;margin:1.25em auto 0 auto;">
 
                     <?php
                     require 'footer.php';

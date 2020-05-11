@@ -19,8 +19,8 @@
 	<link rel='stylesheet' id='skin-material-css' href='..\css\skin-material.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='..\css\js_composer.min.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='magnific-css' href='..\css\magnific.css' type='text/css' media='all'>
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='https://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
 	<script type='text/javascript' src='..\js\jquery\jquery.js'></script>
 	<script type='text/javascript' src='..\js\jquery\jquery-migrate.min.js'></script>
@@ -215,6 +215,22 @@
 																				</div>
 																			</div>
 																			<div class="row">
+																				<div class="col span_6">
+																					<label for="your-phone">Phone</label><br>
+																					<span class="wpcf7-form-control-wrap your-phone">
+																						<input type="text" name="phone" id="phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+																					</span>
+																					<span id="phone" style="opacity: 0; color: #ff0000"></span>
+																				</div>
+																				<div class="col span_6">
+																					<label for="your-country">Country</label><br>
+																					<span class="wpcf7-form-control-wrap your-email">
+																						<input type="text" name="country" id="country" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-country wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																					</span>
+																					<span id="msjemail" style="opacity: 0; color: #ff0000"></span>
+																				</div>
+																			</div>
+																			<div class="row">
 																				<div class="col">
 																					<label for="asunto">Subject</label><br>
 																					<span class="wpcf7-form-control-wrap your-name">
@@ -232,7 +248,7 @@
 																			</div>
 																			<div id="success" style="padding-top: 5px; padding-bottom: 5px;"></div>
 																			<p>
-																				<input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
+																				<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
 																			</p>
 																			<div class="wpcf7-response-output wpcf7-display-none"></div>
 																		</form>

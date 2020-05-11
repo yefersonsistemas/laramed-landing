@@ -8,7 +8,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 	<meta name="theme-color" content="#006fab" />
 
-	<link rel=icon href="img/logos/Logo_Laramed_Favicon.png" type="image/png">
+	<link rel=icon href="../img/logos/Logo_Laramed_Favicon.png" type="image/png">
 
 	<title>Laramed - Contact us</title>
 
@@ -19,7 +19,7 @@
 	<link rel='stylesheet' id='skin-material-css' href='..\css\skin-material.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='js_composer_front-css' href='..\css\js_composer.min.css' type='text/css' media='all'>
 	<link rel='stylesheet' id='magnific-css' href='..\css\magnific.css' type='text/css' media='all'>
-	<!-- <link rel='stylesheet' id='magnific-css' href='..\css\bootstrap-grid.css' type='text/css'> -->
+	<link rel='stylesheet' id='magnific-css' href='..\css\bootstrap-grid.css' type='text/css'>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<link rel='stylesheet' id='redux-google-fonts-salient_redux-css' href='http://fonts.googleapis.com/css?family=Roboto%3A500%2C700%7CNunito%3A300%2C700%2C400%2C400italic%7CMuli%3A600%7CMontserrat%3A500&#038;subset=latin&#038;ver=1535163646' type='text/css' media='all'>
 
@@ -333,20 +333,20 @@
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox1" value="Antibacterial"><label class="form-check-label">Antibacterial - Laramed</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox1" value="Nitrile exam gloves"><label class="form-check-label">Nitrile exam gloves</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant1" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant1" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
 																					<div class="col-6">
 																						<div class="row">
 																							<div class=" form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox2" value="Macrogoteros en Y"><label class="form-check-label"> Macrogoteros en Y - Laramed</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox2" value="Latex exam gloves"><label class="form-check-label">Latex exam gloves</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant2" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant2" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
@@ -356,43 +356,20 @@
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox3" value="Jeringa de 20cc"><label class="form-check-label"> Jeringa de 20cc - Laramed</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox3" value="3PY Surgical face mask"><label class="form-check-label">3PY Surgical face mask</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant3" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant3" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox4" value="Jeringa de 10cc"><label class="form-check-label"> Jeringa de 10cc - Laramed</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox4" value="KN95 Face mask"><label class="form-check-label">KN95 Face mask</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant4" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																				<div class="row">
-																					<div class="col-6">
-																						<div class="row">
-																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox5" value="Buretas de 150ml"><label class="form-check-label"> Buretas de 150ml</label>
-																							</div>
-																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant5" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																							</div>
-																						</div>
-																					</div>
-																					<div class="col-6">
-																						<div class="row">
-																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox6" value="Microgoteros en Y"><label class="form-check-label"> Microgoteros en Y</label>
-																							</div>
-																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant6" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant4" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
@@ -402,43 +379,20 @@
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox7" value="SealP N° 21 y 23"><label class="form-check-label"> SealP N° 21 y 23</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox5" value="Surgical gown"><label class="form-check-label">Surgical gown</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant7" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant5" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox8" value="Soluciones"><label class="form-check-label"> Soluciones</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox6" value="Patient gown"><label class="form-check-label">Patient gown</label>
 																							</div>
 																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant8" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																							</div>
-																						</div>
-																					</div>
-																				</div>
-
-																				<div class="row">
-																					<div class="col-6">
-																						<div class="row">
-																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox9" value="Jeringas de 5cc"><label class="form-check-label"> Jeringas de 5cc</label>
-																							</div>
-																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant9" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
-																							</div>
-																						</div>
-																					</div>
-																					<div class="col-6">
-																						<div class="row">
-																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox10" value="Jeringas de 3cc"><label class="form-check-label"> Jeringas de 3cc</label>
-																							</div>
-																							<div class="col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant10" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant6" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
@@ -448,10 +402,56 @@
 																					<div class="col-6">
 																						<div class="row">
 																							<div class="form-check col-5">
-																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox11" value="Jeringas de 1cc"> Jeringas de 1cc</label>
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox7" value="AX-400 Ventilation Machine"><label class="form-check-label">AX-400 Ventilation Machine</label>
+																							</div>
+																							<div class="col-1">
+																								<input placeholder="Amount" class="hideable" id="cant7" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																							</div>
+																						</div>
+																					</div>
+																					<div class="col-6">
+																						<div class="row">
+																							<div class="form-check col-5">
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox8" value="C-5 Ventilation Machine"><label class="form-check-label">C-5 Ventilation Machine</label>
+																							</div>
+																							<div class="col-1">
+																								<input placeholder="Amount" class="hideable" id="cant8" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+
+																				<div class="row">
+																					<div class="col-6">
+																						<div class="row">
+																							<div class="form-check col-5">
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox9" value="JINLING 850 Ventilation Machine"><label class="form-check-label">JINLING 850 Ventilation Machine</label>
+																							</div>
+																							<div class="col-1">
+																								<input placeholder="Amount" class="hideable" id="cant9" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																							</div>
+																						</div>
+																					</div>
+																					<div class="col-6">
+																						<div class="row">
+																							<div class="form-check col-5">
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox10" value="3D Portatil Ventilation Machine"><label class="form-check-label">3D Portatil Ventilation Machine</label>
+																							</div>
+																							<div class="col-1">
+																								<input placeholder="Amount" class="hideable" id="cant10" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																							</div>
+																						</div>
+																					</div>
+																				</div>
+
+																				<div class="row">
+																					<div class="col-6">
+																						<div class="row">
+																							<div class="form-check col-5">
+																								<input name="cbox" class="form-check-input producto" type="checkbox" id="cbox11" value="YU 830 Ventilation Machine">YU 830 Ventilation Machine</label>
 																							</div>
 																							<div class="form-check col-1">
-																								<input placeholder="Cantidad de producto" class="hideable" id="cant11" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
+																								<input placeholder="Amount" class="hideable" id="cant11" type="number" name="cantidad" step="1" min="1" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false">
 																							</div>
 																						</div>
 																					</div>
@@ -507,7 +507,7 @@
 																			</div>
 																			<div id="success" style="padding-top: 5px; padding-bottom: 5px;"></div>
 																			<p>
-																				<input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
+																				<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" id="enviarContacto">
 																			</p>
 																			<div class="wpcf7-response-output wpcf7-display-none"></div>
 																		</form>
@@ -542,7 +542,7 @@
 									<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-t-w-inherits="default" data-border-radius="none" data-shadow="none" data-border-animation="" data-border-animation-delay="" data-border-width="none" data-border-style="solid" data-border-color="" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
 										<div class="column-bg-overlay"></div>
 										<div class="vc_column-inner">
-											<div class="wpb_wrapper"> 
+											<div class="wpb_wrapper">
 												<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.11072869967!2d-80.19594528510525!3d25.76690591467408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b684eeadddcf%3A0xf05961ea192900a4!2s78%20SW%207th%20St%20%23500%2C%20Miami%2C%20FL%2033130%2C%20USA!5e0!3m2!1sen!2sve!4v1588962713953!5m2!1sen!2sve" width="1423" height="650" frameborder="0" style="border:0" allowfullscreen></iframe>
 											</div>
 										</div>
@@ -569,7 +569,7 @@
 
 		<a id="to-top" class="mobile-enabled"><i class="fa fa-angle-up"></i></a>
 
-		<link rel='stylesheet' id='animate-css-css' href='css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
+		<link rel='stylesheet' id='animate-css-css' href='..\css\animate.min.css?ver=5.5.2' type='text/css' media='all'>
 
 		<script type='text/javascript'>
 			var nectarLove = {
@@ -657,27 +657,27 @@
 					var radio_value = $(this).val();
 					if (radio_value == '') {
 						$(".hideable").hide();
-					} else if (radio_value == 'Antibacterial') {
+					} else if (radio_value == 'Nitrile exam gloves') {
 						$("#cant1").toggle();
-					} else if (radio_value == 'Macrogoteros en Y') {
+					} else if (radio_value == 'Latex exam gloves') {
 						$("#cant2").toggle();
-					} else if (radio_value == 'Jeringa de 20cc') {
+					} else if (radio_value == '3PY Surgical face mask') {
 						$("#cant3").toggle();
-					} else if (radio_value == 'Jeringa de 10cc') {
+					} else if (radio_value == 'KN95 Face mask') {
 						$("#cant4").toggle();
-					} else if (radio_value == 'Buretas de 150ml') {
+					} else if (radio_value == 'Surgical gown') {
 						$("#cant5").toggle();
-					} else if (radio_value == 'Microgoteros en Y') {
+					} else if (radio_value == 'Patient gown') {
 						$("#cant6").toggle();
-					} else if (radio_value == 'SealP N° 21 y 23') {
+					} else if (radio_value == 'AX-400 Ventilation Machine') {
 						$("#cant7").toggle();
-					} else if (radio_value == 'Soluciones') {
+					} else if (radio_value == 'C-5 Ventilation Machine') {
 						$("#cant8").toggle();
-					} else if (radio_value == 'Jeringas de 5cc') {
+					} else if (radio_value == 'JINLING 850 Ventilation Machine') {
 						$("#cant9").toggle();
-					} else if (radio_value == 'Jeringas de 3cc') {
+					} else if (radio_value == '3D Portatil Ventilation Machine') {
 						$("#cant10").toggle();
-					} else if (radio_value == 'Jeringas de 1cc') {
+					} else if (radio_value == 'YU 830 Ventilation Machine') {
 						$("#cant11").toggle();
 					}
 				});

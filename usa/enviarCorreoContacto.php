@@ -9,6 +9,8 @@ require 'PHPMailer/SMTP.php';
 
 $name = $_POST['name'];
 $email = $_POST['email'];
+$email = $_POST['phone'];
+$email = $_POST['country'];
 $mensaje= $_POST['mensaje'];
 
 	//Envio de Correo
@@ -60,8 +62,10 @@ $mensaje= $_POST['mensaje'];
                                             </div>
                                         </div>
                                         <div style="font-family:Roboto-Regular,Helvetica,Arial,sans-serif;font-size:14px;color:rgba(0,0,0,0.87);line-height:20px;padding-top:20px; padding-left: 50px; padding-right: 50px; text-align: justify;">
-                                            <p><b>Nombre:</b> '.$name.'</p>
-                                            <p><b>E-mail:</b> '.$email.'</p>
+                                            <p><b>Nombre:</b> '.$name. '</p>
+                                            <p><b>E-mail:</b> ' . $email . '</p>
+                                            <p><b>E-mail:</b> ' . $phone . '</p>
+                                            <p><b>E-mail:</b> '.$country.'</p>
                                             <p><b>Mensaje:</b> '.$mensaje.'</p>
                                              <div style="padding-top:32px;text-align:center">
                                                 <a href="mailto:'.$email.'?subject=Escribe%20el%20asunto%20de%20este%20correo%20aquí&body=Escribe%20tu%20respuesta%20aquí." style="font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;line-height:16px;color:#ffffff;font-weight:400;text-decoration:none;font-size:14px;display:inline-block;padding:10px 24px;background-color:#006fab;border-radius:5px;min-width:90px" target="_blank" data-saferedirecturl="">
