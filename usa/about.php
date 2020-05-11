@@ -188,7 +188,10 @@
 																<div class="wpb_wrapper">
 																	<div class="wpb_text_column wpb_content_element  vc_custom_1504326206457">
 																		<div class="wpb_wrapper">
-																			<h2 class="color-titulos">With 10 years of experience, we continue to rise to the highest quality standards at the forefront of health, offering the best stock of products.</h2>
+																			<h2 class="color-titulos">
+																				For the past 10  years we continue rising to the highest standards of quality to the vanguard of the health, 
+																				offering the best stock of products.
+																			</h2>
 																		</div>
 																	</div>
 																</div>
@@ -234,9 +237,10 @@
 																	<blockquote class="nectar_single_testimonial" data-color="default" data-style="small_modern">
 																		<div class="inner">
 																			<p>
-																				<span class="open-quote">&#8221;</span>Our company has a digital and physical presence, we optimize our time and that of each of our clients, we have a health permit, we provide the best offers adapting to your pocket, we are a brand with recognition in the market and with the best care.
+																			<span class="open-quote">&#8221;</span>
+																				Our company has digital and physical presence, we optimize our time and that of each of our clients, we have sanitary permit,
+																				we provide the best offer adapting to your pocket, we are a brand with recognition in the market and with the best attention.
 																			</p>
-
 																	</blockquote>
 																</div>
 															</div>
@@ -269,11 +273,15 @@
 															<div class="column-bg-overlay"></div>
 															<div class="vc_column-inner">
 																<div class="wpb_wrapper">
-																	<h2 style="text-align: center" class="vc_custom_heading color-titulos">Our staff</h2>
+																	<h2 style="text-align: center" class="vc_custom_heading color-titulos">Our Staff</h2>
 																	<div class="divider-wrap" data-alignment="default" style="text-align:center;">
 																		<div style="margin-top: 20px; width: 40px; height: 2px; margin-bottom: 20px;" data-width="40" data-animate="yes" data-animation-delay="" data-color="accent-color" class="divider-small-border"></div>
-																		<h4 style="text-align: center; width: 90%; display:inline-block; font-size: 18px;" text-indent: 35px;>We are a team at the forefront of health, in the manufacture, purchase and sale of standardized surgical medical supplies at unsurpassed levels of quality. We work ethically, professionally and efficiently in each of the departments, committed every day to our clients, attentive and with dynamism in providing the best service, providing solutions and guaranteeing products at your disposal.</h4>
-
+																		<h4 style="text-align: center; width: 90%; display:inline-block; font-size: 18px;" text-indent: 35px;>
+																			We are a team at the forefront of health in manufacture, purchase and sale of standardize surgical 
+																			medical supplies at unbeatable quality levels. We work ethically, professionally and efficiently
+																			in each of the departments committed every day to our customers, attentive and dynamic in providing 
+																			the best service, providing solutions and ensuring products available.
+																		</h4>
 																	</div>
 																</div>
 															</div>
@@ -335,7 +343,9 @@
 																		<div class="nectar_team_bio_img" data-img-src="../img/about/Banner_995x749_Administracion.webp">
 																		</div>
 																		<div class="nectar_team_bio">
-																			It is made up of professionals trained in the area of ​​administration, who guarantee the implementation of the appropriate processes for Laramed and the charisma in serving our clients in managing the required supplies.
+																			Made up of professionals trained in the area of administration who guarantee 
+																			the implementation of adequate processes for Laramed and charisma in the sense 
+																			of our clients in the management of the required inputs.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -367,8 +377,10 @@
 
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="../img/about/Operadores_995X749_Sin_Logo.webp"></div>
-																		<div class="nectar_team_bio">
-																			Structured by expert leaders in the branch, committed to diagnosing and mainly providing the best advice to all our clients for closing purposes with a good sale, remaining loyal to us through the excellent care we provide.
+																		<div class="nectar_team_bio">																			
+																			Structure by leading experts in the field, committed to diagnosing and 
+																			mainly providing the best advice to all our customers for purpose of 
+																			closing with a good sale, remaining loyal yo us through the excellent attention we provide.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -408,7 +420,8 @@
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="../img/about/Banner_995x749_Logistica.webp"></div>
 																		<div class="nectar_team_bio">
-																			Formed by a valuable staff that guarantees the company itself and our clients, the operability in obtaining surgical materials, trained in planning, directing and coordinating reaching all corners of Venezuela.
+																			Made up valuable staff that guarantees the company itself and our clients the operability 
+																			in obtaining surgical materials. Trained planning, directing and coordinating, reaching all corners of the country.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -441,7 +454,9 @@
 																		</div>
 																		<div class="nectar_team_bio_img" data-img-src="../img/about/Marketing_995X749_Sin_Logo.webp"></div>
 																		<div class="nectar_team_bio">
-																			They hard diagnose the market oriented in the new digital and technological era, in order to design, establish and execute, strategies for the positioning of Laramed, focused on quality care through a team of professionals in the area, providing concise and timely responses in offering our products and services with the use of digital trends.
+																			Arduosly diagnosing marketing oriented in the new digital and technology era in order to design, 
+																			establish and execute strategies for the operation of professionals in the area. Providing concise and 
+																			timely responses in offering our products and services with the use of digital trends.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -473,9 +488,11 @@
 																			<h3>Protocol</h3>
 
 																		</div>
-																		<div class="nectar_team_bio_img" data-img-src="../img/about/Atencion al cliente_995X749_Sin_Logo.webp"></div>
+																		<div class="nectar_team_bio_img" data-img-src="../img/about/Protocolo.webp"></div>
 																		<div class="nectar_team_bio">
-																			Willing to guide the sense of good communication, taking responsibility for the internal operations of Laramed to provide optimal results externally to all our clients, through procedures and actions that enhance Laramed's values.
+																			Willing to guide the sense of good communication taking responsability for the internal 
+																			operation of Laramed to provide optimal results externally to all our clients, through 
+																			procedures and actions that enhance Laramed's  values.
 																			<div class="bottom_meta">
 																				<a href="# " target="_blank">
 																					<i class="fab fa-facebook-f"></i>
@@ -639,7 +656,7 @@
 												<div class="wpb_wrapper">
 													<div class="nectar-carousel-flickity-fixed-content">
 														<div class="nectar-carousel-fixed-content">
-															<h4>THEY ARE WHO SUPPORT OUR TRAJECTORY</h4>
+															<h4 class="text-align-center">THEY ARE WHO SUPPORT OUR TRAJECTORY</h4>
 															<p style="text-align: center;">We have 10 years of presence in the market, our clients alone are the ones that guarantee the quality of our stock, accompanied by the best care.</p>
 														</div>
 

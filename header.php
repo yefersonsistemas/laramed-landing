@@ -104,12 +104,12 @@
 							<a href="contact-us.php">Contáctanos</a>
 						</li>
 						<li class="idiomas">
-							<a href="#" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
-								VZLA <img class="" src="img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="">
-							</a>
-							<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="display: inline-block;">
-								USA <img class="" src="img/banderas_laramed/usa_idioma_jak.webp" alt="">
-							</a>
+							<a href="index.php" class="nav-link text-white py-0 px-0 pr-1" style="margin-top: 8px"> <!--display: inline-block; -->
+								VZLA 
+							</a><img class="" src="img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="" style="margin-top: 24px; margin-left: -15px">
+							<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="margin-top: 8px"> <!--display: inline-block; -->
+								USA 
+							</a><img class="" src="img/banderas_laramed/usa_idioma_jak.webp" alt="" style="margin-top: 24px; margin-left: -15px">
 						</li>
 					</ul>
 
