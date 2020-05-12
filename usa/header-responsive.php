@@ -94,14 +94,14 @@
 					<li <?= ($activepageresponsive == "contact-us") ? 'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 current-menu-item"' : 'class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"' ?>>
 						<a href="contact-us.php">Contact us</a>
 					</li>
-					<!-- <li class="idiomas"> 
-						<a href="" class="nav-link text-white py-0 px-0 pr-1" style="display: inline-block;">
-							ES <img class="" src="img/banderas_laramed/spain_idioma_jak.webp" alt="">
-						</a>
-						<a href="usa/index.php" class="nav-link text-white py-0 px-0" style="display: inline-block;">
-							EN <img class="" src="img/banderas_laramed/usa_idioma_jak.webp" alt="">
-						</a>
-					</li> -->
+					<li style="boder-left: 1px solid black">
+						<a href="../index.php" class="nav-link text-white py-0 px-0 pr-1"  style="margin-top: 0px">
+							VZLA 
+						</a><img class="" src="../img/banderas_laramed/spain-Vzla_idioma_jak.webp" alt="" style="margin-top: 16px; margin-left: -15px">
+						<a href="index.php" class="nav-link text-white py-0 px-0"  style="margin-top: 0px">
+							USA 
+						</a><img class="" src="../img/banderas_laramed/usa_idioma_jak.webp" alt="" style="margin-top: 16px; margin-left: -15px">
+					</li>
 				</ul>
 
 				<ul class="menu secondary-header-items"></ul>
